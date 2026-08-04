@@ -7,7 +7,7 @@ This list is rebuilt every night from live checks. Every remote endpoint gets a 
 JSON-RPC handshake every 15 minutes; install counts come from npm and PyPI. Nothing
 here is curated manually, which is why nothing here goes stale.
 
-**Last rebuilt:** 4 August 2026, 15:21 UTC · **20 107 servers tracked** · **7 966 answering right now** ·
+**Last rebuilt:** 4 August 2026, 15:25 UTC · **20 107 servers tracked** · **7 966 answering right now** ·
 **2 263 listed as active but silent**
 
 > Full data, updated nightly: [mcpbeat.com](https://mcpbeat.com) ·
