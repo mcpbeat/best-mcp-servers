@@ -1,7 +1,7 @@
 {
   "source": "https://mcpbeat.com",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "generated": "2026-08-04T15:19:12Z",
+  "generated": "2026-08-04T15:20:25Z",
   "servers": [
     {
       "rank": 1,
@@ -9,6 +9,7 @@
       "title": "Homespun",
       "url": "https://mcpbeat.com/mcp-servers/homespun/homespun",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 5127,
       "tools": 22,
       "repository": "https://github.com/homespunapps/homespun"
@@ -19,6 +20,7 @@
       "title": "SAP MCP Server",
       "url": "https://mcpbeat.com/mcp-servers/oobeprotocol.sap.mcp/sap-mcp",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 2184,
       "tools": 368,
       "repository": "https://github.com/OOBE-PROTOCOL/sap-mcp"
@@ -29,6 +31,7 @@
       "title": "io.github.ariekogan/ateam-mcp",
       "url": "https://mcpbeat.com/mcp-servers/ariekogan/ateam-mcp",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 2125,
       "tools": 47,
       "repository": "https://github.com/ariekogan/ateam-mcp"
@@ -39,6 +42,7 @@
       "title": "GoldenMatch",
       "url": "https://mcpbeat.com/mcp-servers/benseverndev-oss/goldenmatch",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 1829,
       "tools": 77,
       "repository": "https://github.com/benseverndev-oss/goldenmatch"
@@ -49,6 +53,7 @@
       "title": "Svelte MCP",
       "url": "https://mcpbeat.com/mcp-servers/svelte/mcp",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 20760,
       "tools": 4,
       "repository": "https://github.com/sveltejs/ai-tools"
@@ -59,6 +64,7 @@
       "title": "io.github.eidetic-works/nucleus",
       "url": "https://mcpbeat.com/mcp-servers/eidetic-works/nucleus",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 2042,
       "tools": 28,
       "repository": "https://github.com/eidetic-works/nucleus-mcp"
@@ -69,6 +75,7 @@
       "title": "NVIDIA AI CKG",
       "url": "https://mcpbeat.com/mcp-servers/yarmoluk/ckg-nvidia-ai",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 7101,
       "tools": 9,
       "repository": "https://github.com/Yarmoluk/ckg-nvidia-ai"
@@ -79,6 +86,7 @@
       "title": "Hermoso",
       "url": "https://mcpbeat.com/mcp-servers/hermoso-ai/hermoso",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 1247,
       "tools": 262,
       "repository": "https://github.com/hermoso-ai/hermoso"
@@ -89,6 +97,7 @@
       "title": "Semiotic",
       "url": "https://mcpbeat.com/mcp-servers/nteract/semiotic",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 10878,
       "tools": 5,
       "repository": "https://github.com/nteract/semiotic"
@@ -99,6 +108,7 @@
       "title": "NVIDIA NemoClaw CKG",
       "url": "https://mcpbeat.com/mcp-servers/yarmoluk/ckg-nvidia-nemoclaw",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 5714,
       "tools": 8,
       "repository": "https://github.com/Yarmoluk/ckg-nvidia-nemoclaw"
@@ -109,6 +119,7 @@
       "title": "Salesforce AgentForce CKG",
       "url": "https://mcpbeat.com/mcp-servers/yarmoluk/ckg-agentforce",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 4390,
       "tools": 10,
       "repository": "https://github.com/Yarmoluk/ckg-agentforce"
@@ -119,6 +130,7 @@
       "title": "Supabase",
       "url": "https://mcpbeat.com/mcp-servers/supabase/mcp",
       "status": "alive",
+      "uptime_30d": 99.3,
       "installs_per_week": 79816,
       "tools": 0,
       "repository": "https://github.com/supabase/mcp"
@@ -129,6 +141,7 @@
       "title": "DomainKits",
       "url": "https://mcpbeat.com/mcp-servers/abtdomain/domainkits-mcp",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 1073,
       "tools": 28,
       "repository": "https://github.com/ABTdomain/domainkits-mcp"
@@ -139,6 +152,7 @@
       "title": "DERO MCP Server",
       "url": "https://mcpbeat.com/mcp-servers/dhebp/dero-mcp-server",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 850,
       "tools": 33,
       "repository": "https://github.com/DHEBP/dero-mcp-server"
@@ -149,6 +163,7 @@
       "title": "Axint",
       "url": "https://mcpbeat.com/mcp-servers/agenticempire/axint",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 768,
       "tools": 36,
       "repository": "https://github.com/agenticempire/axint"
@@ -159,6 +174,7 @@
       "title": "io.github.cyanheads/pubmed-mcp-server",
       "url": "https://mcpbeat.com/mcp-servers/cyanheads/pubmed-mcp-server",
       "status": "alive",
+      "uptime_30d": 99.3,
       "installs_per_week": 2995,
       "tools": 11,
       "repository": "https://github.com/cyanheads/pubmed-mcp-server"
@@ -169,6 +185,7 @@
       "title": "Numeratica — financial planning calculations",
       "url": "https://mcpbeat.com/mcp-servers/numeratica/mcp",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 743,
       "tools": 76,
       "repository": "https://github.com/numeratica/mcp"
@@ -179,6 +196,7 @@
       "title": "AIOProductOS MCP",
       "url": "https://mcpbeat.com/mcp-servers/aioproductos/mcp",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 685,
       "tools": 71,
       "repository": "https://github.com/AIOProductOS/claude-plugin"
@@ -189,6 +207,7 @@
       "title": "HPSILab Quant Finance",
       "url": "https://mcpbeat.com/mcp-servers/haiyunsky/hpsilab-quant-finance-mcp",
       "status": "alive",
+      "uptime_30d": 98,
       "installs_per_week": 2906,
       "tools": 10,
       "repository": "https://github.com/haiyunsky/hpsilab-quant-finance-mcp"
@@ -199,6 +218,7 @@
       "title": "Blixtworks",
       "url": "https://mcpbeat.com/mcp-servers/blixtworks.www/tools",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 574,
       "tools": 68,
       "repository": "https://github.com/Eggis70/img-categorize"
@@ -209,6 +229,7 @@
       "title": "AILANG Parse",
       "url": "https://mcpbeat.com/mcp-servers/sunholo-data/parse",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 640,
       "tools": 31,
       "repository": "https://github.com/sunholo-data/ailang-parse"
@@ -219,6 +240,7 @@
       "title": "Australian Economic Data (ABS, RBA \u0026 APRA)",
       "url": "https://mcpbeat.com/mcp-servers/anthonypuggs/ausecon-mcp-server",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 1479,
       "tools": 14,
       "repository": "https://github.com/AnthonyPuggs/ausecon-mcp-server"
@@ -229,6 +251,7 @@
       "title": "io.github.cyanheads/courtlistener-mcp-server",
       "url": "https://mcpbeat.com/mcp-servers/cyanheads/courtlistener-mcp-server",
       "status": "alive",
+      "uptime_30d": 99.3,
       "installs_per_week": 1384,
       "tools": 14,
       "repository": "https://github.com/cyanheads/courtlistener-mcp-server"
@@ -239,6 +262,7 @@
       "title": "Signal8",
       "url": "https://mcpbeat.com/mcp-servers/signal8/mcp",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 459,
       "tools": 92,
       "repository": "https://github.com/signal8ai/signal8-mcp"
@@ -249,6 +273,7 @@
       "title": "GoldenCheck",
       "url": "https://mcpbeat.com/mcp-servers/benseverndev-oss/goldencheck",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 892,
       "tools": 19,
       "repository": "https://github.com/benseverndev-oss/goldencheck"
@@ -259,6 +284,7 @@
       "title": "DataNexus MCP",
       "url": "https://mcpbeat.com/mcp-servers/datanexusmcp/mcp-server",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 430,
       "tools": 55
     },
@@ -268,6 +294,7 @@
       "title": "TensorFeed",
       "url": "https://mcpbeat.com/mcp-servers/tensorfeed/mcp-server",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 428,
       "tools": 33,
       "repository": "https://github.com/RipperMercs/tensorfeed-mcp"
@@ -278,6 +305,7 @@
       "title": "com.sulvo.publisher-revenue-audit/audit",
       "url": "https://mcpbeat.com/mcp-servers/sulvo.publisher-revenue-audit/audit",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 402,
       "tools": 37
     },
@@ -287,6 +315,7 @@
       "title": "PinAppAI",
       "url": "https://mcpbeat.com/mcp-servers/pinappai/mcp",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 392,
       "tools": 38
     },
@@ -296,6 +325,7 @@
       "title": "Backtest360",
       "url": "https://mcpbeat.com/mcp-servers/backtest360/backtest360",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 758,
       "tools": 20,
       "repository": "https://github.com/Backtest360/backtest360-mcp"
@@ -306,6 +336,7 @@
       "title": "Run402",
       "url": "https://mcpbeat.com/mcp-servers/run402/mcp",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 4436,
       "tools": 4,
       "repository": "https://github.com/kychee-com/run402"
@@ -316,6 +347,7 @@
       "title": "Sayba AI Agent Social Platform",
       "url": "https://mcpbeat.com/mcp-servers/saybanet/sayba-platform",
       "status": "alive",
+      "uptime_30d": 98,
       "installs_per_week": 550,
       "tools": 25,
       "repository": "https://github.com/saybanet/sayba-platform-mcp-server"
@@ -326,6 +358,7 @@
       "title": "io.github.cyanheads/usaspending-mcp-server",
       "url": "https://mcpbeat.com/mcp-servers/cyanheads/usaspending-mcp-server",
       "status": "alive",
+      "uptime_30d": 99.3,
       "installs_per_week": 751,
       "tools": 18,
       "repository": "https://github.com/cyanheads/usaspending-mcp-server"
@@ -336,6 +369,7 @@
       "title": "Math MCP Learning",
       "url": "https://mcpbeat.com/mcp-servers/clouatre-labs/math-mcp-learning-server",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 790,
       "tools": 17,
       "repository": "https://github.com/clouatre-labs/math-mcp-learning-server"
@@ -346,6 +380,7 @@
       "title": "data-breach-detector",
       "url": "https://mcpbeat.com/mcp-servers/beepboop2025/data-breach-detector",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 2170,
       "tools": 7,
       "repository": "https://github.com/beepboop2025/data-breach-detector"
@@ -356,6 +391,7 @@
       "title": "com.savvly/savvly",
       "url": "https://mcpbeat.com/mcp-servers/savvly/savvly",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 1861,
       "tools": 8,
       "repository": "https://github.com/Savvly/savvly-mcp"
@@ -366,6 +402,7 @@
       "title": "io.github.Kali123411/k402",
       "url": "https://mcpbeat.com/mcp-servers/kali123411/k402",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 327,
       "tools": 36
     },
@@ -375,6 +412,7 @@
       "title": "Clipform",
       "url": "https://mcpbeat.com/mcp-servers/clipform/mcp-server",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 382,
       "tools": 30,
       "repository": "https://github.com/clipform/mcp-server"
@@ -385,6 +423,7 @@
       "title": "Chronary",
       "url": "https://mcpbeat.com/mcp-servers/chronary/mcp",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 320,
       "tools": 54,
       "repository": "https://github.com/Chronary/chronary-mcp"
@@ -395,6 +434,7 @@
       "title": "io.github.cyanheads/secedgar-mcp-server",
       "url": "https://mcpbeat.com/mcp-servers/cyanheads/secedgar-mcp-server",
       "status": "alive",
+      "uptime_30d": 99.3,
       "installs_per_week": 805,
       "tools": 16,
       "repository": "https://github.com/cyanheads/secedgar-mcp-server"
@@ -405,6 +445,7 @@
       "title": "Agent402.Tools — pay-per-call web tools",
       "url": "https://mcpbeat.com/mcp-servers/mikeypetrillo/agent402",
       "status": "alive",
+      "uptime_30d": 97.3,
       "installs_per_week": 705,
       "tools": 17,
       "repository": "https://github.com/MikeyPetrillo/Agent402"
@@ -415,6 +456,7 @@
       "title": "io.github.cyanheads/pubchem-mcp-server",
       "url": "https://mcpbeat.com/mcp-servers/cyanheads/pubchem-mcp-server",
       "status": "alive",
+      "uptime_30d": 99.3,
       "installs_per_week": 1179,
       "tools": 10,
       "repository": "https://github.com/cyanheads/pubchem-mcp-server"
@@ -425,6 +467,7 @@
       "title": "CoinRithm Agent Trading",
       "url": "https://mcpbeat.com/mcp-servers/coinrithm/mcp-trading",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 269,
       "tools": 37,
       "repository": "https://github.com/CoinRithm/coinrithm-agent-trading"
@@ -435,6 +478,7 @@
       "title": "Dali by Lulu",
       "url": "https://mcpbeat.com/mcp-servers/lulu-the-narwhal/dali",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 668,
       "tools": 16,
       "repository": "https://github.com/Lulu-The-Narwhal/dali-mcp"
@@ -445,6 +489,7 @@
       "title": "Agoragentic Agent OS MCP",
       "url": "https://mcpbeat.com/mcp-servers/rhein1/agoragentic",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 621,
       "tools": 17,
       "repository": "https://github.com/rhein1/agoragentic-integrations"
@@ -455,6 +500,7 @@
       "title": "AdButler",
       "url": "https://mcpbeat.com/mcp-servers/adbutler/mcp-server",
       "status": "alive",
+      "uptime_30d": 47.7,
       "installs_per_week": 262,
       "tools": 622,
       "repository": "https://github.com/adbutler/mcp-server"
@@ -465,6 +511,7 @@
       "title": "io.github.leshchenko1979/fast-mcp-telegram",
       "url": "https://mcpbeat.com/mcp-servers/leshchenko1979/fast-mcp-telegram",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 1460,
       "tools": 8,
       "repository": "https://github.com/leshchenko1979/fast-mcp-telegram"
@@ -475,6 +522,7 @@
       "title": "UK Due Diligence",
       "url": "https://mcpbeat.com/mcp-servers/paulieb89/uk-due-diligence-mcp",
       "status": "alive",
+      "uptime_30d": 99.3,
       "installs_per_week": 605,
       "tools": 17,
       "repository": "https://github.com/paulieb89/uk-due-diligence-mcp"
@@ -485,6 +533,7 @@
       "title": "io.github.cyanheads/wsdot-mcp-server",
       "url": "https://mcpbeat.com/mcp-servers/cyanheads/wsdot-mcp-server",
       "status": "alive",
+      "uptime_30d": 99.3,
       "installs_per_week": 909,
       "tools": 12,
       "repository": "https://github.com/cyanheads/wsdot-mcp-server"
@@ -495,6 +544,7 @@
       "title": "io.github.cyanheads/openfda-mcp-server",
       "url": "https://mcpbeat.com/mcp-servers/cyanheads/openfda-mcp-server",
       "status": "alive",
+      "uptime_30d": 99.3,
       "installs_per_week": 753,
       "tools": 14,
       "repository": "https://github.com/cyanheads/openfda-mcp-server"
@@ -505,6 +555,7 @@
       "title": "Exploit Intelligence Platform — CVE, Vulnerability and Exploit Database",
       "url": "https://mcpbeat.com/mcp-servers/exploit-intel/eip-mcp",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 589,
       "tools": 17
     },
@@ -514,6 +565,7 @@
       "title": "su.hpt/hptsu-mcp",
       "url": "https://mcpbeat.com/mcp-servers/su.hpt/hptsu-mcp",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 448,
       "tools": 21,
       "repository": "https://github.com/hpt-su/hptsu-mcp"
@@ -524,6 +576,7 @@
       "title": "Mailrith Email Marketing",
       "url": "https://mcpbeat.com/mcp-servers/mailrith/mailrith",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 242,
       "tools": 52,
       "repository": "https://github.com/anrawool/mailrith-agent-platform"
@@ -534,6 +587,7 @@
       "title": "BorealHost",
       "url": "https://mcpbeat.com/mcp-servers/borealhost/mcp",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 240,
       "tools": 113,
       "repository": "https://github.com/alainsvrd/borealhost-mcp"
@@ -544,6 +598,7 @@
       "title": "emailmd",
       "url": "https://mcpbeat.com/mcp-servers/emailmd/emailmd",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 3715,
       "tools": 3,
       "repository": "https://github.com/anypost/emailmd"
@@ -554,6 +609,7 @@
       "title": "FiatDock",
       "url": "https://mcpbeat.com/mcp-servers/fiatdock/fiatdock-mcp",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 517,
       "tools": 18,
       "repository": "https://github.com/fiatdock/fiatdock"
@@ -564,6 +620,7 @@
       "title": "DDG Agent Services",
       "url": "https://mcpbeat.com/mcp-servers/daedalusdevelopmentgroup/ddg-agent-services-mcp",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 325,
       "tools": 26,
       "repository": "https://github.com/daedalusdevelopmentgroup/ddg-agent-payable-services"
@@ -574,6 +631,7 @@
       "title": "Dead Simple Email",
       "url": "https://mcpbeat.com/mcp-servers/email.deadsimple/dead-simple-email",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 639,
       "tools": 14,
       "repository": "https://github.com/deadsimple-email/deadsimple-email"
@@ -584,6 +642,7 @@
       "title": "io.github.Nikolife2016/pulsefeed-x402",
       "url": "https://mcpbeat.com/mcp-servers/nikolife2016/pulsefeed-x402",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 912,
       "tools": 10,
       "repository": "https://github.com/Nikolife2016/pulsefeed-x402"
@@ -594,6 +653,7 @@
       "title": "@imqueue",
       "url": "https://mcpbeat.com/mcp-servers/imqueue/mcp",
       "status": "alive",
+      "uptime_30d": 100,
       "installs_per_week": 1601,
       "tools": 6,
       "repository": "https://github.com/imqueue/mcp"
