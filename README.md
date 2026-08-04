@@ -7,7 +7,7 @@ This list is rebuilt every night from live checks. Every remote endpoint gets a 
 JSON-RPC handshake every 15 minutes; install counts come from npm and PyPI. Nothing
 here is curated manually, which is why nothing here goes stale.
 
-**Last rebuilt:** 4 August 2026, 15:19 UTC · **20 107 servers tracked** · **7 966 answering right now** ·
+**Last rebuilt:** 4 August 2026, 15:20 UTC · **20 107 servers tracked** · **7 966 answering right now** ·
 **2 263 listed as active but silent**
 
 > Full data, updated nightly: [mcpbeat.com](https://mcpbeat.com) ·
@@ -32,69 +32,71 @@ run the site, so a server that died last night is marked tonight.
 
 Servers you connect to by URL. These are the only ones whose availability can be
 measured at all — so they are ranked by it, then by tools exposed and installs.
+Uptime is the share of our handshakes each one answered, over the whole period
+we have been watching it.
 
-| # | Server | Uptime 30d | Tools | Installs/wk |
+| # | Server | Uptime | Tools | Installs/wk |
 |---:|---|---:|---:|---:|
-| 1 | [Homespun](https://mcpbeat.com/mcp-servers/homespun/homespun) | — | 22 | 5 127 |
-| 2 | [SAP MCP Server](https://mcpbeat.com/mcp-servers/oobeprotocol.sap.mcp/sap-mcp) | — | 368 | 2 184 |
-| 3 | [ateam-mcp](https://mcpbeat.com/mcp-servers/ariekogan/ateam-mcp) | — | 47 | 2 125 |
-| 4 | [GoldenMatch](https://mcpbeat.com/mcp-servers/benseverndev-oss/goldenmatch) | — | 77 | 1 829 |
-| 5 | [Svelte MCP](https://mcpbeat.com/mcp-servers/svelte/mcp) | — | 4 | 20 760 |
-| 6 | [nucleus](https://mcpbeat.com/mcp-servers/eidetic-works/nucleus) | — | 28 | 2 042 |
-| 7 | [NVIDIA AI CKG](https://mcpbeat.com/mcp-servers/yarmoluk/ckg-nvidia-ai) | — | 9 | 7 101 |
-| 8 | [Hermoso](https://mcpbeat.com/mcp-servers/hermoso-ai/hermoso) | — | 262 | 1 247 |
-| 9 | [Semiotic](https://mcpbeat.com/mcp-servers/nteract/semiotic) | — | 5 | 10 878 |
-| 10 | [NVIDIA NemoClaw CKG](https://mcpbeat.com/mcp-servers/yarmoluk/ckg-nvidia-nemoclaw) | — | 8 | 5 714 |
-| 11 | [Salesforce AgentForce CKG](https://mcpbeat.com/mcp-servers/yarmoluk/ckg-agentforce) | — | 10 | 4 390 |
-| 12 | [Supabase](https://mcpbeat.com/mcp-servers/supabase/mcp) | — | — | 79 816 |
-| 13 | [DomainKits](https://mcpbeat.com/mcp-servers/abtdomain/domainkits-mcp) | — | 28 | 1 073 |
-| 14 | [DERO MCP Server](https://mcpbeat.com/mcp-servers/dhebp/dero-mcp-server) | — | 33 | 850 |
-| 15 | [Axint](https://mcpbeat.com/mcp-servers/agenticempire/axint) | — | 36 | 768 |
-| 16 | [pubmed-mcp-server](https://mcpbeat.com/mcp-servers/cyanheads/pubmed-mcp-server) | — | 11 | 2 995 |
-| 17 | [Numeratica — financial planning calculations](https://mcpbeat.com/mcp-servers/numeratica/mcp) | — | 76 | 743 |
-| 18 | [AIOProductOS MCP](https://mcpbeat.com/mcp-servers/aioproductos/mcp) | — | 71 | 685 |
-| 19 | [HPSILab Quant Finance](https://mcpbeat.com/mcp-servers/haiyunsky/hpsilab-quant-finance-mcp) | — | 10 | 2 906 |
-| 20 | [Blixtworks](https://mcpbeat.com/mcp-servers/blixtworks.www/tools) | — | 68 | 574 |
-| 21 | [AILANG Parse](https://mcpbeat.com/mcp-servers/sunholo-data/parse) | — | 31 | 640 |
-| 22 | [Australian Economic Data (ABS, RBA & APRA)](https://mcpbeat.com/mcp-servers/anthonypuggs/ausecon-mcp-server) | — | 14 | 1 479 |
-| 23 | [courtlistener-mcp-server](https://mcpbeat.com/mcp-servers/cyanheads/courtlistener-mcp-server) | — | 14 | 1 384 |
-| 24 | [Signal8](https://mcpbeat.com/mcp-servers/signal8/mcp) | — | 92 | 459 |
-| 25 | [GoldenCheck](https://mcpbeat.com/mcp-servers/benseverndev-oss/goldencheck) | — | 19 | 892 |
-| 26 | [DataNexus MCP](https://mcpbeat.com/mcp-servers/datanexusmcp/mcp-server) | — | 55 | 430 |
-| 27 | [TensorFeed](https://mcpbeat.com/mcp-servers/tensorfeed/mcp-server) | — | 33 | 428 |
-| 28 | [audit](https://mcpbeat.com/mcp-servers/sulvo.publisher-revenue-audit/audit) | — | 37 | 402 |
-| 29 | [PinAppAI](https://mcpbeat.com/mcp-servers/pinappai/mcp) | — | 38 | 392 |
-| 30 | [Backtest360](https://mcpbeat.com/mcp-servers/backtest360/backtest360) | — | 20 | 758 |
-| 31 | [Run402](https://mcpbeat.com/mcp-servers/run402/mcp) | — | 4 | 4 436 |
-| 32 | [Sayba AI Agent Social Platform](https://mcpbeat.com/mcp-servers/saybanet/sayba-platform) | — | 25 | 550 |
-| 33 | [usaspending-mcp-server](https://mcpbeat.com/mcp-servers/cyanheads/usaspending-mcp-server) | — | 18 | 751 |
-| 34 | [Math MCP Learning](https://mcpbeat.com/mcp-servers/clouatre-labs/math-mcp-learning-server) | — | 17 | 790 |
-| 35 | [data-breach-detector](https://mcpbeat.com/mcp-servers/beepboop2025/data-breach-detector) | — | 7 | 2 170 |
-| 36 | [savvly](https://mcpbeat.com/mcp-servers/savvly/savvly) | — | 8 | 1 861 |
-| 37 | [k402](https://mcpbeat.com/mcp-servers/kali123411/k402) | — | 36 | 327 |
-| 38 | [Clipform](https://mcpbeat.com/mcp-servers/clipform/mcp-server) | — | 30 | 382 |
-| 39 | [Chronary](https://mcpbeat.com/mcp-servers/chronary/mcp) | — | 54 | 320 |
-| 40 | [secedgar-mcp-server](https://mcpbeat.com/mcp-servers/cyanheads/secedgar-mcp-server) | — | 16 | 805 |
-| 41 | [Agent402.Tools — pay-per-call web tools](https://mcpbeat.com/mcp-servers/mikeypetrillo/agent402) | — | 17 | 705 |
-| 42 | [pubchem-mcp-server](https://mcpbeat.com/mcp-servers/cyanheads/pubchem-mcp-server) | — | 10 | 1 179 |
-| 43 | [CoinRithm Agent Trading](https://mcpbeat.com/mcp-servers/coinrithm/mcp-trading) | — | 37 | 269 |
-| 44 | [Dali by Lulu](https://mcpbeat.com/mcp-servers/lulu-the-narwhal/dali) | — | 16 | 668 |
-| 45 | [Agoragentic Agent OS MCP](https://mcpbeat.com/mcp-servers/rhein1/agoragentic) | — | 17 | 621 |
-| 46 | [AdButler](https://mcpbeat.com/mcp-servers/adbutler/mcp-server) | — | 622 | 262 |
-| 47 | [fast-mcp-telegram](https://mcpbeat.com/mcp-servers/leshchenko1979/fast-mcp-telegram) | — | 8 | 1 460 |
-| 48 | [UK Due Diligence](https://mcpbeat.com/mcp-servers/paulieb89/uk-due-diligence-mcp) | — | 17 | 605 |
-| 49 | [wsdot-mcp-server](https://mcpbeat.com/mcp-servers/cyanheads/wsdot-mcp-server) | — | 12 | 909 |
-| 50 | [openfda-mcp-server](https://mcpbeat.com/mcp-servers/cyanheads/openfda-mcp-server) | — | 14 | 753 |
-| 51 | [Exploit Intelligence Platform — CVE, Vulnerability and Exploit Database](https://mcpbeat.com/mcp-servers/exploit-intel/eip-mcp) | — | 17 | 589 |
-| 52 | [hptsu-mcp](https://mcpbeat.com/mcp-servers/su.hpt/hptsu-mcp) | — | 21 | 448 |
-| 53 | [Mailrith Email Marketing](https://mcpbeat.com/mcp-servers/mailrith/mailrith) | — | 52 | 242 |
-| 54 | [BorealHost](https://mcpbeat.com/mcp-servers/borealhost/mcp) | — | 113 | 240 |
-| 55 | [emailmd](https://mcpbeat.com/mcp-servers/emailmd/emailmd) | — | 3 | 3 715 |
-| 56 | [FiatDock](https://mcpbeat.com/mcp-servers/fiatdock/fiatdock-mcp) | — | 18 | 517 |
-| 57 | [DDG Agent Services](https://mcpbeat.com/mcp-servers/daedalusdevelopmentgroup/ddg-agent-services-mcp) | — | 26 | 325 |
-| 58 | [Dead Simple Email](https://mcpbeat.com/mcp-servers/email.deadsimple/dead-simple-email) | — | 14 | 639 |
-| 59 | [pulsefeed-x402](https://mcpbeat.com/mcp-servers/nikolife2016/pulsefeed-x402) | — | 10 | 912 |
-| 60 | [@imqueue](https://mcpbeat.com/mcp-servers/imqueue/mcp) | — | 6 | 1 601 |
+| 1 | [Homespun](https://mcpbeat.com/mcp-servers/homespun/homespun) | 100.0% | 22 | 5 127 |
+| 2 | [SAP MCP Server](https://mcpbeat.com/mcp-servers/oobeprotocol.sap.mcp/sap-mcp) | 100.0% | 368 | 2 184 |
+| 3 | [ateam-mcp](https://mcpbeat.com/mcp-servers/ariekogan/ateam-mcp) | 100.0% | 47 | 2 125 |
+| 4 | [GoldenMatch](https://mcpbeat.com/mcp-servers/benseverndev-oss/goldenmatch) | 100.0% | 77 | 1 829 |
+| 5 | [Svelte MCP](https://mcpbeat.com/mcp-servers/svelte/mcp) | 100.0% | 4 | 20 760 |
+| 6 | [nucleus](https://mcpbeat.com/mcp-servers/eidetic-works/nucleus) | 100.0% | 28 | 2 042 |
+| 7 | [NVIDIA AI CKG](https://mcpbeat.com/mcp-servers/yarmoluk/ckg-nvidia-ai) | 100.0% | 9 | 7 101 |
+| 8 | [Hermoso](https://mcpbeat.com/mcp-servers/hermoso-ai/hermoso) | 100.0% | 262 | 1 247 |
+| 9 | [Semiotic](https://mcpbeat.com/mcp-servers/nteract/semiotic) | 100.0% | 5 | 10 878 |
+| 10 | [NVIDIA NemoClaw CKG](https://mcpbeat.com/mcp-servers/yarmoluk/ckg-nvidia-nemoclaw) | 100.0% | 8 | 5 714 |
+| 11 | [Salesforce AgentForce CKG](https://mcpbeat.com/mcp-servers/yarmoluk/ckg-agentforce) | 100.0% | 10 | 4 390 |
+| 12 | [Supabase](https://mcpbeat.com/mcp-servers/supabase/mcp) | 99.3% | — | 79 816 |
+| 13 | [DomainKits](https://mcpbeat.com/mcp-servers/abtdomain/domainkits-mcp) | 100.0% | 28 | 1 073 |
+| 14 | [DERO MCP Server](https://mcpbeat.com/mcp-servers/dhebp/dero-mcp-server) | 100.0% | 33 | 850 |
+| 15 | [Axint](https://mcpbeat.com/mcp-servers/agenticempire/axint) | 100.0% | 36 | 768 |
+| 16 | [pubmed-mcp-server](https://mcpbeat.com/mcp-servers/cyanheads/pubmed-mcp-server) | 99.3% | 11 | 2 995 |
+| 17 | [Numeratica — financial planning calculations](https://mcpbeat.com/mcp-servers/numeratica/mcp) | 100.0% | 76 | 743 |
+| 18 | [AIOProductOS MCP](https://mcpbeat.com/mcp-servers/aioproductos/mcp) | 100.0% | 71 | 685 |
+| 19 | [HPSILab Quant Finance](https://mcpbeat.com/mcp-servers/haiyunsky/hpsilab-quant-finance-mcp) | 98.0% | 10 | 2 906 |
+| 20 | [Blixtworks](https://mcpbeat.com/mcp-servers/blixtworks.www/tools) | 100.0% | 68 | 574 |
+| 21 | [AILANG Parse](https://mcpbeat.com/mcp-servers/sunholo-data/parse) | 100.0% | 31 | 640 |
+| 22 | [Australian Economic Data (ABS, RBA & APRA)](https://mcpbeat.com/mcp-servers/anthonypuggs/ausecon-mcp-server) | 100.0% | 14 | 1 479 |
+| 23 | [courtlistener-mcp-server](https://mcpbeat.com/mcp-servers/cyanheads/courtlistener-mcp-server) | 99.3% | 14 | 1 384 |
+| 24 | [Signal8](https://mcpbeat.com/mcp-servers/signal8/mcp) | 100.0% | 92 | 459 |
+| 25 | [GoldenCheck](https://mcpbeat.com/mcp-servers/benseverndev-oss/goldencheck) | 100.0% | 19 | 892 |
+| 26 | [DataNexus MCP](https://mcpbeat.com/mcp-servers/datanexusmcp/mcp-server) | 100.0% | 55 | 430 |
+| 27 | [TensorFeed](https://mcpbeat.com/mcp-servers/tensorfeed/mcp-server) | 100.0% | 33 | 428 |
+| 28 | [audit](https://mcpbeat.com/mcp-servers/sulvo.publisher-revenue-audit/audit) | 100.0% | 37 | 402 |
+| 29 | [PinAppAI](https://mcpbeat.com/mcp-servers/pinappai/mcp) | 100.0% | 38 | 392 |
+| 30 | [Backtest360](https://mcpbeat.com/mcp-servers/backtest360/backtest360) | 100.0% | 20 | 758 |
+| 31 | [Run402](https://mcpbeat.com/mcp-servers/run402/mcp) | 100.0% | 4 | 4 436 |
+| 32 | [Sayba AI Agent Social Platform](https://mcpbeat.com/mcp-servers/saybanet/sayba-platform) | 98.0% | 25 | 550 |
+| 33 | [usaspending-mcp-server](https://mcpbeat.com/mcp-servers/cyanheads/usaspending-mcp-server) | 99.3% | 18 | 751 |
+| 34 | [Math MCP Learning](https://mcpbeat.com/mcp-servers/clouatre-labs/math-mcp-learning-server) | 100.0% | 17 | 790 |
+| 35 | [data-breach-detector](https://mcpbeat.com/mcp-servers/beepboop2025/data-breach-detector) | 100.0% | 7 | 2 170 |
+| 36 | [savvly](https://mcpbeat.com/mcp-servers/savvly/savvly) | 100.0% | 8 | 1 861 |
+| 37 | [k402](https://mcpbeat.com/mcp-servers/kali123411/k402) | 100.0% | 36 | 327 |
+| 38 | [Clipform](https://mcpbeat.com/mcp-servers/clipform/mcp-server) | 100.0% | 30 | 382 |
+| 39 | [Chronary](https://mcpbeat.com/mcp-servers/chronary/mcp) | 100.0% | 54 | 320 |
+| 40 | [secedgar-mcp-server](https://mcpbeat.com/mcp-servers/cyanheads/secedgar-mcp-server) | 99.3% | 16 | 805 |
+| 41 | [Agent402.Tools — pay-per-call web tools](https://mcpbeat.com/mcp-servers/mikeypetrillo/agent402) | 97.3% | 17 | 705 |
+| 42 | [pubchem-mcp-server](https://mcpbeat.com/mcp-servers/cyanheads/pubchem-mcp-server) | 99.3% | 10 | 1 179 |
+| 43 | [CoinRithm Agent Trading](https://mcpbeat.com/mcp-servers/coinrithm/mcp-trading) | 100.0% | 37 | 269 |
+| 44 | [Dali by Lulu](https://mcpbeat.com/mcp-servers/lulu-the-narwhal/dali) | 100.0% | 16 | 668 |
+| 45 | [Agoragentic Agent OS MCP](https://mcpbeat.com/mcp-servers/rhein1/agoragentic) | 100.0% | 17 | 621 |
+| 46 | [AdButler](https://mcpbeat.com/mcp-servers/adbutler/mcp-server) | 47.7% | 622 | 262 |
+| 47 | [fast-mcp-telegram](https://mcpbeat.com/mcp-servers/leshchenko1979/fast-mcp-telegram) | 100.0% | 8 | 1 460 |
+| 48 | [UK Due Diligence](https://mcpbeat.com/mcp-servers/paulieb89/uk-due-diligence-mcp) | 99.3% | 17 | 605 |
+| 49 | [wsdot-mcp-server](https://mcpbeat.com/mcp-servers/cyanheads/wsdot-mcp-server) | 99.3% | 12 | 909 |
+| 50 | [openfda-mcp-server](https://mcpbeat.com/mcp-servers/cyanheads/openfda-mcp-server) | 99.3% | 14 | 753 |
+| 51 | [Exploit Intelligence Platform — CVE, Vulnerability and Exploit Database](https://mcpbeat.com/mcp-servers/exploit-intel/eip-mcp) | 100.0% | 17 | 589 |
+| 52 | [hptsu-mcp](https://mcpbeat.com/mcp-servers/su.hpt/hptsu-mcp) | 100.0% | 21 | 448 |
+| 53 | [Mailrith Email Marketing](https://mcpbeat.com/mcp-servers/mailrith/mailrith) | 100.0% | 52 | 242 |
+| 54 | [BorealHost](https://mcpbeat.com/mcp-servers/borealhost/mcp) | 100.0% | 113 | 240 |
+| 55 | [emailmd](https://mcpbeat.com/mcp-servers/emailmd/emailmd) | 100.0% | 3 | 3 715 |
+| 56 | [FiatDock](https://mcpbeat.com/mcp-servers/fiatdock/fiatdock-mcp) | 100.0% | 18 | 517 |
+| 57 | [DDG Agent Services](https://mcpbeat.com/mcp-servers/daedalusdevelopmentgroup/ddg-agent-services-mcp) | 100.0% | 26 | 325 |
+| 58 | [Dead Simple Email](https://mcpbeat.com/mcp-servers/email.deadsimple/dead-simple-email) | 100.0% | 14 | 639 |
+| 59 | [pulsefeed-x402](https://mcpbeat.com/mcp-servers/nikolife2016/pulsefeed-x402) | 100.0% | 10 | 912 |
+| 60 | [@imqueue](https://mcpbeat.com/mcp-servers/imqueue/mcp) | 100.0% | 6 | 1 601 |
 
 ---
 
