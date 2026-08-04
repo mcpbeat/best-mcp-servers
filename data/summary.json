@@ -1,6 +1,6 @@
 {
   "checks": 1568565,
-  "generated": "2026-08-04T15:21:22Z",
+  "generated": "2026-08-04T15:25:34Z",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "method": "JSON-RPC initialize handshake every 15 minutes; installs from npm and PyPI",
   "servers": {
