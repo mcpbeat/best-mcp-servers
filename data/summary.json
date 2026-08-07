@@ -1,13 +1,13 @@
 {
-  "checks": 3081659,
-  "generated": "2026-08-06T04:36:30Z",
+  "checks": 4064334,
+  "generated": "2026-08-07T04:37:36Z",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "method": "JSON-RPC initialize handshake every 15 minutes; installs from npm and PyPI",
   "servers": {
-    "answering": 8702,
-    "listed_active_but_dead": 1738,
-    "tracked": 20477,
-    "with_network_address": 10440
+    "answering": 8766,
+    "listed_active_but_dead": 1740,
+    "tracked": 20586,
+    "with_network_address": 10506
   },
   "skills": {
     "unique": 59051,
