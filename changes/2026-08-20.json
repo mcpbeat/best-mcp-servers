@@ -1,0 +1,165 @@
+{
+  "date": "2026-08-20",
+  "findings": {
+    "fixed": 1021,
+    "high": 32,
+    "new": 1370
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "dinglebear-ai/labby",
+      "url": "https://mcpbeat.com/mcp-servers/dinglebear/labby/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "GoPlasmatic/Orion",
+      "url": "https://mcpbeat.com/mcp-servers/goplasmatic/orion/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "MaxFreedomPollard/Compartment",
+      "url": "https://mcpbeat.com/mcp-servers/maxfreedompollard/engram/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "aarwitz/tapp",
+      "url": "https://mcpbeat.com/mcp-servers/aarwitz/tapp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "unsoldgroup/mail-index",
+      "url": "https://mcpbeat.com/mcp-servers/alunsoldantarctica/mail-index/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "coder/coder",
+      "url": "https://mcpbeat.com/mcp-servers/coder/coder/"
+    },
+    {
+      "detail": "combo.obf_exfil",
+      "kind": "new_high",
+      "server": "kryptobaseddev/cleo",
+      "url": "https://mcpbeat.com/mcp-servers/kryptobaseddev/cleo-mcp-server/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/agenc-mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "nouchix/PQC-Khepra-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/nouchix/pqc-khepra-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "tenzro/tenzro-network",
+      "url": "https://mcpbeat.com/mcp-servers/tenzro/tenzro-chainlink/"
+    },
+    {
+      "detail": "secret.leaked",
+      "kind": "new_high",
+      "server": "Ovecc-labs/ovecc",
+      "url": "https://mcpbeat.com/mcp-servers/ovecc-labs/ovecc/"
+    },
+    {
+      "detail": "update_persona",
+      "kind": "schema",
+      "server": "matebenyovszky/agentplaybooks",
+      "url": "https://mcpbeat.com/mcp-servers/agentplaybooks/agentplaybooks/"
+    },
+    {
+      "detail": "web_search_exa",
+      "kind": "schema",
+      "server": "exa-labs/exa-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/exa/exa/"
+    },
+    {
+      "detail": "ask_panel",
+      "kind": "schema",
+      "server": "minds-ai-co/minds-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/getminds/minds/"
+    },
+    {
+      "detail": "get_odds",
+      "kind": "schema",
+      "server": "lumifyai/lumify",
+      "url": "https://mcpbeat.com/mcp-servers/lumify/sports-intelligence/"
+    },
+    {
+      "detail": "get_principles",
+      "kind": "schema",
+      "server": "rhinocap/raven-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ravenmcp/raven-mcp/"
+    },
+    {
+      "detail": "call_endpoint",
+      "kind": "schema",
+      "server": "Sugra-Systems/sugra-api-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/sugra/api-mcp/"
+    },
+    {
+      "detail": "open_board",
+      "kind": "schema",
+      "server": "lksrz/cnvs-whiteboard-skills",
+      "url": "https://mcpbeat.com/mcp-servers/cnvs/whiteboard/"
+    },
+    {
+      "detail": "decide_contract_method",
+      "kind": "schema",
+      "server": "sallim-app/contract-compass",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/contract-compass/"
+    },
+    {
+      "detail": "decide_contract_method",
+      "kind": "schema",
+      "server": "sallim-app/contract-compass",
+      "url": "https://mcpbeat.com/mcp-servers/naru/contract-compass/"
+    },
+    {
+      "detail": "build_supplier_request_package",
+      "kind": "schema",
+      "server": "Deadlypillow/a2a2p",
+      "url": "https://mcpbeat.com/mcp-servers/a2a2p/a2a2p/"
+    },
+    {
+      "detail": "income_tax_estimate",
+      "kind": "schema",
+      "server": "embracingearth-space/ai2fin-tax-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ai2fin/ai2fin-tax-mcp/"
+    },
+    {
+      "detail": "create_task",
+      "kind": "schema",
+      "server": "mario03690/ai-netcafe",
+      "url": "https://mcpbeat.com/mcp-servers/ainetcafe/ai-netcafe/"
+    }
+  ],
+  "servers": {
+    "gone": 32,
+    "new": 709
+  },
+  "source": "https://mcpbeat.com/data/2026-08-20/",
+  "tools": {
+    "added": 837,
+    "removed": 664,
+    "schema_changed": 1824
+  }
+}
