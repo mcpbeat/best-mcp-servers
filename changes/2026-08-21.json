@@ -1,0 +1,165 @@
+{
+  "date": "2026-08-21",
+  "findings": {
+    "fixed": 587,
+    "high": 22,
+    "new": 1266
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "dinglebear-ai/labby",
+      "url": "https://mcpbeat.com/mcp-servers/dinglebear/labby/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "GoPlasmatic/Orion",
+      "url": "https://mcpbeat.com/mcp-servers/goplasmatic/orion/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "getnable/finopsmcp",
+      "url": "https://mcpbeat.com/mcp-servers/chaandannn/finops-mcp/"
+    },
+    {
+      "detail": "rug.new_install_hook",
+      "kind": "new_high",
+      "server": "devlensio/devlensOSS",
+      "url": "https://mcpbeat.com/mcp-servers/devlensio/devlens/"
+    },
+    {
+      "detail": "rug.new_install_hook",
+      "kind": "new_high",
+      "server": "lennix1337/Genexus18MCP",
+      "url": "https://mcpbeat.com/mcp-servers/lennix1337/genexus/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "metabase/metabase",
+      "url": "https://mcpbeat.com/mcp-servers/metabase/mcp/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/three-ws/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "paiml/rust-mcp-sdk",
+      "url": "https://mcpbeat.com/mcp-servers/paiml/pmcp/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "skillselion/skillselion-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/skillselion/skillselion-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "tenzro/tenzro-network",
+      "url": "https://mcpbeat.com/mcp-servers/tenzro/tenzro-solana/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "ComplyEdge/complyedge",
+      "url": "https://mcpbeat.com/mcp-servers/complyedge/complyedge/"
+    },
+    {
+      "detail": "use_secret",
+      "kind": "schema",
+      "server": "matebenyovszky/agentplaybooks",
+      "url": "https://mcpbeat.com/mcp-servers/agentplaybooks/agentplaybooks/"
+    },
+    {
+      "detail": "search_products",
+      "kind": "schema",
+      "server": "BuyWhere/buywhere",
+      "url": "https://mcpbeat.com/mcp-servers/buywhere/catalog-api/"
+    },
+    {
+      "detail": "certscore_scan_site",
+      "kind": "schema",
+      "server": "ergoveritas1-alt/certscore.ai",
+      "url": "https://mcpbeat.com/mcp-servers/certscore/mcp-light/"
+    },
+    {
+      "detail": "search_graph",
+      "kind": "schema",
+      "server": "piers-fawkes/fodda-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/fodda/brand-intelligence/"
+    },
+    {
+      "detail": "search_graph",
+      "kind": "schema",
+      "server": "piers-fawkes/fodda-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/fodda/deep-research/"
+    },
+    {
+      "detail": "search_graph",
+      "kind": "schema",
+      "server": "piers-fawkes/fodda-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/fodda/earnings-intelligence/"
+    },
+    {
+      "detail": "search_graph",
+      "kind": "schema",
+      "server": "piers-fawkes/fodda-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/fodda/expert-consult/"
+    },
+    {
+      "detail": "search_graph",
+      "kind": "schema",
+      "server": "piers-fawkes/fodda-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/fodda/topic-research/"
+    },
+    {
+      "detail": "list_events",
+      "kind": "schema",
+      "server": "lumifyai/lumify",
+      "url": "https://mcpbeat.com/mcp-servers/lumify/sports-intelligence/"
+    },
+    {
+      "detail": "nexez_validate_checkout",
+      "kind": "schema",
+      "server": "Flyger1an/nexez",
+      "url": "https://mcpbeat.com/mcp-servers/nexez/commerce/"
+    },
+    {
+      "detail": "call_endpoint",
+      "kind": "schema",
+      "server": "Sugra-Systems/sugra-api-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/sugra/api-mcp/"
+    },
+    {
+      "detail": "post_task",
+      "kind": "schema",
+      "server": "nanocorp-hq/invoke",
+      "url": "https://mcpbeat.com/mcp-servers/nanocorp-invoke/human-tasks/"
+    }
+  ],
+  "servers": {
+    "gone": 31,
+    "new": 562
+  },
+  "source": "https://mcpbeat.com/data/2026-08-21/",
+  "tools": {
+    "added": 1903,
+    "removed": 579,
+    "schema_changed": 1761
+  }
+}
