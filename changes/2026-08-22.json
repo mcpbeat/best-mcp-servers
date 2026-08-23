@@ -1,0 +1,165 @@
+{
+  "date": "2026-08-22",
+  "findings": {
+    "fixed": 527,
+    "high": 24,
+    "new": 2588
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "AlgoVaultLabs/crypto-quant-signal-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/algovaultfi/crypto-quant-signal-mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "yiminspace/quarry",
+      "url": "https://mcpbeat.com/mcp-servers/wangggym/quarry/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "astandrik/local-ydb-toolkit",
+      "url": "https://mcpbeat.com/mcp-servers/astandrik/local-ydb-mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "beepboop2025/seiche",
+      "url": "https://mcpbeat.com/mcp-servers/beepboop2025/seiche/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "craigjmidwinter/mail-muncher",
+      "url": "https://mcpbeat.com/mcp-servers/craigjmidwinter/mail-muncher/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "cyanheads/pentest-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/cyanheads/pentest-mcp-server/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "devantler-tech/ksail",
+      "url": "https://mcpbeat.com/mcp-servers/devantler-tech/ksail/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "yaver-io/yaver.io",
+      "url": "https://mcpbeat.com/mcp-servers/kivanccakmak/yaver/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/threews-x402-bazaar/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "saagpatel/operant",
+      "url": "https://mcpbeat.com/mcp-servers/saagpatel/operant-mcp/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "skillselion/skillselion-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/skillselion/skillselion-mcp/"
+    },
+    {
+      "detail": "supply.only_in_package",
+      "kind": "new_high",
+      "server": "Sandeeprdy1729/timps-swarm",
+      "url": "https://mcpbeat.com/mcp-servers/sandeeprdy1729/timps-swarm/"
+    },
+    {
+      "detail": "count_firms_by",
+      "kind": "schema",
+      "server": "analyticslegends/analytics-legends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/analyticslegends/sap-analytics/"
+    },
+    {
+      "detail": "run",
+      "kind": "schema",
+      "server": "bowmark-ai/skill",
+      "url": "https://mcpbeat.com/mcp-servers/bowmark/bowmark/"
+    },
+    {
+      "detail": "web_search_exa",
+      "kind": "schema",
+      "server": "exa-labs/exa-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/exa/exa/"
+    },
+    {
+      "detail": "consult_analyst",
+      "kind": "schema",
+      "server": "piers-fawkes/fodda-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/fodda/expert-consult/"
+    },
+    {
+      "detail": "email_seo_report",
+      "kind": "schema",
+      "server": "riverliu8/inxy-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/inxy/seo-audit/"
+    },
+    {
+      "detail": "get_open_interest",
+      "kind": "schema",
+      "server": "iturri-ai/iturri-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/iturri/market-data/"
+    },
+    {
+      "detail": "run_stat_query",
+      "kind": "schema",
+      "server": "cfagan17/muffed-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/muffed/muffed/"
+    },
+    {
+      "detail": "start_inference_job",
+      "kind": "schema",
+      "server": "Retro-Diffusion/retro-diffusion-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/retrodiffusion/pixel-art/"
+    },
+    {
+      "detail": "act_on_project_os_task",
+      "kind": "schema",
+      "server": "2ools/mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/2ools/mcp/"
+    },
+    {
+      "detail": "realty_move_in_supply",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "get_gas_index",
+      "kind": "schema",
+      "server": "azmartone67/dchub-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/dchub/mcp-server/"
+    },
+    {
+      "detail": "validate_domain_solutioning_result",
+      "kind": "schema",
+      "server": "Deadlypillow/a2a2p",
+      "url": "https://mcpbeat.com/mcp-servers/a2a2p/a2a2p/"
+    }
+  ],
+  "servers": {
+    "gone": 26,
+    "new": 217
+  },
+  "source": "https://mcpbeat.com/data/2026-08-22/",
+  "tools": {
+    "added": 867,
+    "removed": 678,
+    "schema_changed": 1007
+  }
+}
