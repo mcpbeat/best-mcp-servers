@@ -1,0 +1,165 @@
+{
+  "date": "2026-08-23",
+  "findings": {
+    "fixed": 600,
+    "high": 33,
+    "new": 1761
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "AndrewDryga/emisar",
+      "url": "https://mcpbeat.com/mcp-servers/emisar/emisar/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "rug.new_install_hook",
+      "kind": "new_high",
+      "server": "JessieJanie/skim402",
+      "url": "https://mcpbeat.com/mcp-servers/jessiejanie/skim402/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "beepboop2025/seiche",
+      "url": "https://mcpbeat.com/mcp-servers/beepboop2025/seiche/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "yaver-io/yaver.io",
+      "url": "https://mcpbeat.com/mcp-servers/kivanccakmak/yaver/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/vanity-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "orbs-network/spot",
+      "url": "https://mcpbeat.com/mcp-servers/orbs-network/spot/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "saajunaid/caddis-plugin",
+      "url": "https://mcpbeat.com/mcp-servers/saajunaid/junai-mcp/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "tenzro/tenzro-network",
+      "url": "https://mcpbeat.com/mcp-servers/tenzro/tenzro/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "DROOdotFOO/raxol",
+      "url": "https://mcpbeat.com/mcp-servers/droodotfoo/raxol/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "hashgraph-online/hol-guard",
+      "url": "https://mcpbeat.com/mcp-servers/hashgraph-online/hol-guard/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Ankit512/log-anomaly-detector",
+      "url": "https://mcpbeat.com/mcp-servers/ankit512/itsoc-mcp/"
+    },
+    {
+      "detail": "find_academy_modules",
+      "kind": "schema",
+      "server": "analyticslegends/analytics-legends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/analyticslegends/sap-analytics/"
+    },
+    {
+      "detail": "web_search_exa",
+      "kind": "schema",
+      "server": "exa-labs/exa-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/exa/exa/"
+    },
+    {
+      "detail": "deep_research_topic",
+      "kind": "schema",
+      "server": "piers-fawkes/fodda-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/fodda/deep-research/"
+    },
+    {
+      "detail": "search_web_pages",
+      "kind": "schema",
+      "server": "keenableai/keenable-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/keenable/web-search/"
+    },
+    {
+      "detail": "batch_get_events",
+      "kind": "schema",
+      "server": "lumifyai/lumify",
+      "url": "https://mcpbeat.com/mcp-servers/lumify/sports-intelligence/"
+    },
+    {
+      "detail": "nexez_search",
+      "kind": "schema",
+      "server": "Flyger1an/nexez",
+      "url": "https://mcpbeat.com/mcp-servers/nexez/commerce/"
+    },
+    {
+      "detail": "create_checkout",
+      "kind": "schema",
+      "server": "nathangrotticelli/searchshopai",
+      "url": "https://mcpbeat.com/mcp-servers/searchshop-www/la-luer/"
+    },
+    {
+      "detail": "validate_ai_output",
+      "kind": "schema",
+      "server": "VerificateAI/verificate-mcp-quickstart",
+      "url": "https://mcpbeat.com/mcp-servers/verificate/mcp/"
+    },
+    {
+      "detail": "getTwitterPostsByIds",
+      "kind": "schema",
+      "server": "XPOZpublic/xpoz-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/xpoz/social-insights/"
+    },
+    {
+      "detail": "realty_presale",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "sonar_top_charts",
+      "kind": "schema",
+      "server": "trysonar/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/trysonar/sonar/"
+    },
+    {
+      "detail": "search_apps",
+      "kind": "schema",
+      "server": "getappniche/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/getappniche/mcp/"
+    }
+  ],
+  "servers": {
+    "gone": 28,
+    "new": 152
+  },
+  "source": "https://mcpbeat.com/data/2026-08-23/",
+  "tools": {
+    "added": 744,
+    "removed": 720,
+    "schema_changed": 976
+  }
+}
