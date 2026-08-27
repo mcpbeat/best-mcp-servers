@@ -1,0 +1,165 @@
+{
+  "date": "2026-08-26",
+  "findings": {
+    "fixed": 806,
+    "high": 26,
+    "new": 1244
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Iron-Mark/Hackathon-Stellaroid_Earn",
+      "url": "https://mcpbeat.com/mcp-servers/iron-mark/stellaroid-earn/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "MaxFreedomPollard/Compartment",
+      "url": "https://mcpbeat.com/mcp-servers/maxfreedompollard/engram/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "PranavNagrecha/Salesforce-Intelligence",
+      "url": "https://mcpbeat.com/mcp-servers/pranavnagrecha/sf-intelligence/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "yiminspace/quarry",
+      "url": "https://mcpbeat.com/mcp-servers/wangggym/quarry/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "bluetouff/l0g",
+      "url": "https://mcpbeat.com/mcp-servers/bluetouff/l0g/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "metabase/metabase",
+      "url": "https://mcpbeat.com/mcp-servers/metabase/mcp/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/copy-mcp/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "theoddden/Terradev",
+      "url": "https://mcpbeat.com/mcp-servers/theoddden/terradev/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "yaver-io/yaver.io",
+      "url": "https://mcpbeat.com/mcp-servers/yaver-io/yaver/"
+    },
+    {
+      "detail": "exec.pipe_to_shell",
+      "kind": "new_high",
+      "server": "r2cuerdame/CodeSampleX",
+      "url": "https://mcpbeat.com/mcp-servers/r2cuerdame/codesamplex/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Ankit512/log-anomaly-detector",
+      "url": "https://mcpbeat.com/mcp-servers/ankit512/itsoc-mcp/"
+    },
+    {
+      "detail": "list_studies",
+      "kind": "schema",
+      "server": "analyticslegends/analytics-legends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/analyticslegends/sap-analytics/"
+    },
+    {
+      "detail": "list_categories",
+      "kind": "schema",
+      "server": "BuyWhere/buywhere",
+      "url": "https://mcpbeat.com/mcp-servers/buywhere/catalog-api/"
+    },
+    {
+      "detail": "certscore_get_scan_bundle",
+      "kind": "schema",
+      "server": "ergoveritas1-alt/certscore.ai",
+      "url": "https://mcpbeat.com/mcp-servers/certscore/mcp-light/"
+    },
+    {
+      "detail": "web_search_exa",
+      "kind": "schema",
+      "server": "exa-labs/exa-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/exa/exa/"
+    },
+    {
+      "detail": "search_vehicles",
+      "kind": "schema",
+      "server": "gondola-ai/gondola-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/gondola/gondola/"
+    },
+    {
+      "detail": "list_recent_memories",
+      "kind": "schema",
+      "server": "maximem-ai/maximem_synap_sdk",
+      "url": "https://mcpbeat.com/mcp-servers/maximem/synap/"
+    },
+    {
+      "detail": "magicblock_swap_quote",
+      "kind": "schema",
+      "server": "OOBE-PROTOCOL/sap-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/oobeprotocol-sap-mcp/sap-mcp/"
+    },
+    {
+      "detail": "rigor_execute",
+      "kind": "schema",
+      "server": "chicogonzales/plith",
+      "url": "https://mcpbeat.com/mcp-servers/plith/plith/"
+    },
+    {
+      "detail": "rent_domain",
+      "kind": "schema",
+      "server": "popdot-ai/popdot-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/popdot/popdot-mcp/"
+    },
+    {
+      "detail": "compare_resorts",
+      "kind": "schema",
+      "server": "mikeslone/snowsure-web",
+      "url": "https://mcpbeat.com/mcp-servers/snowsure/snow/"
+    },
+    {
+      "detail": "configure_project_agent_mode",
+      "kind": "schema",
+      "server": "2ools/mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/2ools/mcp/"
+    },
+    {
+      "detail": "get_country_brief",
+      "kind": "schema",
+      "server": "koala73/worldmonitor",
+      "url": "https://mcpbeat.com/mcp-servers/worldmonitor/mcp/"
+    }
+  ],
+  "servers": {
+    "gone": 38,
+    "new": 104
+  },
+  "source": "https://mcpbeat.com/data/2026-08-26/",
+  "tools": {
+    "added": 3284,
+    "removed": 3237,
+    "schema_changed": 1143
+  }
+}
