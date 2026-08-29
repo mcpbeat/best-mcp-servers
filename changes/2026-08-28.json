@@ -1,0 +1,165 @@
+{
+  "date": "2026-08-28",
+  "findings": {
+    "fixed": 506,
+    "high": 18,
+    "new": 1058
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "AndrewDryga/emisar",
+      "url": "https://mcpbeat.com/mcp-servers/emisar/emisar/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "kaeawc/auto-mobile",
+      "url": "https://mcpbeat.com/mcp-servers/jasonpearson/auto-mobile/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "IgorGanapolsky/ThumbGate",
+      "url": "https://mcpbeat.com/mcp-servers/igorganapolsky/thumbgate/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "MaxFreedomPollard/Compartment",
+      "url": "https://mcpbeat.com/mcp-servers/maxfreedompollard/engram/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "anipotts/imessage-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/anipotts/imessage-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "ariffazil/arifOS",
+      "url": "https://mcpbeat.com/mcp-servers/ariffazil/arifos-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "aryaminus/controlkeel",
+      "url": "https://mcpbeat.com/mcp-servers/aryaminus/controlkeel/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "beardfaceguy/daimonos",
+      "url": "https://mcpbeat.com/mcp-servers/beardfaceguy/daimonos/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "dimitrovakulenko/dwg-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/dimitrovakulenko/dwg-mcp-server/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "yaver-io/yaver.io",
+      "url": "https://mcpbeat.com/mcp-servers/kivanccakmak/yaver/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "metabase/metabase",
+      "url": "https://mcpbeat.com/mcp-servers/metabase/mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "solomon2773/nora",
+      "url": "https://mcpbeat.com/mcp-servers/solomon2773/nora/"
+    },
+    {
+      "detail": "find_opportunities",
+      "kind": "schema",
+      "server": "analyticslegends/analytics-legends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/analyticslegends/sap-analytics/"
+    },
+    {
+      "detail": "update_checkout",
+      "kind": "schema",
+      "server": "alainsvrd/borealhost-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/borealhost/mcp/"
+    },
+    {
+      "detail": "web_search_exa",
+      "kind": "schema",
+      "server": "exa-labs/exa-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/exa/exa/"
+    },
+    {
+      "detail": "search_players",
+      "kind": "schema",
+      "server": "lumifyai/lumify",
+      "url": "https://mcpbeat.com/mcp-servers/lumify/sports-intelligence/"
+    },
+    {
+      "detail": "rent_domain",
+      "kind": "schema",
+      "server": "popdot-ai/popdot-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/popdot/popdot-mcp/"
+    },
+    {
+      "detail": "agent_create",
+      "kind": "schema",
+      "server": "asmodeoux/conduit",
+      "url": "https://mcpbeat.com/mcp-servers/aiconduit/conduit/"
+    },
+    {
+      "detail": "company_lists-count_preview",
+      "kind": "schema",
+      "server": "saberapp/platform",
+      "url": "https://mcpbeat.com/mcp-servers/saber-mcp/saber/"
+    },
+    {
+      "detail": "register_domain",
+      "kind": "schema",
+      "server": "atomdomains/atom-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/atom/premium-domains/"
+    },
+    {
+      "detail": "get_symbol_performance",
+      "kind": "schema",
+      "server": "bykarantelicom/bykaranteli-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/bykaranteli/mcp/"
+    },
+    {
+      "detail": "get_service",
+      "kind": "schema",
+      "server": "fiatdock/fiatdock",
+      "url": "https://mcpbeat.com/mcp-servers/fiatdock/fiatdock-mcp/"
+    },
+    {
+      "detail": "goal-update",
+      "kind": "schema",
+      "server": "dev-lab-global/planner",
+      "url": "https://mcpbeat.com/mcp-servers/monopoly-gold-planner/mcp/"
+    },
+    {
+      "detail": "twprojects-move_task_to_workflow_stage",
+      "kind": "schema",
+      "server": "Teamwork/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/teamwork/mcp/"
+    }
+  ],
+  "servers": {
+    "gone": 46,
+    "new": 203
+  },
+  "source": "https://mcpbeat.com/data/2026-08-28/",
+  "tools": {
+    "added": 2209,
+    "removed": 2519,
+    "schema_changed": 1316
+  }
+}
