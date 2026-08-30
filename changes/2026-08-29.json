@@ -1,0 +1,165 @@
+{
+  "date": "2026-08-29",
+  "findings": {
+    "fixed": 674,
+    "high": 44,
+    "new": 1607
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "AInoAKARI/AInoAKARI",
+      "url": "https://mcpbeat.com/mcp-servers/ai-akari/agent-trust-receipt/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "AndrewDryga/emisar",
+      "url": "https://mcpbeat.com/mcp-servers/emisar/emisar/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "IgorGanapolsky/ThumbGate",
+      "url": "https://mcpbeat.com/mcp-servers/igorganapolsky/mcp-memory-gateway/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "delimit-ai/delimit-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/delimit-ai/delimit-mcp-server/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "jsilets/twscrape-twitter-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/jsilets/twscrape-twitter-mcp/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "juyterman1000/entroly",
+      "url": "https://mcpbeat.com/mcp-servers/juyterman1000/entroly/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/agent-sniper/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/pumpfun-solana-mcp/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "screenpipe/screenpipe",
+      "url": "https://mcpbeat.com/mcp-servers/screenpipe/screenpipe-mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "yonatangross/orchestkit",
+      "url": "https://mcpbeat.com/mcp-servers/yonatangross/orchestkit/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Enkryptedx/xrpldashboard",
+      "url": "https://mcpbeat.com/mcp-servers/xrpldashboard/xrpldashboard-mcp/"
+    },
+    {
+      "detail": "certscore_scan_site",
+      "kind": "schema",
+      "server": "ergoveritas1-alt/certscore.ai",
+      "url": "https://mcpbeat.com/mcp-servers/certscore/mcp-light/"
+    },
+    {
+      "detail": "list_forecasts",
+      "kind": "schema",
+      "server": "lumifyai/lumify",
+      "url": "https://mcpbeat.com/mcp-servers/lumify/sports-intelligence/"
+    },
+    {
+      "detail": "get_market_activity",
+      "kind": "schema",
+      "server": "eggybug42069/namewhisper-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/namewhisper/ens-tools/"
+    },
+    {
+      "detail": "rigor_workflows",
+      "kind": "schema",
+      "server": "chicogonzales/plith",
+      "url": "https://mcpbeat.com/mcp-servers/plith/plith/"
+    },
+    {
+      "detail": "trends___get_top_trends",
+      "kind": "schema",
+      "server": "trendsmcp-ai/amazon-trends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/amazon/"
+    },
+    {
+      "detail": "trends___get_top_trends",
+      "kind": "schema",
+      "server": "trendsmcp-ai/app-store-trends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/app-store/"
+    },
+    {
+      "detail": "trends___get_top_trends",
+      "kind": "schema",
+      "server": "trendsmcp-ai/Trends-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/competitor-tracking/"
+    },
+    {
+      "detail": "trends___get_top_trends",
+      "kind": "schema",
+      "server": "trendsmcp-ai/Trends-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/content-strategy/"
+    },
+    {
+      "detail": "trends___get_top_trends",
+      "kind": "schema",
+      "server": "trendsmcp-ai/Trends-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/crypto/"
+    },
+    {
+      "detail": "trends___get_top_trends",
+      "kind": "schema",
+      "server": "trendsmcp-ai/Trends-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/ecommerce/"
+    },
+    {
+      "detail": "trends___get_top_trends",
+      "kind": "schema",
+      "server": "trendsmcp-ai/google-trends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/google-trends/"
+    },
+    {
+      "detail": "trends___get_top_trends",
+      "kind": "schema",
+      "server": "trendsmcp-ai/Trends-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/market-research/"
+    }
+  ],
+  "servers": {
+    "gone": 37,
+    "new": 196
+  },
+  "source": "https://mcpbeat.com/data/2026-08-29/",
+  "tools": {
+    "added": 2969,
+    "removed": 2794,
+    "schema_changed": 1368
+  }
+}
