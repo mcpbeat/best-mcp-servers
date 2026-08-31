@@ -1,0 +1,165 @@
+{
+  "date": "2026-08-30",
+  "findings": {
+    "fixed": 42980,
+    "high": 140,
+    "new": 2139
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "breverdbidder/cli-anything-biddeed",
+      "url": "https://mcpbeat.com/mcp-servers/biddeed/biddeed-mcp/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "hovecapital/read-only-local-mysql-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/hove/read-only-local-mysql-mcp-server/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "hovecapital/read-only-local-postgres-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/hove/read-only-local-postgres-mcp-server/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "chenyuan35/aineedhelpfromotherai",
+      "url": "https://mcpbeat.com/mcp-servers/aineedhelpfromotherai/reasoning-commons/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "NuGet/Home",
+      "url": "https://mcpbeat.com/mcp-servers/microsoft/nuget/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "AndrewDryga/emisar",
+      "url": "https://mcpbeat.com/mcp-servers/emisar/emisar/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "herbertkokholm/cite-caddy",
+      "url": "https://mcpbeat.com/mcp-servers/herbertkokholm-citecaddy/cite-caddy/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "datanika-io/datanika-core",
+      "url": "https://mcpbeat.com/mcp-servers/datanika/datanika-mcp/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "98lukehall/renoun-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/98lukehall/renoun/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "AkashGoenka/coldstart",
+      "url": "https://mcpbeat.com/mcp-servers/akashgoenka/coldstart/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "BlueWaterCorp/RiskModels_API",
+      "url": "https://mcpbeat.com/mcp-servers/bluewatercorp/riskmodels/"
+    },
+    {
+      "detail": "secret.leaked",
+      "kind": "new_high",
+      "server": "flytohub/flyto-indexer",
+      "url": "https://mcpbeat.com/mcp-servers/chesterhsu/flyto-indexer/"
+    },
+    {
+      "detail": "search_products",
+      "kind": "schema",
+      "server": "BuyWhere/buywhere-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/buywhere/catalog-api/"
+    },
+    {
+      "detail": "web_search_exa",
+      "kind": "schema",
+      "server": "exa-labs/exa-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/exa/exa/"
+    },
+    {
+      "detail": "createImage",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "get_matchups",
+      "kind": "schema",
+      "server": "jdguggs10/flaim",
+      "url": "https://mcpbeat.com/mcp-servers/flaim/mcp/"
+    },
+    {
+      "detail": "get_market_data",
+      "kind": "schema",
+      "server": "koala73/worldmonitor",
+      "url": "https://mcpbeat.com/mcp-servers/worldmonitor/mcp/"
+    },
+    {
+      "detail": "search_listings",
+      "kind": "schema",
+      "server": "Immoswipe/immoswipe-ai",
+      "url": "https://mcpbeat.com/mcp-servers/immoswipe/immoswipe-ai/"
+    },
+    {
+      "detail": "get_grid_intelligence",
+      "kind": "schema",
+      "server": "azmartone67/dchub-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/dchub/mcp-server/"
+    },
+    {
+      "detail": "build_mentoring_business_case",
+      "kind": "schema",
+      "server": "marian-kamenistak/ai-engineering-leader-toolkit",
+      "url": "https://mcpbeat.com/mcp-servers/marian/eng-leadership-toolkit/"
+    },
+    {
+      "detail": "get_docket_entries_tool",
+      "kind": "schema",
+      "server": "jmtroller/mcp-documentation",
+      "url": "https://mcpbeat.com/mcp-servers/bankruptcyobserver/mcp/"
+    },
+    {
+      "detail": "search_beaches",
+      "kind": "schema",
+      "server": "Flightmussy/beachmap-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/europebeachmap/beachmap/"
+    },
+    {
+      "detail": "docs",
+      "kind": "schema",
+      "server": "Frisian-MCP/frisian-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/frisian-mcp/django/"
+    },
+    {
+      "detail": "list_reminders",
+      "kind": "schema",
+      "server": "lanchuske/local-mcp-releases",
+      "url": "https://mcpbeat.com/mcp-servers/local-mcp/local-mcp/"
+    }
+  ],
+  "servers": {
+    "gone": 32,
+    "new": 291
+  },
+  "source": "https://mcpbeat.com/data/2026-08-30/",
+  "tools": {
+    "added": 2662,
+    "removed": 2608,
+    "schema_changed": 2243
+  }
+}
