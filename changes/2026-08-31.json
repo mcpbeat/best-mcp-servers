@@ -1,0 +1,165 @@
+{
+  "date": "2026-08-31",
+  "findings": {
+    "fixed": 403,
+    "high": 24,
+    "new": 893
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "datanika-io/datanika-core",
+      "url": "https://mcpbeat.com/mcp-servers/datanika/datanika-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "AperionAI/shield",
+      "url": "https://mcpbeat.com/mcp-servers/aperionai/shield/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Devrajsinh-Jhala/NPM-Vibe-check",
+      "url": "https://mcpbeat.com/mcp-servers/devrajsinh-jhala/npx-vibe/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "ariffazil/arifOS",
+      "url": "https://mcpbeat.com/mcp-servers/ariffazil/aaa-mcp/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "doc2mcp/doc2mcp",
+      "url": "https://mcpbeat.com/mcp-servers/doc2mcp/langchain/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "kota1026/quantum-shield",
+      "url": "https://mcpbeat.com/mcp-servers/kota1026/defiguard-mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/marketplace-mcp/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "verivus-oss/sqry",
+      "url": "https://mcpbeat.com/mcp-servers/verivus-oss/sqry/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "yaver-io/yaver.io",
+      "url": "https://mcpbeat.com/mcp-servers/yaver-io/yaver/"
+    },
+    {
+      "detail": "net.reverse_shell",
+      "kind": "new_high",
+      "server": "hashgraph-online/hol-guard",
+      "url": "https://mcpbeat.com/mcp-servers/hashgraph-online/hol-guard/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Ankit512/itsoc.",
+      "url": "https://mcpbeat.com/mcp-servers/ankit512/itsoc-mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "phil-bryant/spot-ai-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/phil-bryant/spot-ai-mcp/"
+    },
+    {
+      "detail": "apply_actions",
+      "kind": "schema",
+      "server": "FlowCastle/telegram-bot-templates",
+      "url": "https://mcpbeat.com/mcp-servers/flowcastle/flowcastle/"
+    },
+    {
+      "detail": "transferMotion",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "update_doc_section",
+      "kind": "schema",
+      "server": "try-dock-ai/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/trydock/dock/"
+    },
+    {
+      "detail": "payment_mandate",
+      "kind": "schema",
+      "server": "asmodeoux/conduit",
+      "url": "https://mcpbeat.com/mcp-servers/aiconduit/conduit/"
+    },
+    {
+      "detail": "realty_presale",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "get_gas_index",
+      "kind": "schema",
+      "server": "azmartone67/dchub-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/dchub/mcp-server/"
+    },
+    {
+      "detail": "review",
+      "kind": "schema",
+      "server": "babyblueviper1/invinoveritas",
+      "url": "https://mcpbeat.com/mcp-servers/babyblueviper/invinoveritas/"
+    },
+    {
+      "detail": "get_people",
+      "kind": "schema",
+      "server": "gohluke/dayze-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dayze/life-context/"
+    },
+    {
+      "detail": "register_users_for_interview",
+      "kind": "schema",
+      "server": "JobMojito/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/jobmojito/jobmojito/"
+    },
+    {
+      "detail": "who_do_i_draft",
+      "kind": "schema",
+      "server": "predictionmarketspicks/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/predictionmarketspicks/quant/"
+    },
+    {
+      "detail": "jobs_companies_hiring",
+      "kind": "schema",
+      "server": "ReadyAPIs-com/readyapis",
+      "url": "https://mcpbeat.com/mcp-servers/readyapis/api/"
+    },
+    {
+      "detail": "bucket_create",
+      "kind": "schema",
+      "server": "revdoku/revdoku",
+      "url": "https://mcpbeat.com/mcp-servers/revdoku/revdoku/"
+    }
+  ],
+  "servers": {
+    "gone": 37,
+    "new": 79
+  },
+  "source": "https://mcpbeat.com/data/2026-08-31/",
+  "tools": {
+    "added": 832,
+    "removed": 544,
+    "schema_changed": 1952
+  }
+}
