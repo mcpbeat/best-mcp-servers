@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-01",
+  "findings": {
+    "fixed": 624,
+    "high": 24,
+    "new": 811
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "breverdbidder/cli-anything-biddeed",
+      "url": "https://mcpbeat.com/mcp-servers/biddeed/biddeed-mcp/"
+    },
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "datanika-io/datanika-core",
+      "url": "https://mcpbeat.com/mcp-servers/datanika/datanika-mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Devrajsinh-Jhala/NPM-Vibe-check",
+      "url": "https://mcpbeat.com/mcp-servers/devrajsinh-jhala/npx-vibe/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "GalenGoodwick/Cartridge-Cafe",
+      "url": "https://mcpbeat.com/mcp-servers/galengoodwick/cartridge-cafe/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "KryptosAI/mcp-observatory",
+      "url": "https://mcpbeat.com/mcp-servers/kryptosai/mcp-observatory/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "beepboop2025/seiche",
+      "url": "https://mcpbeat.com/mcp-servers/beepboop2025/seiche/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "doc2mcp/doc2mcp",
+      "url": "https://mcpbeat.com/mcp-servers/doc2mcp/innovationlab/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "githubscum/lotor",
+      "url": "https://mcpbeat.com/mcp-servers/githubscum/lotor/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "kota1026/quantum-shield",
+      "url": "https://mcpbeat.com/mcp-servers/kota1026/smartguard-mcp/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/threews-pumpfun/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "khaoss85/agent-crm",
+      "url": "https://mcpbeat.com/mcp-servers/khaoss85/agent-crm/"
+    },
+    {
+      "detail": "search_products",
+      "kind": "schema",
+      "server": "BuyWhere/buywhere-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/buywhere/catalog-api/"
+    },
+    {
+      "detail": "web_search_exa",
+      "kind": "schema",
+      "server": "exa-labs/exa-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/exa/exa/"
+    },
+    {
+      "detail": "send_message",
+      "kind": "schema",
+      "server": "FlowCastle/telegram-bot-templates",
+      "url": "https://mcpbeat.com/mcp-servers/flowcastle/flowcastle/"
+    },
+    {
+      "detail": "generate_visual",
+      "kind": "schema",
+      "server": "piers-fawkes/fodda-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/fodda/brand-intelligence/"
+    },
+    {
+      "detail": "generate_visual",
+      "kind": "schema",
+      "server": "piers-fawkes/fodda-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/fodda/deep-research/"
+    },
+    {
+      "detail": "generate_visual",
+      "kind": "schema",
+      "server": "piers-fawkes/fodda-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/fodda/earnings-intelligence/"
+    },
+    {
+      "detail": "generate_visual",
+      "kind": "schema",
+      "server": "piers-fawkes/fodda-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/fodda/expert-consult/"
+    },
+    {
+      "detail": "generate_visual",
+      "kind": "schema",
+      "server": "piers-fawkes/fodda-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/fodda/topic-research/"
+    },
+    {
+      "detail": "create_study",
+      "kind": "schema",
+      "server": "minds-ai-co/minds-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/getminds/minds/"
+    },
+    {
+      "detail": "get_past_trips",
+      "kind": "schema",
+      "server": "gondola-ai/gondola-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/gondola/gondola/"
+    },
+    {
+      "detail": "search_offers",
+      "kind": "schema",
+      "server": "jeb-scarbrough/IronScout",
+      "url": "https://mcpbeat.com/mcp-servers/ironscout/ironscout/"
+    },
+    {
+      "detail": "sap_phoenix_get_orderbook",
+      "kind": "schema",
+      "server": "OOBE-PROTOCOL/sap-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/oobeprotocol-sap-mcp/sap-mcp/"
+    }
+  ],
+  "servers": {
+    "gone": 31,
+    "new": 216
+  },
+  "source": "https://mcpbeat.com/data/2026-09-01/",
+  "tools": {
+    "added": 1116,
+    "removed": 752,
+    "schema_changed": 3292
+  }
+}
