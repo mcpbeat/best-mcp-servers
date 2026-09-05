@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-04",
+  "findings": {
+    "fixed": 571,
+    "high": 18,
+    "new": 1159
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "AndrewDryga/emisar",
+      "url": "https://mcpbeat.com/mcp-servers/emisar/emisar/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "datanika-io/datanika-core",
+      "url": "https://mcpbeat.com/mcp-servers/datanika/datanika-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "ariffazil/arifOS",
+      "url": "https://mcpbeat.com/mcp-servers/ariffazil/arifos-mcp/"
+    },
+    {
+      "detail": "secret.leaked",
+      "kind": "new_high",
+      "server": "chunxiaoxx/nautilus-compass",
+      "url": "https://mcpbeat.com/mcp-servers/chunxiaoxx/nautilus-compass/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "doc2mcp/doc2mcp",
+      "url": "https://mcpbeat.com/mcp-servers/doc2mcp/manus/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "yaver-io/yaver.io",
+      "url": "https://mcpbeat.com/mcp-servers/kivanccakmak/yaver/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/brain-mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Enkryptedx/xrpldashboard",
+      "url": "https://mcpbeat.com/mcp-servers/xrpldashboard/xrpldashboard-mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "0xfreak0/sui-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/0xfreak0/sui-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "desplega-ai/agent-swarm",
+      "url": "https://mcpbeat.com/mcp-servers/desplega-ai/agent-swarm/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "JinyangWang27/people-context",
+      "url": "https://mcpbeat.com/mcp-servers/jinyangwang27/people-context/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "newrelic-experimental/preflight",
+      "url": "https://mcpbeat.com/mcp-servers/newrelic-experimental/preflight/"
+    },
+    {
+      "detail": "find_opportunities",
+      "kind": "schema",
+      "server": "analyticslegends/analytics-legends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/analyticslegends/sap-analytics/"
+    },
+    {
+      "detail": "ticker_lookup",
+      "kind": "schema",
+      "server": "Little-Grebe-Inc/drillr-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/drillr/drillr/"
+    },
+    {
+      "detail": "web_search_exa",
+      "kind": "schema",
+      "server": "exa-labs/exa-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/exa/exa/"
+    },
+    {
+      "detail": "export_study",
+      "kind": "schema",
+      "server": "minds-ai-co/minds-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/getminds/minds/"
+    },
+    {
+      "detail": "book_hotel",
+      "kind": "schema",
+      "server": "gondola-ai/gondola-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/gondola/gondola/"
+    },
+    {
+      "detail": "get_injuries",
+      "kind": "schema",
+      "server": "lumifyai/lumify",
+      "url": "https://mcpbeat.com/mcp-servers/lumify/sports-intelligence/"
+    },
+    {
+      "detail": "run_analysis",
+      "kind": "schema",
+      "server": "embeddedlayers/mcp-analytics",
+      "url": "https://mcpbeat.com/mcp-servers/mcpanalytics/analytics/"
+    },
+    {
+      "detail": "get_timeseries",
+      "kind": "schema",
+      "server": "Sugra-Systems/sugra-api-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/sugra/api-mcp/"
+    },
+    {
+      "detail": "propose_wager",
+      "kind": "schema",
+      "server": "MorganFisher2007/Noemic",
+      "url": "https://mcpbeat.com/mcp-servers/noemic/noemic/"
+    },
+    {
+      "detail": "nfe_previsualizar",
+      "kind": "schema",
+      "server": "BrasilNFe/brasilnfe-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/com-brasilnfe/fiscal/"
+    },
+    {
+      "detail": "get_more_tools",
+      "kind": "schema",
+      "server": "marian-kamenistak/ai-engineering-leader-toolkit",
+      "url": "https://mcpbeat.com/mcp-servers/marian/eng-leadership-toolkit/"
+    },
+    {
+      "detail": "reserve_slot",
+      "kind": "schema",
+      "server": "cameronjmcewan-dev/advocatemcp",
+      "url": "https://mcpbeat.com/mcp-servers/advocatemcp/advocate/"
+    }
+  ],
+  "servers": {
+    "gone": 41,
+    "new": 312
+  },
+  "source": "https://mcpbeat.com/data/2026-09-04/",
+  "tools": {
+    "added": 778,
+    "removed": 576,
+    "schema_changed": 2626
+  }
+}
