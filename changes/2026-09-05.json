@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-05",
+  "findings": {
+    "fixed": 553,
+    "high": 49,
+    "new": 1355
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "dinglebear-ai/labby",
+      "url": "https://mcpbeat.com/mcp-servers/dinglebear/labby/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "doc2mcp/doc2mcp",
+      "url": "https://mcpbeat.com/mcp-servers/doc2mcp/developer/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/autopilot-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "steve228uk/metro-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/steve228uk/metro-mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "no-human-ai/no_human",
+      "url": "https://mcpbeat.com/mcp-servers/no-human-ai/no-human/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "desplega-ai/agent-swarm",
+      "url": "https://mcpbeat.com/mcp-servers/desplega-ai/agent-swarm/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "geolens-io/geolens",
+      "url": "https://mcpbeat.com/mcp-servers/geolens-io/geolens/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "daidaiJ/2native-ssh-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/daidaij/2native-ssh-mcp/"
+    },
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "vaibhavmule/aft.page",
+      "url": "https://mcpbeat.com/mcp-servers/aft/mcp/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "superdesigndev/treg",
+      "url": "https://mcpbeat.com/mcp-servers/superdesigndev/treg/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "ArtJack/verdict",
+      "url": "https://mcpbeat.com/mcp-servers/artjack/verdict/"
+    },
+    {
+      "detail": "web_search_exa",
+      "kind": "schema",
+      "server": "exa-labs/exa-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/exa/exa/"
+    },
+    {
+      "detail": "validate_actions",
+      "kind": "schema",
+      "server": "FlowCastle/telegram-bot-templates",
+      "url": "https://mcpbeat.com/mcp-servers/flowcastle/flowcastle/"
+    },
+    {
+      "detail": "plan_study_questions",
+      "kind": "schema",
+      "server": "minds-ai-co/minds-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/getminds/minds/"
+    },
+    {
+      "detail": "get_entity_metrics",
+      "kind": "schema",
+      "server": "cfagan17/muffed-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/muffed/muffed/"
+    },
+    {
+      "detail": "trends___get_top_trends",
+      "kind": "schema",
+      "server": "trendsmcp-ai/amazon-trends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/amazon/"
+    },
+    {
+      "detail": "trends___get_top_trends",
+      "kind": "schema",
+      "server": "trendsmcp-ai/app-store-trends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/app-store/"
+    },
+    {
+      "detail": "trends___get_top_trends",
+      "kind": "schema",
+      "server": "trendsmcp-ai/Trends-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/competitor-tracking/"
+    },
+    {
+      "detail": "trends___get_top_trends",
+      "kind": "schema",
+      "server": "trendsmcp-ai/Trends-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/content-strategy/"
+    },
+    {
+      "detail": "trends___get_top_trends",
+      "kind": "schema",
+      "server": "trendsmcp-ai/Trends-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/crypto/"
+    },
+    {
+      "detail": "trends___get_top_trends",
+      "kind": "schema",
+      "server": "trendsmcp-ai/Trends-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/ecommerce/"
+    },
+    {
+      "detail": "trends___get_top_trends",
+      "kind": "schema",
+      "server": "trendsmcp-ai/google-trends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/google-trends/"
+    },
+    {
+      "detail": "trends___get_top_trends",
+      "kind": "schema",
+      "server": "trendsmcp-ai/Trends-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/market-research/"
+    }
+  ],
+  "servers": {
+    "gone": 81,
+    "new": 235
+  },
+  "source": "https://mcpbeat.com/data/2026-09-05/",
+  "tools": {
+    "added": 880,
+    "removed": 775,
+    "schema_changed": 2507
+  }
+}
