@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-06",
+  "findings": {
+    "fixed": 629,
+    "high": 43,
+    "new": 1172
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "crclabs-hq/GateTest",
+      "url": "https://mcpbeat.com/mcp-servers/gatetest-www/gatetest/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "datanika-io/datanika-core",
+      "url": "https://mcpbeat.com/mcp-servers/datanika/datanika-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "MaxFreedomPollard/Compartment",
+      "url": "https://mcpbeat.com/mcp-servers/maxfreedompollard/compartment/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "juyterman1000/entroly",
+      "url": "https://mcpbeat.com/mcp-servers/juyterman1000/entroly/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "yaver-io/yaver.io",
+      "url": "https://mcpbeat.com/mcp-servers/kivanccakmak/yaver/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "ucsandman/DashClaw",
+      "url": "https://mcpbeat.com/mcp-servers/ucsandman/dashclaw/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "valv-dev/valv",
+      "url": "https://mcpbeat.com/mcp-servers/valv/mcp/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "superdesigndev/treg",
+      "url": "https://mcpbeat.com/mcp-servers/superdesigndev/treg/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "ArtJack/verdict",
+      "url": "https://mcpbeat.com/mcp-servers/artjack/verdict/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "JeanFrancoisGagne/crapkit",
+      "url": "https://mcpbeat.com/mcp-servers/jeanfrancoisgagne/crapkit/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "elbwalker/walkerOS",
+      "url": "https://mcpbeat.com/mcp-servers/walkeros/source-browser/"
+    },
+    {
+      "detail": "list_contacts",
+      "kind": "schema",
+      "server": "FlowCastle/telegram-bot-templates",
+      "url": "https://mcpbeat.com/mcp-servers/flowcastle/flowcastle/"
+    },
+    {
+      "detail": "create_audience_from_brief",
+      "kind": "schema",
+      "server": "minds-ai-co/minds-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/getminds/minds/"
+    },
+    {
+      "detail": "batch_get_events",
+      "kind": "schema",
+      "server": "lumifyai/lumify",
+      "url": "https://mcpbeat.com/mcp-servers/lumify/sports-intelligence/"
+    },
+    {
+      "detail": "renew_ens_name",
+      "kind": "schema",
+      "server": "eggybug42069/namewhisper-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/namewhisper/ens-tools/"
+    },
+    {
+      "detail": "rigor_execute",
+      "kind": "schema",
+      "server": "chicogonzales/plith",
+      "url": "https://mcpbeat.com/mcp-servers/plith/plith/"
+    },
+    {
+      "detail": "realty_policy_rules",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "attest_response",
+      "kind": "schema",
+      "server": "jonashertner/opencaselaw",
+      "url": "https://mcpbeat.com/mcp-servers/opencaselaw/swiss-caselaw/"
+    },
+    {
+      "detail": "generate_image",
+      "kind": "schema",
+      "server": "CreativeClawCo/creative-claw-marketplace",
+      "url": "https://mcpbeat.com/mcp-servers/creativeclaw/creative-claw/"
+    },
+    {
+      "detail": "trivago_trivago-accommodation-radius-search",
+      "kind": "schema",
+      "server": "navifare/moltravel-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/moltravel/travel/"
+    },
+    {
+      "detail": "goal-read-evidence-content",
+      "kind": "schema",
+      "server": "dev-lab-global/planner",
+      "url": "https://mcpbeat.com/mcp-servers/monopoly-gold-planner/mcp/"
+    },
+    {
+      "detail": "get_premium_slate",
+      "kind": "schema",
+      "server": "drduda9/olympus-bets-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/olympus-bets/olympus-bets-analytics/"
+    },
+    {
+      "detail": "jobs_salary_signals",
+      "kind": "schema",
+      "server": "ReadyAPIs-com/readyapis",
+      "url": "https://mcpbeat.com/mcp-servers/readyapis/api/"
+    }
+  ],
+  "servers": {
+    "gone": 546,
+    "new": 262
+  },
+  "source": "https://mcpbeat.com/data/2026-09-06/",
+  "tools": {
+    "added": 914,
+    "removed": 544,
+    "schema_changed": 2344
+  }
+}
