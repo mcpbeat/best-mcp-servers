@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-07",
+  "findings": {
+    "fixed": 581,
+    "high": 41,
+    "new": 1134
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "hovecapital/read-only-local-mysql-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/hove/read-only-local-mysql-mcp-server/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "hovecapital/read-only-local-postgres-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/hove/read-only-local-postgres-mcp-server/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "fox100039-design/bugezy",
+      "url": "https://mcpbeat.com/mcp-servers/bugezy/bugezy/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "datanika-io/datanika-core",
+      "url": "https://mcpbeat.com/mcp-servers/datanika/datanika-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "MaxFreedomPollard/Compartment",
+      "url": "https://mcpbeat.com/mcp-servers/maxfreedompollard/engram/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "alibaizhanov/mengram",
+      "url": "https://mcpbeat.com/mcp-servers/alibaizhanov/mengram/"
+    },
+    {
+      "detail": "rug.new_behaviour",
+      "kind": "new_high",
+      "server": "camgitt/memoir",
+      "url": "https://mcpbeat.com/mcp-servers/camgitt/memoir/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "cesteral/mcp-open-advertising",
+      "url": "https://mcpbeat.com/mcp-servers/cesteral/gads-mcp/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "delimit-ai/delimit-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/delimit-ai/delimit-mcp-server/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "doteyeso-ops/mcp-server-vibes-coded",
+      "url": "https://mcpbeat.com/mcp-servers/doteyeso-ops/mcp-server-vibes-coded/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "githubscum/lotor",
+      "url": "https://mcpbeat.com/mcp-servers/githubscum/lotor/"
+    },
+    {
+      "detail": "list_studies",
+      "kind": "schema",
+      "server": "analyticslegends/analytics-legends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/analyticslegends/sap-analytics/"
+    },
+    {
+      "detail": "web_search_exa",
+      "kind": "schema",
+      "server": "exa-labs/exa-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/exa/exa/"
+    },
+    {
+      "detail": "read_messages",
+      "kind": "schema",
+      "server": "FlowCastle/telegram-bot-templates",
+      "url": "https://mcpbeat.com/mcp-servers/flowcastle/flowcastle/"
+    },
+    {
+      "detail": "animateSprite",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "solve",
+      "kind": "schema",
+      "server": "jaybro2042-alt/liminality-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/physea/liminality/"
+    },
+    {
+      "detail": "find_powder_trips",
+      "kind": "schema",
+      "server": "mikeslone/snowsure-web",
+      "url": "https://mcpbeat.com/mcp-servers/snowsure/snow/"
+    },
+    {
+      "detail": "agent_create",
+      "kind": "schema",
+      "server": "asmodeoux/conduit",
+      "url": "https://mcpbeat.com/mcp-servers/aiconduit/conduit/"
+    },
+    {
+      "detail": "realty_region_price_stats",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "colony_list_group_conversations",
+      "kind": "schema",
+      "server": "TheColonyCC/colony-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/thecolony/mcp-server/"
+    },
+    {
+      "detail": "add_subtitles",
+      "kind": "schema",
+      "server": "CreativeClawCo/creative-claw-marketplace",
+      "url": "https://mcpbeat.com/mcp-servers/creativeclaw/creative-claw/"
+    },
+    {
+      "detail": "asterwise_get_western_solar_return",
+      "kind": "schema",
+      "server": "asterwise/asterwise-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/asterwise/mcp/"
+    },
+    {
+      "detail": "pinpay_create_payment",
+      "kind": "schema",
+      "server": "ifthenpay/mcp-payments",
+      "url": "https://mcpbeat.com/mcp-servers/ifthenpay/payments/"
+    }
+  ],
+  "servers": {
+    "gone": 42,
+    "new": 792
+  },
+  "source": "https://mcpbeat.com/data/2026-09-07/",
+  "tools": {
+    "added": 1063,
+    "removed": 706,
+    "schema_changed": 2033
+  }
+}
