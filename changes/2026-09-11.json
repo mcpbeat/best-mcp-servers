@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-11",
+  "findings": {
+    "fixed": 534,
+    "high": 30,
+    "new": 1200
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "0xArtex/Palmyr",
+      "url": "https://mcpbeat.com/mcp-servers/palmyr/palmyr/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "AndrewDryga/emisar",
+      "url": "https://mcpbeat.com/mcp-servers/emisar/emisar/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "datanika-io/datanika-core",
+      "url": "https://mcpbeat.com/mcp-servers/datanika/datanika-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "TonyWang-hub/mcp-cn-commerce",
+      "url": "https://mcpbeat.com/mcp-servers/tonywang-hub/mcp-cn-commerce/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "yiminspace/quarry",
+      "url": "https://mcpbeat.com/mcp-servers/wangggym/quarry/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "colophon-group/jobseek",
+      "url": "https://mcpbeat.com/mcp-servers/colophon-group/jobseek/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "doc2mcp/doc2mcp",
+      "url": "https://mcpbeat.com/mcp-servers/doc2mcp/sunpeak/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "joinwell52-AI/FCoP",
+      "url": "https://mcpbeat.com/mcp-servers/joinwell52-ai/fcop/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/three-token-mcp/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "s0fractal/warrant",
+      "url": "https://mcpbeat.com/mcp-servers/s0fractal/warrant/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "yaver-io/yaver.io",
+      "url": "https://mcpbeat.com/mcp-servers/yaver-io/yaver/"
+    },
+    {
+      "detail": "archive_memories",
+      "kind": "schema",
+      "server": "matebenyovszky/agentplaybooks",
+      "url": "https://mcpbeat.com/mcp-servers/agentplaybooks/agentplaybooks/"
+    },
+    {
+      "detail": "list_events",
+      "kind": "schema",
+      "server": "lumifyai/lumify",
+      "url": "https://mcpbeat.com/mcp-servers/lumify/sports-intelligence/"
+    },
+    {
+      "detail": "create_meal_plan",
+      "kind": "schema",
+      "server": "Im5tu/haus",
+      "url": "https://mcpbeat.com/mcp-servers/onehaus/haus/"
+    },
+    {
+      "detail": "realty_policy_rules",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "get_country_macro",
+      "kind": "schema",
+      "server": "koala73/worldmonitor",
+      "url": "https://mcpbeat.com/mcp-servers/worldmonitor/mcp/"
+    },
+    {
+      "detail": "generate_image",
+      "kind": "schema",
+      "server": "CreativeClawCo/creative-claw-marketplace",
+      "url": "https://mcpbeat.com/mcp-servers/creativeclaw/creative-claw/"
+    },
+    {
+      "detail": "get_one_on_one_playbook",
+      "kind": "schema",
+      "server": "marian-kamenistak/ai-engineering-leader-toolkit",
+      "url": "https://mcpbeat.com/mcp-servers/marian/eng-leadership-toolkit/"
+    },
+    {
+      "detail": "list_models",
+      "kind": "schema",
+      "server": "mario03690/ai-netcafe",
+      "url": "https://mcpbeat.com/mcp-servers/ainetcafe/ai-netcafe/"
+    },
+    {
+      "detail": "resolve_reference",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/county-map/"
+    },
+    {
+      "detail": "resolve_reference",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/geocoding/"
+    },
+    {
+      "detail": "us_series",
+      "kind": "schema",
+      "server": "datakoot/economy-intel-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/datakoot/economy-intel-mcp/"
+    },
+    {
+      "detail": "log_event",
+      "kind": "schema",
+      "server": "gohluke/dayze-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dayze/life-context/"
+    }
+  ],
+  "servers": {
+    "gone": 50,
+    "new": 33
+  },
+  "source": "https://mcpbeat.com/data/2026-09-11/",
+  "tools": {
+    "added": 1030,
+    "removed": 734,
+    "schema_changed": 7131
+  }
+}
