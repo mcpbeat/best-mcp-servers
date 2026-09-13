@@ -1,0 +1,159 @@
+{
+  "date": "2026-09-12",
+  "findings": {
+    "fixed": 1098,
+    "high": 27,
+    "new": 1743
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "yiminspace/quarry",
+      "url": "https://mcpbeat.com/mcp-servers/wangggym/quarry/"
+    },
+    {
+      "detail": "combo.exec_obfuscated",
+      "kind": "new_high",
+      "server": "Sounio-lang/sounio",
+      "url": "https://mcpbeat.com/mcp-servers/agourakis82/sounio-mcp-server/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "ariffazil/arifOS",
+      "url": "https://mcpbeat.com/mcp-servers/ariffazil/aaa-mcp/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "wandercom/kindex",
+      "url": "https://mcpbeat.com/mcp-servers/jmcentire/kindex/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "kota1026/quantum-shield",
+      "url": "https://mcpbeat.com/mcp-servers/kota1026/vaultguard-mcp/"
+    },
+    {
+      "detail": "supply.only_in_package",
+      "kind": "new_high",
+      "server": "refined-element/lightning-enable-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/refined-element/lightning-enable-mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Atinamos/agent-verification-research",
+      "url": "https://mcpbeat.com/mcp-servers/co-atinamos/evidence/"
+    },
+    {
+      "detail": "combo.obf_exfil",
+      "kind": "new_high",
+      "server": "BuilderIO/agent-native",
+      "url": "https://mcpbeat.com/mcp-servers/builderio/agent-native-clips/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "kinbinghua-lgtm/agent-core-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/kinbinghua-lgtm/agent-core-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "muzimu217/DeliverKit",
+      "url": "https://mcpbeat.com/mcp-servers/muzimu217/deliverkit/"
+    },
+    {
+      "detail": "get_library",
+      "kind": "schema",
+      "server": "bowmark-ai/skill",
+      "url": "https://mcpbeat.com/mcp-servers/bowmark/bowmark/"
+    },
+    {
+      "detail": "apply_actions",
+      "kind": "schema",
+      "server": "FlowCastle/telegram-bot-templates",
+      "url": "https://mcpbeat.com/mcp-servers/flowcastle/flowcastle/"
+    },
+    {
+      "detail": "deploy",
+      "kind": "schema",
+      "server": "just-done/just-publish-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/justpublish/just-publish/"
+    },
+    {
+      "detail": "call_endpoint",
+      "kind": "schema",
+      "server": "Sugra-Systems/sugra-api-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/sugra/api-mcp/"
+    },
+    {
+      "detail": "buy",
+      "kind": "schema",
+      "server": "vaaya-ai/vaaya-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/vaaya/mcp/"
+    },
+    {
+      "detail": "create_meal_plan",
+      "kind": "schema",
+      "server": "Im5tu/haus",
+      "url": "https://mcpbeat.com/mcp-servers/onehaus/haus/"
+    },
+    {
+      "detail": "generate_speech",
+      "kind": "schema",
+      "server": "CreativeClawCo/creative-claw-marketplace",
+      "url": "https://mcpbeat.com/mcp-servers/creativeclaw/creative-claw/"
+    },
+    {
+      "detail": "get_places",
+      "kind": "schema",
+      "server": "gohluke/dayze-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dayze/life-context/"
+    },
+    {
+      "detail": "route_lead",
+      "kind": "schema",
+      "server": "jdhart81/energyai-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/energyaisolution/energyai/"
+    },
+    {
+      "detail": "list_guides",
+      "kind": "schema",
+      "server": "jdhart81/energyai-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/energyaisolution/solar-home-incentives/"
+    },
+    {
+      "detail": "get_monitor_uptime",
+      "kind": "schema",
+      "server": "hyperping/mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/hyperping/hyperping/"
+    },
+    {
+      "detail": "jobs_related_skills",
+      "kind": "schema",
+      "server": "ReadyAPIs-com/readyapis",
+      "url": "https://mcpbeat.com/mcp-servers/readyapis/api/"
+    }
+  ],
+  "servers": {
+    "gone": 88,
+    "new": 762
+  },
+  "source": "https://mcpbeat.com/data/2026-09-12/",
+  "tools": {
+    "added": 825,
+    "removed": 602,
+    "schema_changed": 2575
+  }
+}
