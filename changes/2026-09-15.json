@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-15",
+  "findings": {
+    "fixed": 684,
+    "high": 24,
+    "new": 1715
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "datanika-io/datanika-core",
+      "url": "https://mcpbeat.com/mcp-servers/datanika/datanika-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "alibaizhanov/mengram",
+      "url": "https://mcpbeat.com/mcp-servers/alibaizhanov/mengram/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "anipotts/imessage-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/anipotts/imessage-mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "bluetouff/13flow",
+      "url": "https://mcpbeat.com/mcp-servers/bluetouff/13flow/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "bmdhodl/agent47",
+      "url": "https://mcpbeat.com/mcp-servers/bmdhodl/agentguard47/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "colophon-group/jobseek",
+      "url": "https://mcpbeat.com/mcp-servers/colophon-group/jobseek/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "dfridkin/clawops",
+      "url": "https://mcpbeat.com/mcp-servers/dfridkin/clawops/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/agent-sniper/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "yaver-io/yaver.io",
+      "url": "https://mcpbeat.com/mcp-servers/yaver-io/yaver/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "r2cuerdame/CodeSampleX",
+      "url": "https://mcpbeat.com/mcp-servers/r2cuerdame/codesamplex/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "domondi1/inferrail",
+      "url": "https://mcpbeat.com/mcp-servers/domondi1/inferrail/"
+    },
+    {
+      "detail": "news_search",
+      "kind": "schema",
+      "server": "Little-Grebe-Inc/drillr-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/drillr/drillr/"
+    },
+    {
+      "detail": "create_meal_plan",
+      "kind": "schema",
+      "server": "Im5tu/haus",
+      "url": "https://mcpbeat.com/mcp-servers/onehaus/haus/"
+    },
+    {
+      "detail": "monitors-update",
+      "kind": "schema",
+      "server": "saberapp/platform",
+      "url": "https://mcpbeat.com/mcp-servers/saber-mcp/saber/"
+    },
+    {
+      "detail": "get_cyber_threats",
+      "kind": "schema",
+      "server": "koala73/worldmonitor",
+      "url": "https://mcpbeat.com/mcp-servers/worldmonitor/mcp/"
+    },
+    {
+      "detail": "source_capacity",
+      "kind": "schema",
+      "server": "azmartone67/dchub-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/dchub/mcp-server/"
+    },
+    {
+      "detail": "upload_asset",
+      "kind": "schema",
+      "server": "CreativeClawCo/creative-claw-marketplace",
+      "url": "https://mcpbeat.com/mcp-servers/creativeclaw/creative-claw/"
+    },
+    {
+      "detail": "read_transactions",
+      "kind": "schema",
+      "server": "lovieco/lovie-company-formation-mcp-npx",
+      "url": "https://mcpbeat.com/mcp-servers/lovie/company-formation/"
+    },
+    {
+      "detail": "walletconnect",
+      "kind": "schema",
+      "server": "1inch/1inch-ai",
+      "url": "https://mcpbeat.com/mcp-servers/1inch-business/mcp/"
+    },
+    {
+      "detail": "get_disclosures",
+      "kind": "schema",
+      "server": "na77tech-creator/aikstockdata",
+      "url": "https://mcpbeat.com/mcp-servers/aikstockdata/mcp/"
+    },
+    {
+      "detail": "Compoid_update_record",
+      "kind": "schema",
+      "server": "compoid/compoid-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/compoid/mcp-server/"
+    },
+    {
+      "detail": "register_tool",
+      "kind": "schema",
+      "server": "zse4321/decision-anchor-sdk",
+      "url": "https://mcpbeat.com/mcp-servers/decision-anchor/da/"
+    },
+    {
+      "detail": "update_interview",
+      "kind": "schema",
+      "server": "JobMojito/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/jobmojito/jobmojito/"
+    }
+  ],
+  "servers": {
+    "gone": 37,
+    "new": 380
+  },
+  "source": "https://mcpbeat.com/data/2026-09-15/",
+  "tools": {
+    "added": 1522,
+    "removed": 636,
+    "schema_changed": 1407
+  }
+}
