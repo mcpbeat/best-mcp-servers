@@ -1,7 +1,7 @@
 {
   "source": "https://mcpbeat.com",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "generated": "2026-09-15T04:35:02Z",
+  "generated": "2026-09-16T04:37:19Z",
   "servers": [
     {
       "rank": 1,
@@ -20,7 +20,7 @@
       "title": "Terradev",
       "url": "https://mcpbeat.com/mcp-servers/theoddden/terradev/",
       "status": "alive",
-      "uptime_30d": 66.6,
+      "uptime_30d": 71.3,
       "installs_per_week": 4391,
       "tools": 245,
       "repository": "https://github.com/theoddden/Terradev"
@@ -31,9 +31,9 @@
       "title": "Hermoso",
       "url": "https://mcpbeat.com/mcp-servers/hermoso-ai/hermoso/",
       "status": "alive",
-      "uptime_30d": 98.1,
+      "uptime_30d": 98.2,
       "installs_per_week": 3166,
-      "tools": 173,
+      "tools": 174,
       "repository": "https://github.com/hermoso-ai/hermoso"
     },
     {
@@ -107,7 +107,7 @@
       "title": "io.github.hostinger/hostinger-api-mcp",
       "url": "https://mcpbeat.com/mcp-servers/hostinger/hostinger-api-mcp/",
       "status": "alive",
-      "uptime_30d": 98.2,
+      "uptime_30d": 97.6,
       "installs_per_week": 118476,
       "tools": 0,
       "repository": "https://github.com/hostinger/api-mcp-server"
@@ -118,7 +118,7 @@
       "title": "io.github.cyanheads/pubmed-mcp-server",
       "url": "https://mcpbeat.com/mcp-servers/cyanheads/pubmed-mcp-server/",
       "status": "alive",
-      "uptime_30d": 95,
+      "uptime_30d": 95.1,
       "installs_per_week": 5182,
       "tools": 11,
       "repository": "https://github.com/cyanheads/pubmed-mcp-server"
@@ -140,7 +140,7 @@
       "title": "UK Property Data",
       "url": "https://mcpbeat.com/mcp-servers/paulieb89/property-shared/",
       "status": "alive",
-      "uptime_30d": 95.8,
+      "uptime_30d": 95.9,
       "installs_per_week": 3700,
       "tools": 14,
       "repository": "https://github.com/paulieb89/property-shared"
@@ -250,7 +250,7 @@
       "title": "io.github.warpfreight/warp-agent-mcp",
       "url": "https://mcpbeat.com/mcp-servers/warpfreight/warp-agent-mcp/",
       "status": "alive",
-      "uptime_30d": 94.5,
+      "uptime_30d": 94.2,
       "installs_per_week": 605,
       "tools": 31,
       "repository": "https://github.com/warpfreight/warp-agent-mcp"
@@ -274,7 +274,7 @@
       "status": "alive",
       "uptime_30d": 100,
       "installs_per_week": 479,
-      "tools": 51,
+      "tools": 55,
       "repository": "https://github.com/CommonNinja/sendraven-mcp-server"
     },
     {
@@ -338,7 +338,7 @@
       "title": "io.github.LuxAlgo/luxalgo-mcp-server",
       "url": "https://mcpbeat.com/mcp-servers/luxalgo/luxalgo-mcp-server/",
       "status": "alive",
-      "uptime_30d": 92.5,
+      "uptime_30d": 91,
       "installs_per_week": 384,
       "tools": 42,
       "repository": "https://github.com/LuxAlgo/luxalgo-mcp-server"
@@ -414,7 +414,7 @@
       "title": "Sayba AI Agent Social Platform",
       "url": "https://mcpbeat.com/mcp-servers/saybanet/sayba-platform/",
       "status": "alive",
-      "uptime_30d": 99.8,
+      "uptime_30d": 99.9,
       "installs_per_week": 329,
       "tools": 35,
       "repository": "https://github.com/saybanet/sayba-platform-mcp-server"
@@ -436,7 +436,7 @@
       "title": "com.agishub/mcp",
       "url": "https://mcpbeat.com/mcp-servers/agishub/mcp/",
       "status": "alive",
-      "uptime_30d": 99.1,
+      "uptime_30d": 99.2,
       "installs_per_week": 320,
       "tools": 34,
       "repository": "https://github.com/agishub/agishub-mcp"
@@ -502,7 +502,7 @@
       "title": "io.github.cyanheads/secedgar-mcp-server",
       "url": "https://mcpbeat.com/mcp-servers/cyanheads/secedgar-mcp-server/",
       "status": "alive",
-      "uptime_30d": 94.7,
+      "uptime_30d": 94.8,
       "installs_per_week": 698,
       "tools": 16,
       "repository": "https://github.com/cyanheads/secedgar-mcp-server"
@@ -546,7 +546,7 @@
       "title": "WhitePact",
       "url": "https://mcpbeat.com/mcp-servers/guruprasath-annadurai/whitepact/",
       "status": "alive",
-      "uptime_30d": 22.3,
+      "uptime_30d": 23.2,
       "installs_per_week": 350,
       "tools": 27,
       "repository": "https://github.com/Guruprasath-Annadurai/Whitepact"
@@ -621,7 +621,7 @@
       "title": "APICK",
       "url": "https://mcpbeat.com/mcp-servers/apick/all/",
       "status": "alive",
-      "uptime_30d": 99.4,
+      "uptime_30d": 99.5,
       "installs_per_week": 205,
       "tools": 97,
       "repository": "https://github.com/lead788/apick-mcp"
@@ -1014,7 +1014,7 @@
       "status": "local",
       "installs_per_week": 27437,
       "tools": 0,
-      "repository": "https://github.com/firecrawl/firecrawl-mcp-server.git"
+      "repository": "https://github.com/firecrawl/firecrawl-mcp-server"
     },
     {
       "rank": 97,
