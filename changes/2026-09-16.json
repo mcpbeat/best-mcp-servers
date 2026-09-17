@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-16",
+  "findings": {
+    "fixed": 738,
+    "high": 28,
+    "new": 1252
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "dinglebear-ai/labby",
+      "url": "https://mcpbeat.com/mcp-servers/dinglebear/labby/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "MaxFreedomPollard/Compartment",
+      "url": "https://mcpbeat.com/mcp-servers/maxfreedompollard/engram/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "alibaizhanov/mengram",
+      "url": "https://mcpbeat.com/mcp-servers/alibaizhanov/mengram/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "ariffazil/arifOS",
+      "url": "https://mcpbeat.com/mcp-servers/ariffazil/arifos-mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "bluetouff/l0g",
+      "url": "https://mcpbeat.com/mcp-servers/bluetouff/l0g/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "datacharter/datacharter",
+      "url": "https://mcpbeat.com/mcp-servers/datacharter/datacharter/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "doc2mcp/doc2mcp",
+      "url": "https://mcpbeat.com/mcp-servers/doc2mcp/lightfield/"
+    },
+    {
+      "detail": "combo.obf_exfil",
+      "kind": "new_high",
+      "server": "kryptobaseddev/cleo",
+      "url": "https://mcpbeat.com/mcp-servers/kryptobaseddev/cleo-mcp-server/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "moira-mcp/moira",
+      "url": "https://mcpbeat.com/mcp-servers/moira-mcp/moira/"
+    },
+    {
+      "detail": "rug.new_behaviour",
+      "kind": "new_high",
+      "server": "moxno/privacyscrubber-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/moxno/privacyscrubber-mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "Its-fortunatefolly/HubVibe",
+      "url": "https://mcpbeat.com/mcp-servers/its-fortunatefolly/hubvibe/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "desplega-ai/agent-swarm",
+      "url": "https://mcpbeat.com/mcp-servers/desplega-ai/agent-swarm/"
+    },
+    {
+      "detail": "foura_auto",
+      "kind": "schema",
+      "server": "fouradata/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/foura/mcp/"
+    },
+    {
+      "detail": "create_meal_plan",
+      "kind": "schema",
+      "server": "Im5tu/haus",
+      "url": "https://mcpbeat.com/mcp-servers/onehaus/haus/"
+    },
+    {
+      "detail": "realty_onbid_sale_rate",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "colony_approved_submitters",
+      "kind": "schema",
+      "server": "TheColonyCC/colony-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/thecolony/mcp-server/"
+    },
+    {
+      "detail": "source_capacity",
+      "kind": "schema",
+      "server": "azmartone67/dchub-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/dchub/mcp-server/"
+    },
+    {
+      "detail": "remove_background",
+      "kind": "schema",
+      "server": "CreativeClawCo/creative-claw-marketplace",
+      "url": "https://mcpbeat.com/mcp-servers/creativeclaw/creative-claw/"
+    },
+    {
+      "detail": "formation_update_formation",
+      "kind": "schema",
+      "server": "lovieco/lovie-company-formation-mcp-npx",
+      "url": "https://mcpbeat.com/mcp-servers/lovie/company-formation/"
+    },
+    {
+      "detail": "aqua",
+      "kind": "schema",
+      "server": "1inch/1inch-ai",
+      "url": "https://mcpbeat.com/mcp-servers/1inch-business/mcp/"
+    },
+    {
+      "detail": "Compoid_create_record",
+      "kind": "schema",
+      "server": "compoid/compoid-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/compoid/mcp-server/"
+    },
+    {
+      "detail": "identify_reference_system",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/county-map/"
+    },
+    {
+      "detail": "estimate_conversion_job",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/geocoding/"
+    },
+    {
+      "detail": "resolve_deep_points",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/reverse-geocoding/"
+    }
+  ],
+  "servers": {
+    "gone": 40,
+    "new": 183
+  },
+  "source": "https://mcpbeat.com/data/2026-09-16/",
+  "tools": {
+    "added": 1473,
+    "removed": 1013,
+    "schema_changed": 1753
+  }
+}
