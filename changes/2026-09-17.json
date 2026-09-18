@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-17",
+  "findings": {
+    "fixed": 1301,
+    "high": 44,
+    "new": 2460
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "chenyuan35/aineedhelpfromotherai",
+      "url": "https://mcpbeat.com/mcp-servers/aineedhelpfromotherai/reasoning-commons/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "MervinPraison/PraisonAI",
+      "url": "https://mcpbeat.com/mcp-servers/mervinpraison/praisonai/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "dfridkin/clawops",
+      "url": "https://mcpbeat.com/mcp-servers/dfridkin/clawops/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/threews-3d-studio/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "saajunaid/caddis-plugin",
+      "url": "https://mcpbeat.com/mcp-servers/saajunaid/junai-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "whistlegraph/aesthetic-computer",
+      "url": "https://mcpbeat.com/mcp-servers/whistlegraph/aesthetic-computer/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "r3dz4r/datapulse-my",
+      "url": "https://mcpbeat.com/mcp-servers/r3dz4r/datapulse-my/"
+    },
+    {
+      "detail": "rug.new_behaviour",
+      "kind": "new_high",
+      "server": "seekdaseek/agentfeed-algo",
+      "url": "https://mcpbeat.com/mcp-servers/seekdaseek/agentfeed-algo/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "desplega-ai/agent-swarm",
+      "url": "https://mcpbeat.com/mcp-servers/desplega-ai/agent-swarm/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "omarfff/OSA",
+      "url": "https://mcpbeat.com/mcp-servers/omarfff/osa-procurement-guard/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "ArtJack/verdict",
+      "url": "https://mcpbeat.com/mcp-servers/artjack/verdict/"
+    },
+    {
+      "detail": "get_library",
+      "kind": "schema",
+      "server": "bowmark-ai/skill",
+      "url": "https://mcpbeat.com/mcp-servers/bowmark/bowmark/"
+    },
+    {
+      "detail": "get_deals",
+      "kind": "schema",
+      "server": "BuyWhere/buywhere-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/buywhere/catalog-api/"
+    },
+    {
+      "detail": "createVideoFromReferences",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "grade_slip",
+      "kind": "schema",
+      "server": "lumifyai/lumify",
+      "url": "https://mcpbeat.com/mcp-servers/lumify/sports-intelligence/"
+    },
+    {
+      "detail": "screen_sec_filings",
+      "kind": "schema",
+      "server": "signal8ai/signal8-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/signal8/mcp/"
+    },
+    {
+      "detail": "create_meal_plan",
+      "kind": "schema",
+      "server": "Im5tu/haus",
+      "url": "https://mcpbeat.com/mcp-servers/onehaus/haus/"
+    },
+    {
+      "detail": "cut_and_reframe_video",
+      "kind": "schema",
+      "server": "CreativeClawCo/creative-claw-marketplace",
+      "url": "https://mcpbeat.com/mcp-servers/creativeclaw/creative-claw/"
+    },
+    {
+      "detail": "get_docket_entries_tool",
+      "kind": "schema",
+      "server": "jmtroller/mcp-documentation",
+      "url": "https://mcpbeat.com/mcp-servers/bankruptcyobserver/mcp/"
+    },
+    {
+      "detail": "update_event",
+      "kind": "schema",
+      "server": "gohluke/dayze-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dayze/life-context/"
+    },
+    {
+      "detail": "search_venues",
+      "kind": "schema",
+      "server": "Dim-hour/Dim-Hour",
+      "url": "https://mcpbeat.com/mcp-servers/dimhour/catalog/"
+    },
+    {
+      "detail": "frantic.post_bounty",
+      "kind": "schema",
+      "server": "gofrantic/frantic-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/gofrantic/frantic/"
+    },
+    {
+      "detail": "get_performance_summary",
+      "kind": "schema",
+      "server": "drduda9/olympus-bets-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/olympus-bets/olympus-bets-analytics/"
+    }
+  ],
+  "servers": {
+    "gone": 44,
+    "new": 327
+  },
+  "source": "https://mcpbeat.com/data/2026-09-17/",
+  "tools": {
+    "added": 1465,
+    "removed": 714,
+    "schema_changed": 2191
+  }
+}
