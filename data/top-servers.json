@@ -1,7 +1,7 @@
 {
   "source": "https://mcpbeat.com",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "generated": "2026-09-18T04:37:53Z",
+  "generated": "2026-09-19T04:35:24Z",
   "servers": [
     {
       "rank": 1,
@@ -20,7 +20,7 @@
       "title": "Terradev",
       "url": "https://mcpbeat.com/mcp-servers/theoddden/terradev/",
       "status": "alive",
-      "uptime_30d": 77.6,
+      "uptime_30d": 79.8,
       "installs_per_week": 4391,
       "tools": 245,
       "repository": "https://github.com/theoddden/Terradev"
@@ -49,17 +49,6 @@
     },
     {
       "rank": 5,
-      "name": "dev.svelte/mcp",
-      "title": "Svelte MCP",
-      "url": "https://mcpbeat.com/mcp-servers/svelte/mcp/",
-      "status": "alive",
-      "uptime_30d": 90.6,
-      "installs_per_week": 26558,
-      "tools": 4,
-      "repository": "https://github.com/sveltejs/ai-tools"
-    },
-    {
-      "rank": 6,
       "name": "io.github.crosstabs/crosstabs",
       "title": "io.github.crosstabs/crosstabs",
       "url": "https://mcpbeat.com/mcp-servers/crosstabs/crosstabs/",
@@ -69,7 +58,7 @@
       "tools": 52
     },
     {
-      "rank": 7,
+      "rank": 6,
       "name": "app.apiguru/amazon-data",
       "title": "Apiguru Amazon Data",
       "url": "https://mcpbeat.com/mcp-servers/apiguru/amazon-data/",
@@ -80,7 +69,7 @@
       "repository": "https://github.com/apiguru-app/agent-kit"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "name": "io.github.hostinger/hostinger-api-mcp",
       "title": "io.github.hostinger/hostinger-api-mcp",
       "url": "https://mcpbeat.com/mcp-servers/hostinger/hostinger-api-mcp/",
@@ -91,18 +80,18 @@
       "repository": "https://github.com/hostinger/api-mcp-server"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "name": "io.github.cyanheads/pubmed-mcp-server",
       "title": "io.github.cyanheads/pubmed-mcp-server",
       "url": "https://mcpbeat.com/mcp-servers/cyanheads/pubmed-mcp-server/",
       "status": "alive",
-      "uptime_30d": 95.4,
+      "uptime_30d": 95.5,
       "installs_per_week": 5958,
       "tools": 11,
       "repository": "https://github.com/cyanheads/pubmed-mcp-server"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "name": "io.github.benseverndev-oss/goldenmatch",
       "title": "GoldenMatch",
       "url": "https://mcpbeat.com/mcp-servers/benseverndev-oss/goldenmatch/",
@@ -113,7 +102,7 @@
       "repository": "https://github.com/benseverndev-oss/goldenmatch"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "name": "io.github.proplineapi/propline-mcp",
       "title": "PropLine — Sports Betting Odds \u0026 Prop Resolution",
       "url": "https://mcpbeat.com/mcp-servers/proplineapi/propline-mcp/",
@@ -124,7 +113,7 @@
       "repository": "https://github.com/proplineapi/propline-mcp"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "name": "com.datanexusmcp/mcp-server",
       "title": "DataNexus MCP",
       "url": "https://mcpbeat.com/mcp-servers/datanexusmcp/mcp-server/",
@@ -134,18 +123,18 @@
       "tools": 55
     },
     {
-      "rank": 13,
+      "rank": 12,
       "name": "io.github.paulieb89/property-shared",
       "title": "UK Property Data",
       "url": "https://mcpbeat.com/mcp-servers/paulieb89/property-shared/",
       "status": "alive",
-      "uptime_30d": 96.1,
+      "uptime_30d": 96.2,
       "installs_per_week": 3700,
       "tools": 14,
       "repository": "https://github.com/paulieb89/property-shared"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "name": "io.github.Clipform/mcp-server",
       "title": "Clipform",
       "url": "https://mcpbeat.com/mcp-servers/clipform/mcp-server/",
@@ -156,18 +145,18 @@
       "repository": "https://github.com/clipform/mcp-server"
     },
     {
-      "rank": 15,
+      "rank": 14,
       "name": "io.github.warpfreight/warp-agent-mcp",
       "title": "io.github.warpfreight/warp-agent-mcp",
       "url": "https://mcpbeat.com/mcp-servers/warpfreight/warp-agent-mcp/",
       "status": "alive",
-      "uptime_30d": 93.3,
+      "uptime_30d": 92.8,
       "installs_per_week": 1305,
       "tools": 33,
       "repository": "https://github.com/warpfreight/warp-agent-mcp"
     },
     {
-      "rank": 16,
+      "rank": 15,
       "name": "io.github.ariekogan/ateam-mcp",
       "title": "io.github.ariekogan/ateam-mcp",
       "url": "https://mcpbeat.com/mcp-servers/ariekogan/ateam-mcp/",
@@ -178,7 +167,7 @@
       "repository": "https://github.com/ariekogan/ateam-mcp"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "name": "dev.homespun/homespun",
       "title": "Homespun",
       "url": "https://mcpbeat.com/mcp-servers/homespun/homespun/",
@@ -189,15 +178,26 @@
       "repository": "https://github.com/homespunapps/homespun"
     },
     {
-      "rank": 18,
+      "rank": 17,
       "name": "com.bykaranteli/mcp",
       "title": "com.bykaranteli/mcp",
       "url": "https://mcpbeat.com/mcp-servers/bykaranteli/mcp/",
       "status": "alive",
       "uptime_30d": 99.6,
       "installs_per_week": 904,
-      "tools": 46,
+      "tools": 47,
       "repository": "https://github.com/bykarantelicom/bykaranteli-mcp"
+    },
+    {
+      "rank": 18,
+      "name": "ai.tensorfeed/mcp-server",
+      "title": "TensorFeed",
+      "url": "https://mcpbeat.com/mcp-servers/tensorfeed/mcp-server/",
+      "status": "alive",
+      "uptime_30d": 100,
+      "installs_per_week": 1189,
+      "tools": 27,
+      "repository": "https://github.com/RipperMercs/tensorfeed-mcp"
     },
     {
       "rank": 19,
@@ -293,7 +293,7 @@
       "title": "Flux Cloud",
       "url": "https://mcpbeat.com/mcp-servers/runonflux/flux-cloud-mcp/",
       "status": "alive",
-      "uptime_30d": 97,
+      "uptime_30d": 97.3,
       "installs_per_week": 1626,
       "tools": 15,
       "repository": "https://github.com/RunOnFlux/flux-cloud-mcp"
@@ -339,22 +339,11 @@
       "status": "alive",
       "uptime_30d": 99.9,
       "installs_per_week": 561,
-      "tools": 75,
+      "tools": 79,
       "repository": "https://github.com/snowbikemike/tascan-mcp"
     },
     {
       "rank": 32,
-      "name": "io.github.Nutlope/inspo",
-      "title": "io.github.Nutlope/inspo",
-      "url": "https://mcpbeat.com/mcp-servers/nutlope/inspo/",
-      "status": "alive",
-      "uptime_30d": 52.8,
-      "installs_per_week": 1338,
-      "tools": 15,
-      "repository": "https://github.com/Nutlope/inspo"
-    },
-    {
-      "rank": 33,
       "name": "io.github.eidetic-works/nucleus",
       "title": "io.github.eidetic-works/nucleus",
       "url": "https://mcpbeat.com/mcp-servers/eidetic-works/nucleus/",
@@ -365,15 +354,26 @@
       "repository": "https://github.com/eidetic-works/nucleus-mcp"
     },
     {
-      "rank": 34,
+      "rank": 33,
       "name": "io.github.untitledfinancial/dpx",
       "title": "DPX — Institutional Cross-Border Settlement",
       "url": "https://mcpbeat.com/mcp-servers/untitledfinancial/dpx/",
       "status": "alive",
       "uptime_30d": 100,
       "installs_per_week": 463,
-      "tools": 90,
+      "tools": 85,
       "repository": "https://github.com/untitledfinancial/dpx-mcp"
+    },
+    {
+      "rank": 34,
+      "name": "com.xoomar/xoomar-mcp",
+      "title": "XOOMAR market data",
+      "url": "https://mcpbeat.com/mcp-servers/xoomar/xoomar-mcp/",
+      "status": "alive",
+      "uptime_30d": 100,
+      "installs_per_week": 647,
+      "tools": 26,
+      "repository": "https://github.com/xoomar-dev-cloud/xoomar-mcp"
     },
     {
       "rank": 35,
@@ -414,7 +414,7 @@
       "title": "io.github.cyanheads/clinicaltrialsgov-mcp-server",
       "url": "https://mcpbeat.com/mcp-servers/cyanheads/clinicaltrialsgov-mcp-server/",
       "status": "alive",
-      "uptime_30d": 95,
+      "uptime_30d": 95.2,
       "installs_per_week": 2830,
       "tools": 7,
       "repository": "https://github.com/cyanheads/clinicaltrialsgov-mcp-server"
@@ -454,6 +454,17 @@
     },
     {
       "rank": 42,
+      "name": "dev.emailmd/emailmd",
+      "title": "emailmd",
+      "url": "https://mcpbeat.com/mcp-servers/emailmd/emailmd/",
+      "status": "alive",
+      "uptime_30d": 98.5,
+      "installs_per_week": 5828,
+      "tools": 3,
+      "repository": "https://github.com/anypost/emailmd"
+    },
+    {
+      "rank": 43,
       "name": "io.github.TencentCloudBase/cloudbase-mcp",
       "title": "CloudBase",
       "url": "https://mcpbeat.com/mcp-servers/tencentcloudbase/cloudbase-mcp/",
@@ -464,7 +475,7 @@
       "repository": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "name": "io.github.sunholo-data/parse",
       "title": "AILANG Parse",
       "url": "https://mcpbeat.com/mcp-servers/sunholo-data/parse/",
@@ -475,18 +486,18 @@
       "repository": "https://github.com/sunholo-data/ailang-parse"
     },
     {
-      "rank": 44,
-      "name": "ai.tensorfeed/mcp-server",
-      "title": "TensorFeed",
-      "url": "https://mcpbeat.com/mcp-servers/tensorfeed/mcp-server/",
+      "rank": 45,
+      "name": "ai.oobeprotocol.sap.mcp/sap-mcp",
+      "title": "SAP MCP Server",
+      "url": "https://mcpbeat.com/mcp-servers/oobeprotocol-sap-mcp/sap-mcp/",
       "status": "alive",
-      "uptime_30d": 100,
-      "installs_per_week": 461,
-      "tools": 27,
-      "repository": "https://github.com/RipperMercs/tensorfeed-mcp"
+      "uptime_30d": 99.4,
+      "installs_per_week": 351,
+      "tools": 406,
+      "repository": "https://github.com/OOBE-PROTOCOL/sap-mcp"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "name": "com.labelixa/zpl",
       "title": "Labelixa",
       "url": "https://mcpbeat.com/mcp-servers/labelixa/zpl/",
@@ -497,7 +508,7 @@
       "repository": "https://github.com/Labelixa/labelixa-mcp"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "name": "com.ainetcafe/ai-netcafe",
       "title": "com.ainetcafe/ai-netcafe",
       "url": "https://mcpbeat.com/mcp-servers/ainetcafe/ai-netcafe/",
@@ -508,7 +519,7 @@
       "repository": "https://github.com/mario03690/ai-netcafe"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "name": "com.run402/mcp",
       "title": "Run402",
       "url": "https://mcpbeat.com/mcp-servers/run402/mcp/",
@@ -519,7 +530,7 @@
       "repository": "https://github.com/kychee-com/run402"
     },
     {
-      "rank": 48,
+      "rank": 49,
       "name": "email.deadsimple/dead-simple-email",
       "title": "Dead Simple Email",
       "url": "https://mcpbeat.com/mcp-servers/deadsimple/dead-simple-email/",
@@ -530,7 +541,7 @@
       "repository": "https://github.com/deadsimple-email/deadsimple-email"
     },
     {
-      "rank": 49,
+      "rank": 50,
       "name": "io.github.flop-labs/technocore-chat",
       "title": "io.github.flop-labs/technocore-chat",
       "url": "https://mcpbeat.com/mcp-servers/flop-labs/technocore-chat/",
@@ -541,7 +552,7 @@
       "repository": "https://github.com/flop-labs/technocore-chat"
     },
     {
-      "rank": 50,
+      "rank": 51,
       "name": "io.github.cammac-creator/ibanforge",
       "title": "io.github.cammac-creator/ibanforge",
       "url": "https://mcpbeat.com/mcp-servers/cammac-creator/ibanforge/",
@@ -552,7 +563,7 @@
       "repository": "https://github.com/cammac-creator/ibanforge"
     },
     {
-      "rank": 51,
+      "rank": 52,
       "name": "io.oxylabs/oxylabs-mcp",
       "title": "io.oxylabs/oxylabs-mcp",
       "url": "https://mcpbeat.com/mcp-servers/oxylabs/oxylabs-mcp/",
@@ -563,7 +574,7 @@
       "repository": "https://github.com/oxylabs/oxylabs-mcp"
     },
     {
-      "rank": 52,
+      "rank": 53,
       "name": "io.github.clouatre-labs/math-mcp-learning-server",
       "title": "Math MCP Learning",
       "url": "https://mcpbeat.com/mcp-servers/clouatre-labs/math-mcp-learning-server/",
@@ -574,18 +585,18 @@
       "repository": "https://github.com/clouatre-labs/math-mcp-learning-server"
     },
     {
-      "rank": 53,
+      "rank": 54,
       "name": "io.github.cyanheads/secedgar-mcp-server",
       "title": "io.github.cyanheads/secedgar-mcp-server",
       "url": "https://mcpbeat.com/mcp-servers/cyanheads/secedgar-mcp-server/",
       "status": "alive",
-      "uptime_30d": 95,
+      "uptime_30d": 95.1,
       "installs_per_week": 716,
       "tools": 16,
       "repository": "https://github.com/cyanheads/secedgar-mcp-server"
     },
     {
-      "rank": 54,
+      "rank": 55,
       "name": "io.github.dappros/ethora-mcp-server",
       "title": "io.github.dappros/ethora-mcp-server",
       "url": "https://mcpbeat.com/mcp-servers/dappros/ethora-mcp-server/",
@@ -596,7 +607,7 @@
       "repository": "https://github.com/dappros/ethora-mcp-server"
     },
     {
-      "rank": 55,
+      "rank": 56,
       "name": "io.github.NellInc/psychopathia-mcp",
       "title": "io.github.NellInc/psychopathia-mcp",
       "url": "https://mcpbeat.com/mcp-servers/nellinc/psychopathia-mcp/",
@@ -607,7 +618,18 @@
       "repository": "https://github.com/NellInc/psychopathia-mcp"
     },
     {
-      "rank": 56,
+      "rank": 57,
+      "name": "io.github.Smartoire/paxaver-mcp",
+      "title": "io.github.Smartoire/paxaver-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/smartoire/paxaver-mcp/",
+      "status": "alive",
+      "uptime_30d": 100,
+      "installs_per_week": 405,
+      "tools": 25,
+      "repository": "https://github.com/Smartoire/paxaver-mcp"
+    },
+    {
+      "rank": 58,
       "name": "io.github.shichuanqiong/agoradm",
       "title": "io.github.shichuanqiong/agoradm",
       "url": "https://mcpbeat.com/mcp-servers/shichuanqiong/agoradm/",
@@ -618,7 +640,7 @@
       "repository": "https://github.com/shichuanqiong/AgoraDM"
     },
     {
-      "rank": 57,
+      "rank": 59,
       "name": "com.deerdawn/deerdawn",
       "title": "com.deerdawn/deerdawn",
       "url": "https://mcpbeat.com/mcp-servers/deerdawn/deerdawn/",
@@ -629,37 +651,15 @@
       "repository": "https://github.com/HissingSpider/deerdawn-mcp"
     },
     {
-      "rank": 58,
+      "rank": 60,
       "name": "io.github.Guruprasath-Annadurai/whitepact",
       "title": "WhitePact",
       "url": "https://mcpbeat.com/mcp-servers/guruprasath-annadurai/whitepact/",
       "status": "alive",
-      "uptime_30d": 24.6,
+      "uptime_30d": 25.3,
       "installs_per_week": 350,
       "tools": 27,
       "repository": "https://github.com/Guruprasath-Annadurai/Whitepact"
-    },
-    {
-      "rank": 59,
-      "name": "io.github.0rkz/byte-protocol",
-      "title": "io.github.0rkz/byte-protocol",
-      "url": "https://mcpbeat.com/mcp-servers/0rkz/byte-protocol/",
-      "status": "alive",
-      "uptime_30d": 98.9,
-      "installs_per_week": 695,
-      "tools": 15,
-      "repository": "https://github.com/0rkz/byte-mcp-server"
-    },
-    {
-      "rank": 60,
-      "name": "io.github.CoinRithm/mcp-trading",
-      "title": "CoinRithm Agent Trading",
-      "url": "https://mcpbeat.com/mcp-servers/coinrithm/mcp-trading/",
-      "status": "alive",
-      "uptime_30d": 100,
-      "installs_per_week": 238,
-      "tools": 38,
-      "repository": "https://github.com/CoinRithm/coinrithm-agent-trading"
     },
     {
       "rank": 61,
@@ -886,7 +886,7 @@
       "title": "io.github.SAP/fiori-mcp-server",
       "url": "https://mcpbeat.com/mcp-servers/sap/fiori-mcp-server/",
       "status": "local",
-      "installs_per_week": 69678,
+      "installs_per_week": 76843,
       "tools": 0,
       "repository": "https://github.com/SAP/open-ux-tools"
     },
@@ -991,6 +991,15 @@
     },
     {
       "rank": 94,
+      "name": "io.github.perplexityai/mcp-server",
+      "title": "Perplexity API Platform (moved to ai.perplexity/mcp-server)",
+      "url": "https://mcpbeat.com/mcp-servers/perplexityai/mcp-server/",
+      "status": "local",
+      "installs_per_week": 36947,
+      "tools": 0
+    },
+    {
+      "rank": 95,
       "name": "io.github.appwrite/mcp-for-api",
       "title": "io.github.appwrite/mcp-for-api",
       "url": "https://mcpbeat.com/mcp-servers/appwrite/mcp-for-api/",
@@ -1000,7 +1009,7 @@
       "repository": "https://github.com/appwrite/mcp-for-api"
     },
     {
-      "rank": 95,
+      "rank": 96,
       "name": "io.github.DeusData/codebase-memory-mcp",
       "title": "Codebase Memory",
       "url": "https://mcpbeat.com/mcp-servers/deusdata/codebase-memory-mcp/",
@@ -1010,7 +1019,7 @@
       "repository": "https://github.com/DeusData/codebase-memory-mcp"
     },
     {
-      "rank": 96,
+      "rank": 97,
       "name": "io.github.firecrawl/firecrawl-mcp-server",
       "title": "Firecrawl MCP Server",
       "url": "https://mcpbeat.com/mcp-servers/firecrawl/firecrawl-mcp-server/",
@@ -1018,15 +1027,6 @@
       "installs_per_week": 30339,
       "tools": 0,
       "repository": "https://github.com/firecrawl/firecrawl-mcp-server.git"
-    },
-    {
-      "rank": 97,
-      "name": "io.github.perplexityai/mcp-server",
-      "title": "Perplexity API Platform (moved to ai.perplexity/mcp-server)",
-      "url": "https://mcpbeat.com/mcp-servers/perplexityai/mcp-server/",
-      "status": "local",
-      "installs_per_week": 30284,
-      "tools": 0
     },
     {
       "rank": 98,
