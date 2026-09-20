@@ -1,0 +1,141 @@
+{
+  "date": "2026-09-19",
+  "findings": {
+    "fixed": 3612,
+    "high": 17,
+    "new": 1119
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "dinglebear-ai/labby",
+      "url": "https://mcpbeat.com/mcp-servers/dinglebear/labby/"
+    },
+    {
+      "detail": "rug.new_install_hook",
+      "kind": "new_high",
+      "server": "Furowu/brokre",
+      "url": "https://mcpbeat.com/mcp-servers/furowu/brokre/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "chenyuan35/aineedhelpfromotherai",
+      "url": "https://mcpbeat.com/mcp-servers/chenyuan35/reasoning-commons/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "hashgraph-online/hol-guard",
+      "url": "https://mcpbeat.com/mcp-servers/hashgraph-online/hol-guard/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "BuilderIO/agent-native",
+      "url": "https://mcpbeat.com/mcp-servers/builderio/agent-native-analytics/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "saxonnicholls/super-log",
+      "url": "https://mcpbeat.com/mcp-servers/super-log/super-log/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "WYRE-AI/keeper-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/wyre-technology/keeper-mcp/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "tourhabk-ui/pos",
+      "url": "https://mcpbeat.com/mcp-servers/vedarai/mcp/"
+    },
+    {
+      "detail": "manage_dns",
+      "kind": "schema",
+      "server": "alainsvrd/borealhost-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/borealhost/mcp/"
+    },
+    {
+      "detail": "get_address_noise",
+      "kind": "schema",
+      "server": "appstackllc/decibelshieldwebsite",
+      "url": "https://mcpbeat.com/mcp-servers/decibelshield/decibel-shield/"
+    },
+    {
+      "detail": "get_agent_profile",
+      "kind": "schema",
+      "server": "zse4321/decision-anchor-sdk",
+      "url": "https://mcpbeat.com/mcp-servers/decision-anchor/da/"
+    },
+    {
+      "detail": "kapruka_render_options_card",
+      "kind": "schema",
+      "server": "kapruka/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/kapruka/kapruka-mcp/"
+    },
+    {
+      "detail": "open_in_studio",
+      "kind": "schema",
+      "server": "w1ne/kernelCAD-web",
+      "url": "https://mcpbeat.com/mcp-servers/kernelcad/kernelcad/"
+    },
+    {
+      "detail": "jobs_skill_trends",
+      "kind": "schema",
+      "server": "ReadyAPIs-com/readyapis",
+      "url": "https://mcpbeat.com/mcp-servers/readyapis/api/"
+    },
+    {
+      "detail": "find_bottleneck",
+      "kind": "schema",
+      "server": "chiaha-ai/reliasim-site",
+      "url": "https://mcpbeat.com/mcp-servers/reliasim/public/"
+    },
+    {
+      "detail": "bucket_get",
+      "kind": "schema",
+      "server": "revdoku/revdoku",
+      "url": "https://mcpbeat.com/mcp-servers/revdoku/revdoku/"
+    },
+    {
+      "detail": "search_hotels",
+      "kind": "schema",
+      "server": "STAYKER-COM/1Stay-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/stayker/1stay/"
+    },
+    {
+      "detail": "upload_asset",
+      "kind": "schema",
+      "server": "smartdatabrokers/slideforge-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/slideforge/slideforge/"
+    },
+    {
+      "detail": "find_paid_service",
+      "kind": "schema",
+      "server": "jalcodev/nohumans-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/nohumans/registry/"
+    },
+    {
+      "detail": "lookup_hero",
+      "kind": "schema",
+      "server": "batrugg/batru-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/batru/batru-mcp/"
+    }
+  ],
+  "servers": {
+    "gone": 44,
+    "new": 296
+  },
+  "source": "https://mcpbeat.com/data/2026-09-19/",
+  "tools": {
+    "added": 1416,
+    "removed": 462,
+    "schema_changed": 3919
+  }
+}
