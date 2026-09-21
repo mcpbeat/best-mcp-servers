@@ -1,0 +1,153 @@
+{
+  "date": "2026-09-20",
+  "findings": {
+    "fixed": 855,
+    "high": 12,
+    "new": 870
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "dinglebear-ai/labby",
+      "url": "https://mcpbeat.com/mcp-servers/dinglebear/labby/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "kaeawc/auto-mobile",
+      "url": "https://mcpbeat.com/mcp-servers/jasonpearson/auto-mobile/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "doteyeso-ops/mcp-server-vibes-coded",
+      "url": "https://mcpbeat.com/mcp-servers/doteyeso-ops/mcp-server-vibes-coded/"
+    },
+    {
+      "detail": "rug.new_behaviour",
+      "kind": "new_high",
+      "server": "pendpost/pendpost",
+      "url": "https://mcpbeat.com/mcp-servers/pendpost/pendpost/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Vladimir-Human/ru-marketplace-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/vladimir-human/ru-marketplace-mcp/"
+    },
+    {
+      "detail": "net.reverse_shell",
+      "kind": "new_high",
+      "server": "skillmds/skillmd",
+      "url": "https://mcpbeat.com/mcp-servers/skillmd/skillmd/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "jadenryu/lurq",
+      "url": "https://mcpbeat.com/mcp-servers/jadenryu/lurq/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "ciceroyang/agentgate",
+      "url": "https://mcpbeat.com/mcp-servers/ciceroyang/agentgate/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Dominic-DK/mac-shortcuts-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dominic-dk/mac-shortcuts-mcp/"
+    },
+    {
+      "detail": "list_forecasts",
+      "kind": "schema",
+      "server": "lumifyai/lumify",
+      "url": "https://mcpbeat.com/mcp-servers/lumify/sports-intelligence/"
+    },
+    {
+      "detail": "cortex_choose_enrichment",
+      "kind": "schema",
+      "server": "OperatingSystem-1/website",
+      "url": "https://mcpbeat.com/mcp-servers/mitosislabs/mitosis/"
+    },
+    {
+      "detail": "query_stat_leaders",
+      "kind": "schema",
+      "server": "cfagan17/muffed-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/muffed/muffed/"
+    },
+    {
+      "detail": "get_powder_reels",
+      "kind": "schema",
+      "server": "mikeslone/snowsure-web",
+      "url": "https://mcpbeat.com/mcp-servers/snowsure/snow/"
+    },
+    {
+      "detail": "validate_ai_output",
+      "kind": "schema",
+      "server": "VerificateAI/verificate-mcp-quickstart",
+      "url": "https://mcpbeat.com/mcp-servers/verificate/mcp/"
+    },
+    {
+      "detail": "get_league_info",
+      "kind": "schema",
+      "server": "jdguggs10/flaim",
+      "url": "https://mcpbeat.com/mcp-servers/flaim/mcp/"
+    },
+    {
+      "detail": "get_job",
+      "kind": "schema",
+      "server": "asmisha/remoote-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/remoote/remote-jobs/"
+    },
+    {
+      "detail": "realty_search_auctions",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "get_facility",
+      "kind": "schema",
+      "server": "azmartone67/dchub-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/dchub/mcp-server/"
+    },
+    {
+      "detail": "add_subtitles",
+      "kind": "schema",
+      "server": "CreativeClawCo/creative-claw-marketplace",
+      "url": "https://mcpbeat.com/mcp-servers/creativeclaw/creative-claw/"
+    },
+    {
+      "detail": "architect.validate",
+      "kind": "schema",
+      "server": "Michelangelo-Z/ai-design-blueprint",
+      "url": "https://mcpbeat.com/mcp-servers/aidesignblueprint/blueprint/"
+    },
+    {
+      "detail": "get_turkey_premium",
+      "kind": "schema",
+      "server": "bykarantelicom/bykaranteli-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/bykaranteli/mcp/"
+    }
+  ],
+  "servers": {
+    "gone": 44,
+    "new": 209
+  },
+  "source": "https://mcpbeat.com/data/2026-09-20/",
+  "tools": {
+    "added": 1456,
+    "removed": 684,
+    "schema_changed": 3993
+  }
+}
