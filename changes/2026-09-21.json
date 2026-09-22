@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-21",
+  "findings": {
+    "fixed": 1353,
+    "high": 36,
+    "new": 1153
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "yiminspace/quarry",
+      "url": "https://mcpbeat.com/mcp-servers/wangggym/quarry/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "bmdhodl/agent47",
+      "url": "https://mcpbeat.com/mcp-servers/bmdhodl/agentguard47/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "kryptobaseddev/cleo",
+      "url": "https://mcpbeat.com/mcp-servers/kryptobaseddev/cleo-mcp-server/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/pumpfun-solana-mcp/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "portel-dev/ncp",
+      "url": "https://mcpbeat.com/mcp-servers/portel-dev/ncp/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "revsmoke/promptrejectormcp",
+      "url": "https://mcpbeat.com/mcp-servers/revsmoke/promptrejectormcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "Octonove/crbro-memory",
+      "url": "https://mcpbeat.com/mcp-servers/octonove/crbro-memory/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "hashgraph-online/hol-guard",
+      "url": "https://mcpbeat.com/mcp-servers/hashgraph-online/hol-guard/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "pezhik/skilltotal",
+      "url": "https://mcpbeat.com/mcp-servers/skilltotal/skilltotal/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "ogasurfproject-jpg/horizon-shield",
+      "url": "https://mcpbeat.com/mcp-servers/ogasurfproject-jpg/hs-mcp-observatory/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "ArneFfm/nowyourlink-agent-kit",
+      "url": "https://mcpbeat.com/mcp-servers/arneffm/nowyourlink/"
+    },
+    {
+      "detail": "find_opportunities",
+      "kind": "schema",
+      "server": "analyticslegends/analytics-legends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/analyticslegends/sap-analytics/"
+    },
+    {
+      "detail": "editSpritesheet",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "get_price_quote",
+      "kind": "schema",
+      "server": "popdot-ai/popdot-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/popdot/popdot-mcp/"
+    },
+    {
+      "detail": "buy",
+      "kind": "schema",
+      "server": "vaaya-ai/vaaya-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/vaaya/mcp/"
+    },
+    {
+      "detail": "get_credits_link",
+      "kind": "schema",
+      "server": "CreativeClawCo/creative-claw-marketplace",
+      "url": "https://mcpbeat.com/mcp-servers/creativeclaw/creative-claw/"
+    },
+    {
+      "detail": "get_tool_help",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/boundaries/"
+    },
+    {
+      "detail": "get_tool_help",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/county-map/"
+    },
+    {
+      "detail": "get_catalog",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/currency/"
+    },
+    {
+      "detail": "get_tool_help",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/distributed-manufacturing/"
+    },
+    {
+      "detail": "get_pack",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/earthquakes/"
+    },
+    {
+      "detail": "get_pack",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/floods/"
+    },
+    {
+      "detail": "get_catalog",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/geocoding/"
+    }
+  ],
+  "servers": {
+    "gone": 477,
+    "new": 194
+  },
+  "source": "https://mcpbeat.com/data/2026-09-21/",
+  "tools": {
+    "added": 1957,
+    "removed": 735,
+    "schema_changed": 4002
+  }
+}
