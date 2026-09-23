@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-22",
+  "findings": {
+    "fixed": 1043,
+    "high": 26,
+    "new": 2539
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "datanika-io/datanika-core",
+      "url": "https://mcpbeat.com/mcp-servers/datanika/datanika-mcp/"
+    },
+    {
+      "detail": "net.reverse_shell",
+      "kind": "new_high",
+      "server": "AperionAI/shield",
+      "url": "https://mcpbeat.com/mcp-servers/aperionai/shield/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "Jonnyton/TinyAssets",
+      "url": "https://mcpbeat.com/mcp-servers/jonnyton/workflow-universe-server/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "yiminspace/quarry",
+      "url": "https://mcpbeat.com/mcp-servers/wangggym/quarry/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "bluetouff/l0g",
+      "url": "https://mcpbeat.com/mcp-servers/bluetouff/l0g/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "doc2mcp/doc2mcp",
+      "url": "https://mcpbeat.com/mcp-servers/doc2mcp/stocksense-ai/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/threews-x402-bazaar/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "revsmoke/promptrejectormcp",
+      "url": "https://mcpbeat.com/mcp-servers/revsmoke/promptrejectormcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "vantioai/vantio-open-core",
+      "url": "https://mcpbeat.com/mcp-servers/vantioai/vantio-optics/"
+    },
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "Apomera/AlloFlow",
+      "url": "https://mcpbeat.com/mcp-servers/apomera/alloflow-remediation/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "pezhik/skilltotal",
+      "url": "https://mcpbeat.com/mcp-servers/skilltotal/skilltotal/"
+    },
+    {
+      "detail": "foura_single",
+      "kind": "schema",
+      "server": "fouradata/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/foura/mcp/"
+    },
+    {
+      "detail": "search_vehicles",
+      "kind": "schema",
+      "server": "gondola-ai/gondola-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/gondola/gondola/"
+    },
+    {
+      "detail": "create_workspace",
+      "kind": "schema",
+      "server": "try-dock-ai/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/trydock/dock/"
+    },
+    {
+      "detail": "check_upgrade_eligibility",
+      "kind": "schema",
+      "server": "mikeslone-plusgrade/upgradeagent",
+      "url": "https://mcpbeat.com/mcp-servers/upgradeagent/upgrade-agent/"
+    },
+    {
+      "detail": "buy",
+      "kind": "schema",
+      "server": "vaaya-ai/vaaya-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/vaaya/mcp/"
+    },
+    {
+      "detail": "create_meal_plan",
+      "kind": "schema",
+      "server": "Im5tu/haus",
+      "url": "https://mcpbeat.com/mcp-servers/onehaus/haus/"
+    },
+    {
+      "detail": "compare_selling_costs",
+      "kind": "schema",
+      "server": "Pulltrader/pulltrader-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/pulltrader/seller-economics/"
+    },
+    {
+      "detail": "zone_stats",
+      "kind": "schema",
+      "server": "htristram/trustydata-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/trustydata/trustydata/"
+    },
+    {
+      "detail": "colony_set_dm_privacy",
+      "kind": "schema",
+      "server": "TheColonyCC/colony-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/thecolony/mcp-server/"
+    },
+    {
+      "detail": "list_ainumbers_tools",
+      "kind": "schema",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "list_stocks",
+      "kind": "schema",
+      "server": "na77tech-creator/aikstockdata",
+      "url": "https://mcpbeat.com/mcp-servers/aikstockdata/mcp/"
+    },
+    {
+      "detail": "get_tool_help",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/population/"
+    }
+  ],
+  "servers": {
+    "gone": 49,
+    "new": 881
+  },
+  "source": "https://mcpbeat.com/data/2026-09-22/",
+  "tools": {
+    "added": 3526,
+    "removed": 668,
+    "schema_changed": 4260
+  }
+}
