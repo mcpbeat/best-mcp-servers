@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-23",
+  "findings": {
+    "fixed": 909,
+    "high": 39,
+    "new": 1358
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "datanika-io/datanika-core",
+      "url": "https://mcpbeat.com/mcp-servers/datanika/datanika-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "Jonnyton/TinyAssets",
+      "url": "https://mcpbeat.com/mcp-servers/jonnyton/workflow-universe-server/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "aartiq/servicenow-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/aartiq/nowaikit/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "getsentry/sentry-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/getsentry/sentry-mcp/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/alibaba-cloud/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "sassyconsultingllc/SassyMCP",
+      "url": "https://mcpbeat.com/mcp-servers/sassyconsultingllc/sassymcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "dan8433-user/ledger",
+      "url": "https://mcpbeat.com/mcp-servers/arcaeon/ledger/"
+    },
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "Apomera/AlloFlow",
+      "url": "https://mcpbeat.com/mcp-servers/apomera/alloflow-remediation/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "pezhik/skilltotal",
+      "url": "https://mcpbeat.com/mcp-servers/skilltotal/skilltotal/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "runningoffcode/agent-wormhole",
+      "url": "https://mcpbeat.com/mcp-servers/runningoffcode/wormhole-x402/"
+    },
+    {
+      "detail": "combo.obf_exfil",
+      "kind": "new_high",
+      "server": "BuilderIO/agent-native",
+      "url": "https://mcpbeat.com/mcp-servers/builderio/agent-native-plan/"
+    },
+    {
+      "detail": "validate_actions",
+      "kind": "schema",
+      "server": "FlowCastle/telegram-bot-templates",
+      "url": "https://mcpbeat.com/mcp-servers/flowcastle/flowcastle/"
+    },
+    {
+      "detail": "search_web_pages",
+      "kind": "schema",
+      "server": "keenableai/keenable-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/keenable/web-search/"
+    },
+    {
+      "detail": "try_domain",
+      "kind": "schema",
+      "server": "popdot-ai/popdot-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/popdot/popdot-mcp/"
+    },
+    {
+      "detail": "project_connect",
+      "kind": "schema",
+      "server": "spala-ai/spala-public-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/spala/public-mcp/"
+    },
+    {
+      "detail": "deploy_from_url",
+      "kind": "schema",
+      "server": "thomasbillen-netizen/vibedeploy-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/vibedeploy/vibedeploy/"
+    },
+    {
+      "detail": "register",
+      "kind": "schema",
+      "server": "ee324/a2awire",
+      "url": "https://mcpbeat.com/mcp-servers/a2awire/a2awire/"
+    },
+    {
+      "detail": "principles.search",
+      "kind": "schema",
+      "server": "Michelangelo-Z/ai-design-blueprint",
+      "url": "https://mcpbeat.com/mcp-servers/aidesignblueprint/blueprint/"
+    },
+    {
+      "detail": "get_tokenized_stocks",
+      "kind": "schema",
+      "server": "bykarantelicom/bykaranteli-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/bykaranteli/mcp/"
+    },
+    {
+      "detail": "get_catalog",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/boundaries/"
+    },
+    {
+      "detail": "get_catalog",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/county-map/"
+    },
+    {
+      "detail": "get_catalog",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/currency/"
+    },
+    {
+      "detail": "get_catalog",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/distributed-manufacturing/"
+    }
+  ],
+  "servers": {
+    "gone": 44,
+    "new": 665
+  },
+  "source": "https://mcpbeat.com/data/2026-09-23/",
+  "tools": {
+    "added": 1365,
+    "removed": 494,
+    "schema_changed": 77749
+  }
+}
