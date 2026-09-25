@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-24",
+  "findings": {
+    "fixed": 759,
+    "high": 49,
+    "new": 1695
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "datanika-io/datanika-core",
+      "url": "https://mcpbeat.com/mcp-servers/datanika/datanika-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "BeppeTemp/cartographer",
+      "url": "https://mcpbeat.com/mcp-servers/beppetemp/cartographer/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "DanceNitra/inspeximus",
+      "url": "https://mcpbeat.com/mcp-servers/dancenitra/inspeximus/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "DanceNitra/mnemo",
+      "url": "https://mcpbeat.com/mcp-servers/dancenitra/mnemo/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "Patdolitse/piia-engram",
+      "url": "https://mcpbeat.com/mcp-servers/patdolitse/piia-engram/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "yiminspace/quarry",
+      "url": "https://mcpbeat.com/mcp-servers/wangggym/quarry/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "hs3434/sandbox-env-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/hs3434/sandbox-env-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "kryptobaseddev/cleo",
+      "url": "https://mcpbeat.com/mcp-servers/kryptobaseddev/cleo-mcp-server/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "malamutemayhem/unclick",
+      "url": "https://mcpbeat.com/mcp-servers/malamutemayhem/espn/"
+    },
+    {
+      "detail": "supply.only_in_package",
+      "kind": "new_high",
+      "server": "manumarri-sudo/notari",
+      "url": "https://mcpbeat.com/mcp-servers/manumarri-sudo/quill/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/ibm-x402-mcp-remote/"
+    },
+    {
+      "detail": "find_opportunities",
+      "kind": "schema",
+      "server": "analyticslegends/analytics-legends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/analyticslegends/sap-analytics/"
+    },
+    {
+      "detail": "cancel_flight_booking",
+      "kind": "schema",
+      "server": "gondola-ai/gondola-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/gondola/gondola/"
+    },
+    {
+      "detail": "listGenerations",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "start_lowpoly_generate",
+      "kind": "schema",
+      "server": "Retro-Diffusion/retro-diffusion-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/retrodiffusion/pixel-art/"
+    },
+    {
+      "detail": "get_sold_comps",
+      "kind": "schema",
+      "server": "benswork-space/govauctions-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/govauctions/govauctions/"
+    },
+    {
+      "detail": "create_calendar_event",
+      "kind": "schema",
+      "server": "Im5tu/haus",
+      "url": "https://mcpbeat.com/mcp-servers/onehaus/haus/"
+    },
+    {
+      "detail": "colony_create_post",
+      "kind": "schema",
+      "server": "TheColonyCC/colony-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/thecolony/mcp-server/"
+    },
+    {
+      "detail": "register",
+      "kind": "schema",
+      "server": "ee324/a2awire",
+      "url": "https://mcpbeat.com/mcp-servers/a2awire/a2awire/"
+    },
+    {
+      "detail": "review",
+      "kind": "schema",
+      "server": "babyblueviper1/invinoveritas",
+      "url": "https://mcpbeat.com/mcp-servers/babyblueviper/invinoveritas/"
+    },
+    {
+      "detail": "get_data",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/county-map/"
+    },
+    {
+      "detail": "get_data",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/currency/"
+    },
+    {
+      "detail": "get_data",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/distributed-manufacturing/"
+    }
+  ],
+  "servers": {
+    "gone": 31,
+    "new": 43
+  },
+  "source": "https://mcpbeat.com/data/2026-09-24/",
+  "tools": {
+    "added": 1455,
+    "removed": 815,
+    "schema_changed": 5340
+  }
+}
