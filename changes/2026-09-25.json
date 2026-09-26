@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-25",
+  "findings": {
+    "fixed": 830,
+    "high": 50,
+    "new": 2396
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "heindewilde/yungle-clients",
+      "url": "https://mcpbeat.com/mcp-servers/yungle/yungle/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "kaeawc/auto-mobile",
+      "url": "https://mcpbeat.com/mcp-servers/jasonpearson/auto-mobile/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "datanika-io/datanika-core",
+      "url": "https://mcpbeat.com/mcp-servers/datanika/datanika-mcp/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "DanceNitra/inspeximus",
+      "url": "https://mcpbeat.com/mcp-servers/dancenitra/inspeximus/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "DanceNitra/inspeximus",
+      "url": "https://mcpbeat.com/mcp-servers/dancenitra/mnemo/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "Patdolitse/piia-engram",
+      "url": "https://mcpbeat.com/mcp-servers/patdolitse/piia-engram/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "PramodDutta/qaskills",
+      "url": "https://mcpbeat.com/mcp-servers/pramoddutta/qaskills/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Shakargy/devtime",
+      "url": "https://mcpbeat.com/mcp-servers/shakargy/devtime/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "astrogilda/tsbootstrap",
+      "url": "https://mcpbeat.com/mcp-servers/astrogilda/tsbootstrap/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "bmdhodl/agent47",
+      "url": "https://mcpbeat.com/mcp-servers/bmdhodl/agentguard47/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "vectora-ltda/vectora",
+      "url": "https://mcpbeat.com/mcp-servers/brunosrz/vectora/"
+    },
+    {
+      "detail": "search_firms",
+      "kind": "schema",
+      "server": "analyticslegends/analytics-legends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/analyticslegends/sap-analytics/"
+    },
+    {
+      "detail": "get_deals",
+      "kind": "schema",
+      "server": "BuyWhere/buywhere-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/buywhere/catalog-api/"
+    },
+    {
+      "detail": "search_web_pages",
+      "kind": "schema",
+      "server": "keenableai/keenable-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/keenable/web-search/"
+    },
+    {
+      "detail": "listGenerations",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "estimate_lowpoly_cost",
+      "kind": "schema",
+      "server": "Retro-Diffusion/retro-diffusion-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/retrodiffusion/pixel-art/"
+    },
+    {
+      "detail": "project_connect",
+      "kind": "schema",
+      "server": "spala-ai/spala-public-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/spala/public-mcp/"
+    },
+    {
+      "detail": "sonar_alert_events",
+      "kind": "schema",
+      "server": "trysonar/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/trysonar/sonar/"
+    },
+    {
+      "detail": "colony_create_post",
+      "kind": "schema",
+      "server": "TheColonyCC/colony-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/thecolony/mcp-server/"
+    },
+    {
+      "detail": "get_commentary",
+      "kind": "schema",
+      "server": "jonashertner/opencaselaw",
+      "url": "https://mcpbeat.com/mcp-servers/opencaselaw/swiss-caselaw/"
+    },
+    {
+      "detail": "fleet_crawler_hits",
+      "kind": "schema",
+      "server": "Heista-co/heista-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/heista/api/"
+    },
+    {
+      "detail": "signals.report",
+      "kind": "schema",
+      "server": "Michelangelo-Z/ai-design-blueprint",
+      "url": "https://mcpbeat.com/mcp-servers/aidesignblueprint/blueprint/"
+    },
+    {
+      "detail": "review",
+      "kind": "schema",
+      "server": "babyblueviper1/invinoveritas",
+      "url": "https://mcpbeat.com/mcp-servers/babyblueviper/invinoveritas/"
+    }
+  ],
+  "servers": {
+    "gone": 28,
+    "new": 427
+  },
+  "source": "https://mcpbeat.com/data/2026-09-25/",
+  "tools": {
+    "added": 1236,
+    "removed": 570,
+    "schema_changed": 4482
+  }
+}
