@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-26",
+  "findings": {
+    "fixed": 925,
+    "high": 41,
+    "new": 1681
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "crclabs-hq/GateTest",
+      "url": "https://mcpbeat.com/mcp-servers/gatetest-www/gatetest/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "heindewilde/yungle-clients",
+      "url": "https://mcpbeat.com/mcp-servers/yungle/yungle/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "PromptPartner/bexio-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/promptpartner/bexio-mcp-server/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "bmdhodl/agent47",
+      "url": "https://mcpbeat.com/mcp-servers/bmdhodl/agentguard47/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "malamutemayhem/unclick",
+      "url": "https://mcpbeat.com/mcp-servers/malamutemayhem/usgs/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "refined-element/lightning-enable-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/refined-element/lightning-enable-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "saajunaid/caddis-plugin",
+      "url": "https://mcpbeat.com/mcp-servers/saajunaid/junai-mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "vantioai/vantio-open-core",
+      "url": "https://mcpbeat.com/mcp-servers/vantioai/vantio-optics/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "0xfreak0/sui-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/0xfreak0/sui-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "COSTRINITY/vitna-compliance-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/costrinity/vitna-compliance-preflight/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "geolens-io/geolens",
+      "url": "https://mcpbeat.com/mcp-servers/geolens-io/geolens/"
+    },
+    {
+      "detail": "certscore_get_report_evidence_page",
+      "kind": "schema",
+      "server": "ergoveritas1-alt/certscore.ai",
+      "url": "https://mcpbeat.com/mcp-servers/certscore/mcp-light/"
+    },
+    {
+      "detail": "list_records",
+      "kind": "schema",
+      "server": "TOT-Concept/mcp-server-entity-enricher",
+      "url": "https://mcpbeat.com/mcp-servers/entityenricher/enricher/"
+    },
+    {
+      "detail": "estimate_lowpoly_cost",
+      "kind": "schema",
+      "server": "Retro-Diffusion/retro-diffusion-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/retrodiffusion/pixel-art/"
+    },
+    {
+      "detail": "get_job_status",
+      "kind": "schema",
+      "server": "woven-record-media/weftly-monorepo",
+      "url": "https://mcpbeat.com/mcp-servers/weftly/weftly/"
+    },
+    {
+      "detail": "realty_complex_pyeong_price",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "colony_update_settings",
+      "kind": "schema",
+      "server": "TheColonyCC/colony-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/thecolony/mcp-server/"
+    },
+    {
+      "detail": "build_workflow_links",
+      "kind": "schema",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "get_dua",
+      "kind": "schema",
+      "server": "yserrag/asksakina-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/asksakina/islamic-knowledge/"
+    },
+    {
+      "detail": "review",
+      "kind": "schema",
+      "server": "babyblueviper1/invinoveritas-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/babyblueviper/invinoveritas/"
+    },
+    {
+      "detail": "get_solana_perps",
+      "kind": "schema",
+      "server": "bykarantelicom/bykaranteli-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/bykaranteli/mcp/"
+    },
+    {
+      "detail": "update_event",
+      "kind": "schema",
+      "server": "gohluke/dayze-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dayze/life-context/"
+    },
+    {
+      "detail": "kapruka_search_products",
+      "kind": "schema",
+      "server": "kapruka/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/kapruka/kapruka-mcp/"
+    }
+  ],
+  "servers": {
+    "gone": 24,
+    "new": 368
+  },
+  "source": "https://mcpbeat.com/data/2026-09-26/",
+  "tools": {
+    "added": 1132,
+    "removed": 445,
+    "schema_changed": 3870
+  }
+}
