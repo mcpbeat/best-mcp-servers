@@ -1,0 +1,165 @@
+{
+  "date": "2026-09-28",
+  "findings": {
+    "fixed": 1097,
+    "high": 44,
+    "new": 1647
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "true-alter/cli",
+      "url": "https://mcpbeat.com/mcp-servers/truealter/identity/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "DanceNitra/inspeximus",
+      "url": "https://mcpbeat.com/mcp-servers/dancenitra/mnemo/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "cygnussystems/cygnus-ssh-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/cygnussystems/cygnus-ssh-mcp/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "duriantaco/skylos",
+      "url": "https://mcpbeat.com/mcp-servers/duriantaco/skylos/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "getsentry/sentry-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/getsentry/sentry-mcp/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "yaver-io/yaver.io",
+      "url": "https://mcpbeat.com/mcp-servers/kivanccakmak/yaver/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "kryptobaseddev/cleo",
+      "url": "https://mcpbeat.com/mcp-servers/kryptobaseddev/cleo-mcp-server/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "malamutemayhem/unclick",
+      "url": "https://mcpbeat.com/mcp-servers/malamutemayhem/untappd/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/threews-avatar/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "remembra-ai/remembra",
+      "url": "https://mcpbeat.com/mcp-servers/remembra-ai/remembra/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "vaaraio/vaara",
+      "url": "https://mcpbeat.com/mcp-servers/vaaraio/vaara/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "Aitherium/awdk",
+      "url": "https://mcpbeat.com/mcp-servers/aitherium/aither-adk/"
+    },
+    {
+      "detail": "get_action_schema",
+      "kind": "schema",
+      "server": "FlowCastle/telegram-bot-templates",
+      "url": "https://mcpbeat.com/mcp-servers/flowcastle/flowcastle/"
+    },
+    {
+      "detail": "book_hotel",
+      "kind": "schema",
+      "server": "gondola-ai/gondola-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/gondola/gondola/"
+    },
+    {
+      "detail": "animateSprite",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "decide_contract_method",
+      "kind": "schema",
+      "server": "sallim-app/contract-compass",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/contract-compass/"
+    },
+    {
+      "detail": "realty_move_in_supply",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "decide_contract_method",
+      "kind": "schema",
+      "server": "sallim-app/contract-compass",
+      "url": "https://mcpbeat.com/mcp-servers/naru/contract-compass/"
+    },
+    {
+      "detail": "cap_table_close_cap_table_round",
+      "kind": "schema",
+      "server": "lovieco/lovie-company-formation-mcp-npx",
+      "url": "https://mcpbeat.com/mcp-servers/lovie/company-formation/"
+    },
+    {
+      "detail": "asterwise_get_muhurta",
+      "kind": "schema",
+      "server": "asterwise/asterwise-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/asterwise/mcp/"
+    },
+    {
+      "detail": "audiala_find_city",
+      "kind": "schema",
+      "server": "audiala/mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/audiala/mcp/"
+    },
+    {
+      "detail": "get_tokenized_stocks",
+      "kind": "schema",
+      "server": "bykarantelicom/bykaranteli-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/bykaranteli/mcp/"
+    },
+    {
+      "detail": "link_entities",
+      "kind": "schema",
+      "server": "gohluke/dayze-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dayze/life-context/"
+    },
+    {
+      "detail": "getNetworkPoolsFilter",
+      "kind": "schema",
+      "server": "coinpaprika/dexpaprika-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dexpaprika/dexpaprika/"
+    }
+  ],
+  "servers": {
+    "gone": 35,
+    "new": 316
+  },
+  "source": "https://mcpbeat.com/data/2026-09-28/",
+  "tools": {
+    "added": 1583,
+    "removed": 937,
+    "schema_changed": 3713
+  }
+}
