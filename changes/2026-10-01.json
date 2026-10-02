@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-01",
+  "findings": {
+    "fixed": 916,
+    "high": 35,
+    "new": 1984
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "dinglebear-ai/labby",
+      "url": "https://mcpbeat.com/mcp-servers/dinglebear/labby/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "MaxFreedomPollard/Compartment",
+      "url": "https://mcpbeat.com/mcp-servers/maxfreedompollard/engram/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "ariffazil/arifOS",
+      "url": "https://mcpbeat.com/mcp-servers/ariffazil/aaa-mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "ayhammouda/python-docs-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/ayhammouda/python-docs-mcp-server/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "malamutemayhem/unclick",
+      "url": "https://mcpbeat.com/mcp-servers/malamutemayhem/tmdb/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/assistant-widget/"
+    },
+    {
+      "detail": "net.reverse_shell",
+      "kind": "new_high",
+      "server": "samvallad33/vestige",
+      "url": "https://mcpbeat.com/mcp-servers/samvallad33/vestige/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Enkryptedx/xrpldashboard",
+      "url": "https://mcpbeat.com/mcp-servers/xrpldashboard/xrpldashboard-mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "khaoss85/agent-crm",
+      "url": "https://mcpbeat.com/mcp-servers/khaoss85/agent-crm/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "mako-ai/mako",
+      "url": "https://mcpbeat.com/mcp-servers/mako-ai/mako/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "vbcherepanov/total-agent-memory",
+      "url": "https://mcpbeat.com/mcp-servers/vbcherepanov/total-agent-memory/"
+    },
+    {
+      "detail": "query_knowledge_graph",
+      "kind": "schema",
+      "server": "analyticslegends/analytics-legends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/analyticslegends/sap-analytics/"
+    },
+    {
+      "detail": "log_meal",
+      "kind": "schema",
+      "server": "shawnazar/forkmate-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/forkmate/forkmate/"
+    },
+    {
+      "detail": "animateSprite",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "realty_search_complexes",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "sonar_app_lookup",
+      "kind": "schema",
+      "server": "trysonar/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/trysonar/sonar/"
+    },
+    {
+      "detail": "generate_report",
+      "kind": "schema",
+      "server": "ICS-cz/Claribi",
+      "url": "https://mcpbeat.com/mcp-servers/claribi/mcp-server/"
+    },
+    {
+      "detail": "get_events",
+      "kind": "schema",
+      "server": "gohluke/dayze-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dayze/life-context/"
+    },
+    {
+      "detail": "create_decision",
+      "kind": "schema",
+      "server": "zse4321/decision-anchor-sdk",
+      "url": "https://mcpbeat.com/mcp-servers/decision-anchor/da/"
+    },
+    {
+      "detail": "search",
+      "kind": "schema",
+      "server": "coinpaprika/dexpaprika-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dexpaprika/dexpaprika/"
+    },
+    {
+      "detail": "search_facilities",
+      "kind": "schema",
+      "server": "Crindo2/gth-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/gettreatmenthelp/gettreatmenthelp/"
+    },
+    {
+      "detail": "search_bible",
+      "kind": "schema",
+      "server": "midvash/bible-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/midvash/bible/"
+    },
+    {
+      "detail": "verify",
+      "kind": "schema",
+      "server": "matharrismma/concordance-2",
+      "url": "https://mcpbeat.com/mcp-servers/narrowhighway/concordance/"
+    }
+  ],
+  "servers": {
+    "gone": 56,
+    "new": 365
+  },
+  "source": "https://mcpbeat.com/data/2026-10-01/",
+  "tools": {
+    "added": 1074,
+    "removed": 674,
+    "schema_changed": 3220
+  }
+}
