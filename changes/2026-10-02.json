@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-02",
+  "findings": {
+    "fixed": 1875,
+    "high": 72,
+    "new": 2840
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "dinglebear-ai/labby",
+      "url": "https://mcpbeat.com/mcp-servers/dinglebear/labby/"
+    },
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "BeppeTemp/cartographer",
+      "url": "https://mcpbeat.com/mcp-servers/beppetemp/cartographer/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "DanceNitra/inspeximus",
+      "url": "https://mcpbeat.com/mcp-servers/dancenitra/inspeximus/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Devrajsinh-Jhala/NPM-Vibe-check",
+      "url": "https://mcpbeat.com/mcp-servers/devrajsinh-jhala/npx-vibe/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "MaxFreedomPollard/Compartment",
+      "url": "https://mcpbeat.com/mcp-servers/maxfreedompollard/compartment/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "malamutemayhem/unclick",
+      "url": "https://mcpbeat.com/mcp-servers/malamutemayhem/exchangerate/"
+    },
+    {
+      "detail": "net.reverse_shell",
+      "kind": "new_high",
+      "server": "samvallad33/vestige",
+      "url": "https://mcpbeat.com/mcp-servers/samvallad33/vestige/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "derive-to/derive",
+      "url": "https://mcpbeat.com/mcp-servers/derive/derive/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "activeing123/mcptoon",
+      "url": "https://mcpbeat.com/mcp-servers/activeing123/mcptoon/"
+    },
+    {
+      "detail": "combo.obf_exfil",
+      "kind": "new_high",
+      "server": "BuilderIO/agent-native",
+      "url": "https://mcpbeat.com/mcp-servers/builderio/agent-native-plan/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "omarmohelal/SecHelix",
+      "url": "https://mcpbeat.com/mcp-servers/omarmohelal/sechelix/"
+    },
+    {
+      "detail": "find_partner_candidates",
+      "kind": "schema",
+      "server": "analyticslegends/analytics-legends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/analyticslegends/sap-analytics/"
+    },
+    {
+      "detail": "run",
+      "kind": "schema",
+      "server": "bowmark-ai/skill",
+      "url": "https://mcpbeat.com/mcp-servers/bowmark/bowmark/"
+    },
+    {
+      "detail": "request_api_key",
+      "kind": "schema",
+      "server": "nefesh-ai/nefesh-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/nefesh/human-state/"
+    },
+    {
+      "detail": "realty_poi_stats",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "bookings_find",
+      "kind": "schema",
+      "server": "zooza-dev/zooza-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/zooza/mcp-server/"
+    },
+    {
+      "detail": "nfe_emitir",
+      "kind": "schema",
+      "server": "BrasilNFe/brasilnfe-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/com-brasilnfe/fiscal/"
+    },
+    {
+      "detail": "colony_get_wiki_page",
+      "kind": "schema",
+      "server": "TheColonyCC/colony-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/thecolony/mcp-server/"
+    },
+    {
+      "detail": "get_coinbase_payment_status",
+      "kind": "schema",
+      "server": "atomdomains/atom-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/atom/premium-domains/"
+    },
+    {
+      "detail": "log_moment",
+      "kind": "schema",
+      "server": "gohluke/dayze-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dayze/life-context/"
+    },
+    {
+      "detail": "upload_case_file",
+      "kind": "schema",
+      "server": "debitura/Debitura.MCP",
+      "url": "https://mcpbeat.com/mcp-servers/debitura/mcp-server/"
+    },
+    {
+      "detail": "search_econ_series",
+      "kind": "schema",
+      "server": "elkassabgi/hfdatalibrary",
+      "url": "https://mcpbeat.com/mcp-servers/elkassabgidata/elkassabgidata/"
+    },
+    {
+      "detail": "create_monitor",
+      "kind": "schema",
+      "server": "hyperping/mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/hyperping/hyperping/"
+    }
+  ],
+  "servers": {
+    "gone": 40,
+    "new": 385
+  },
+  "source": "https://mcpbeat.com/data/2026-10-02/",
+  "tools": {
+    "added": 1157,
+    "removed": 740,
+    "schema_changed": 2768
+  }
+}
