@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-04",
+  "findings": {
+    "fixed": 1024,
+    "high": 48,
+    "new": 2414
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "kaeawc/auto-mobile",
+      "url": "https://mcpbeat.com/mcp-servers/jasonpearson/auto-mobile/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "AperionAI/shield",
+      "url": "https://mcpbeat.com/mcp-servers/aperionai/shield/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "Pseudogiant-xr/Pseudolife-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/pseudogiant-xr/pseudolife-mcp/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "yiminspace/quarry",
+      "url": "https://mcpbeat.com/mcp-servers/wangggym/quarry/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "j0hanz/filesystem-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/j0hanz/filesystem-context/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "juyterman1000/entroly",
+      "url": "https://mcpbeat.com/mcp-servers/juyterman1000/entroly/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "yaver-io/yaver.io",
+      "url": "https://mcpbeat.com/mcp-servers/kivanccakmak/yaver/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "kryptobaseddev/cleo",
+      "url": "https://mcpbeat.com/mcp-servers/kryptobaseddev/cleo-mcp-server/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "malamutemayhem/unclick",
+      "url": "https://mcpbeat.com/mcp-servers/malamutemayhem/ipaustralia/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/agentcore-payments-mcp/"
+    },
+    {
+      "detail": "net.reverse_shell",
+      "kind": "new_high",
+      "server": "samvallad33/vestige",
+      "url": "https://mcpbeat.com/mcp-servers/samvallad33/vestige/"
+    },
+    {
+      "detail": "compare_selling_costs",
+      "kind": "schema",
+      "server": "Pulltrader/pulltrader-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/pulltrader/seller-economics/"
+    },
+    {
+      "detail": "realty_policy_rules",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "colony_search_posts",
+      "kind": "schema",
+      "server": "TheColonyCC/colony-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/thecolony/mcp-server/"
+    },
+    {
+      "detail": "build_workflow_links",
+      "kind": "schema",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "architect.certify",
+      "kind": "schema",
+      "server": "Michelangelo-Z/ai-design-blueprint",
+      "url": "https://mcpbeat.com/mcp-servers/aidesignblueprint/blueprint/"
+    },
+    {
+      "detail": "asterwise_get_personal_year",
+      "kind": "schema",
+      "server": "asterwise/asterwise-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/asterwise/mcp/"
+    },
+    {
+      "detail": "add_inventory_item",
+      "kind": "schema",
+      "server": "gohluke/dayze-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dayze/life-context/"
+    },
+    {
+      "detail": "create_monitor",
+      "kind": "schema",
+      "server": "hyperping/mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/hyperping/hyperping/"
+    },
+    {
+      "detail": "read_passage",
+      "kind": "schema",
+      "server": "matharrismma/concordance-2",
+      "url": "https://mcpbeat.com/mcp-servers/narrowhighway/concordance/"
+    },
+    {
+      "detail": "jobs_skill_trends",
+      "kind": "schema",
+      "server": "ReadyAPIs-com/readyapis",
+      "url": "https://mcpbeat.com/mcp-servers/readyapis/api/"
+    },
+    {
+      "detail": "create_scout",
+      "kind": "schema",
+      "server": "brunoamorim39/carscout",
+      "url": "https://mcpbeat.com/mcp-servers/usecarscout/mcp/"
+    },
+    {
+      "detail": "find_paid_service",
+      "kind": "schema",
+      "server": "jalcodev/nohumans-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/nohumans/registry/"
+    }
+  ],
+  "servers": {
+    "gone": 21,
+    "new": 454
+  },
+  "source": "https://mcpbeat.com/data/2026-10-04/",
+  "tools": {
+    "added": 1305,
+    "removed": 812,
+    "schema_changed": 2661
+  }
+}
