@@ -7,8 +7,8 @@ This list is rebuilt every night from live checks. Every remote endpoint gets a 
 JSON-RPC handshake every 15 minutes; install counts come from npm and PyPI. Nothing
 here is curated manually, which is why nothing here goes stale.
 
-**Last rebuilt:** 7 October 2026, 04:37 UTC · **40 705 servers tracked** · **21 530 answering right now** ·
-**4 226 listed as active but silent**
+**Last rebuilt:** 8 October 2026, 04:39 UTC · **41 213 servers tracked** · **21 793 answering right now** ·
+**4 389 listed as active but silent**
 
 > Full data, updated nightly: [mcpbeat.com](https://mcpbeat.com) ·
 > [open CSV exports](https://mcpbeat.com/data/) under CC BY 4.0 · no key, no signup
@@ -40,63 +40,63 @@ we have been watching it.
 | 1 | [Context7](https://mcpbeat.com/mcp-servers/upstash/context7/) | Up-to-date code docs for any prompt | 100.0% | 2 | 485 755 |
 | 2 | [Firecrawl MCP Server](https://mcpbeat.com/mcp-servers/firecrawl/firecrawl-mcp-server/) | MCP server for Firecrawl — web search, scraping, and biomedical/arXiv… | 100.0% | 3 | 191 569 |
 | 3 | [0xinsider](https://mcpbeat.com/mcp-servers/0xinsider/mcp/) | Read-only Polymarket sports and esports data: wallet grades on settled… | 99.8% | 48 | 4 462 |
-| 4 | [Terradev](https://mcpbeat.com/mcp-servers/theoddden/terradev/) | Cross-cloud GPU orchestration CLI. | 92.7% | 277 | 4 391 |
-| 5 | [Hermoso](https://mcpbeat.com/mcp-servers/hermoso-ai/hermoso/) | Marketing on autopilot: 906 tools, usable alone. DM automations, ads on… | 98.6% | 185 | 4 116 |
+| 4 | [Terradev](https://mcpbeat.com/mcp-servers/theoddden/terradev/) | Cross-cloud GPU orchestration CLI. | 93.0% | 277 | 4 391 |
+| 5 | [Hermoso](https://mcpbeat.com/mcp-servers/hermoso-ai/hermoso/) | AI marketing agent and AI ad generator: 906 tools, usable alone. Ads on… | 98.6% | 185 | 4 116 |
 | 6 | [Local MCP](https://mcpbeat.com/mcp-servers/local-mcp/local-mcp/) | Mac & Windows: let ChatGPT, Claude & Cursor use your email, calendar… | 99.6% | 204 | 3 904 |
-| 7 | [hostinger-api-mcp](https://mcpbeat.com/mcp-servers/hostinger/hostinger-api-mcp/) | MCP server for Hostinger API | 98.2% | — | 264 539 |
-| 8 | [ateam-mcp](https://mcpbeat.com/mcp-servers/ariekogan/ateam-mcp/) | Build, validate, and deploy multi-agent AI solutions from any AI… | 99.7% | 59 | 2 266 |
-| 9 | [Semiotic](https://mcpbeat.com/mcp-servers/nteract/semiotic/) | Verified React chart generation: select, validate, repair, render, and… | 100.0% | 5 | 18 588 |
-| 10 | [APICK](https://mcpbeat.com/mcp-servers/apick/all/) | APICK Korean data, simple-auth lookups, OCR, search, conversion, image… | 99.4% | 144 | 1 890 |
-| 11 | [crosstabs](https://mcpbeat.com/mcp-servers/crosstabs/crosstabs/) | Free survey crosstabs with local analysis and temporary hosted MCP… | 100.0% | 52 | 1 828 |
-| 12 | [Medical Terminologies MCP](https://mcpbeat.com/mcp-servers/sidneybissoli/medical-terminologies-mcp/) | Diagnoses, drugs & lab codes: ICD-11, LOINC, RxNorm, MeSH, ATC, CID-10… | 99.7% | 33 | 1 897 |
-| 13 | [Apiguru Amazon Data](https://mcpbeat.com/mcp-servers/apiguru/amazon-data/) | Live Amazon product, review, search, deal, offer/stock and seller data… | 100.0% | 12 | 6 324 |
-| 14 | [PropLine — Sports Betting Odds & Prop Resolution](https://mcpbeat.com/mcp-servers/proplineapi/propline-mcp/) | Live odds, cross-book +EV and graded player-prop results across 37… | 100.0% | 32 | 1 893 |
-| 15 | [ShipStatic](https://mcpbeat.com/mcp-servers/shipstatic/mcp/) | Deploy static websites from AI agents. Free at mcp.shipstatic.com — no… | 99.7% | 15 | 4 233 |
-| 16 | [sentry-mcp](https://mcpbeat.com/mcp-servers/getsentry/sentry-mcp/) | MCP server for Sentry - error monitoring, issue tracking, and debugging… | 100.0% | — | 134 579 |
-| 17 | [GoldenMatch](https://mcpbeat.com/mcp-servers/benseverndev-oss/goldenmatch/) | Find duplicate records in 30 seconds. Zero-config entity resolution… | 99.9% | 77 | 1 503 |
-| 18 | [NicheDB](https://mcpbeat.com/mcp-servers/nichedb/nichedb/) | Sources in, feeds out: an open, ever-growing database of real-time… | 99.7% | 27 | 1 991 |
-| 19 | [Clipform](https://mcpbeat.com/mcp-servers/clipform/mcp-server/) | Interactive video forms that capture authentic responses. Build… | 100.0% | 33 | 1 471 |
-| 20 | [UK Property Data](https://mcpbeat.com/mcp-servers/paulieb89/property-shared/) | UK property data — Land Registry comps, EPC, Rightmove, rental yields… | 97.2% | 14 | 3 700 |
-| 21 | [mcp](https://mcpbeat.com/mcp-servers/bykaranteli/mcp/) | Crypto derivatives data: funding, OI, liquidations, options, ETF flows… | 99.4% | 67 | 1 207 |
-| 22 | [pubmed-mcp-server](https://mcpbeat.com/mcp-servers/cyanheads/pubmed-mcp-server/) | Search PubMed/Europe PMC, fetch articles and full text… | 96.4% | 11 | 4 557 |
-| 23 | [Supabase](https://mcpbeat.com/mcp-servers/supabase/mcp/) | MCP server for interacting with the Supabase platform | 99.9% | — | 92 293 |
-| 24 | [EchelonGraph CVE & Exposure](https://mcpbeat.com/mcp-servers/echelongraph/echelongraph-mcp/) | CVE, KEV, EPSS, SBOM and advisory lookups; per-CVE exposure from Shodan… | 100.0% | 16 | 2 585 |
-| 25 | [WhiteMagic — governed local memory for agent continuity](https://mcpbeat.com/mcp-servers/lbailey94/whitemagic-mcp/) | Governed local-first memory and continuity for AI agents — signed… | 100.0% | 24 | 1 578 |
-| 26 | [PoloPan Fashion MCP Server](https://mcpbeat.com/mcp-servers/rofoso-com/polopan-fashion-mcp/) | Fashion & apparel MCP: visual outfit search, stock verification, and… | 100.0% | 10 | 4 151 |
-| 27 | [ikeytz Einsatzgebiet-Karten](https://mcpbeat.com/mcp-servers/ikeytz/maps/) | Read/Link MCP for maps.ikeytz.com. Public read-only. No forms… | 100.0% | 68 | 949 |
-| 28 | [GripForge](https://mcpbeat.com/mcp-servers/gripforgeai/mcp/) | Turn prompts into production-ready game assets: animated characters… | 98.8% | 195 | 947 |
-| 29 | [Palisade](https://mcpbeat.com/mcp-servers/palisade/palisade/) | Monitor and manage email authentication (SPF, DKIM, DMARC, MTA-STS… | 99.8% | — | 75 211 |
-| 30 | [Chain Daddy](https://mcpbeat.com/mcp-servers/chaindaddy/mcp/) | Search tokens, check registrations, and run a Chain Daddy creator store… | 100.0% | 41 | 825 |
-| 31 | [Mlola UI](https://mcpbeat.com/mcp-servers/mlolahq/mlola-ui/) | Mlola UI components, tokens and design rules for coding agents, with a… | 100.0% | 6 | 6 311 |
-| 32 | [TaScan](https://mcpbeat.com/mcp-servers/snowbikemike/tascan-mcp/) | 36 MCP tools for projects, tasks, workers, QR/NFC tags, and AI… | 99.7% | 106 | 810 |
-| 33 | [Dados Abertos Senado BR MCP](https://mcpbeat.com/mcp-servers/sidneybissoli/senado-br-mcp-cloudflare/) | MCP server for Brazilian Federal Senate open data (legislative… | 99.7% | 69 | 797 |
-| 34 | [sonar](https://mcpbeat.com/mcp-servers/trysonar/sonar/) | ASO tools for AI agents: keyword research, rank tracking, competitor… | 99.5% | 54 | 778 |
-| 35 | [ikeytz - Schlüsseldienst Ludwigsburg](https://mcpbeat.com/mcp-servers/ikeytz/website/) | Read/Link MCP tools for Schlüsseldienst Ludwigsburg ikeytz. Public… | 98.7% | 47 | 754 |
-| 36 | [Music Studio](https://mcpbeat.com/mcp-servers/linxule/mcp-music-studio/) | ABC sheet music + Strudel live coding: songs, videos and live jam… | 99.8% | 10 | 3 258 |
-| 37 | [Seiche — world-markets evidence terminal](https://mcpbeat.com/mcp-servers/beepboop2025/seiche/) | Money, FX, capital-market and metadata-only China macro evidence with… | 98.6% | 16 | 1 868 |
-| 38 | [BorealHost](https://mcpbeat.com/mcp-servers/borealhost/mcp/) | Agent-native web hosting — deploy sites, manage DNS, register domains… | 99.7% | 184 | 605 |
-| 39 | [Wicked MCP](https://mcpbeat.com/mcp-servers/choaticpixels/wicked-mcp/) | The whole Wicked suite for agents: trading, DeFi/token risk, identity… | 100.0% | 70 | 605 |
-| 40 | [Genesis402 by UnyKorn (x402 pay-per-call)](https://mcpbeat.com/mcp-servers/fthtrading/genesis402-mcp/) | Counterparty checks, sanctions screening, company lookup and 360+… | 96.5% | 22 | 1 032 |
-| 41 | [gblin-treasury-risk-regime](https://mcpbeat.com/mcp-servers/gblinproject/gblin-treasury-risk-regime/) | GBLIN on Base for AI agents: risk regime, treasury plan for idle USDC… | 91.1% | 24 | 918 |
-| 42 | [IBGE Brasil MCP](https://mcpbeat.com/mcp-servers/sidneybissoli/ibge-br-mcp/) | IBGE: geography, census, economy and health from the official APIs… | 99.7% | 23 | 945 |
-| 43 | [Homespun](https://mcpbeat.com/mcp-servers/homespun/homespun/) | Deploy a multi-user web app from your agent: hosting, auth, database… | 99.9% | 27 | 759 |
-| 44 | [foundry](https://mcpbeat.com/mcp-servers/oods-foundry/foundry/) | OODS Foundry is an object-oriented design system that extends the one… | 100.0% | 9 | 2 626 |
-| 45 | [Schelling Add Forward](https://mcpbeat.com/mcp-servers/schellingaf/schellingaf/) | Communication and persistent state for AI agents: spaces, posts… | 99.9% | 14 | 1 452 |
-| 46 | [sportiq-mcp](https://mcpbeat.com/mcp-servers/ninjabeam20/sportiq-mcp/) | MCP tools for FIFA World Cup 2026 football, Formula 1, and IPL cricket… | 75.7% | 44 | 467 |
-| 47 | [nucleus](https://mcpbeat.com/mcp-servers/eidetic-works/nucleus/) | Sovereign Agent OS — Persistent Memory, Governance & Compliance for AI… | 99.7% | 28 | 601 |
-| 48 | [UK Legal Research](https://mcpbeat.com/mcp-servers/paulieb89/uk-legal-mcp/) | UK legal research — case law, legislation, Hansard, bills, votes… | 99.3% | 35 | 440 |
-| 49 | [Agent402.Tools: pay-per-call web tools](https://mcpbeat.com/mcp-servers/mikeypetrillo/agent402/) | Agentic Finance: 500+ agent tools, multi-chain USDC over x402 or MPP… | 98.9% | 18 | 963 |
-| 50 | [Axint](https://mcpbeat.com/mcp-servers/agenticempire/axint/) | Proof and repair for Apple coding agents: validate Swift, run Xcode… | 99.7% | 36 | 434 |
-| 51 | [CoinRithm Agent Trading](https://mcpbeat.com/mcp-servers/coinrithm/mcp-trading/) | Keyless prediction-market data across 12 venues plus paper-trading of… | 99.6% | 41 | 412 |
-| 52 | [Agoragentic Agent OS MCP](https://mcpbeat.com/mcp-servers/rhein1/agoragentic/) | Triptych OS (Agent OS) MCP for governed routing, receipts, and USDC… | 99.7% | 17 | 956 |
-| 53 | [BeeL](https://mcpbeat.com/mcp-servers/beel/mcp/) | Spanish e-invoicing with VeriFactu (AEAT): issue invoices, manage… | 98.0% | 121 | 402 |
-| 54 | [inspo](https://mcpbeat.com/mcp-servers/nutlope/inspo/) | Real production websites for coding agents: palettes, fonts, fold… | 84.1% | 15 | 1 089 |
-| 55 | [AgentPay — trust routing + spend caps for x402 agents](https://mcpbeat.com/mcp-servers/romudille-bit/agentpay/) | Buyer-side trust oracle + capped sessions for x402 agents… | 100.0% | 23 | 632 |
-| 56 | [quanticdata-mcp](https://mcpbeat.com/mcp-servers/quantumproxies/quanticdata-mcp/) | Live web access for agents: scrape, SERP search, crawl/map, 100+… | 99.5% | 28 | 483 |
-| 57 | [Maxwell Directory (x402 + MCP)](https://mcpbeat.com/mcp-servers/maxwellinternational/data/) | Local providers worldwide, plus travel and public data. Free search… | 99.6% | 36 | 372 |
-| 58 | [Ambolt](https://mcpbeat.com/mcp-servers/ambolt/ambolt/) | Company registers, financials, funding rounds, tenders and industry… | 100.0% | 43 | 350 |
-| 59 | [Settled](https://mcpbeat.com/mcp-servers/settled/settled/) | Check x402 endpoints before your agent pays: payTo, paid test… | 100.0% | 18 | 759 |
-| 60 | [DropTheHassle](https://mcpbeat.com/mcp-servers/bosmdavid-gif/dropthehassle/) | Your AI puts your site online on a free link with HTTPS. Your own .com… | 99.9% | 37 | 341 |
+| 7 | [hostinger-api-mcp](https://mcpbeat.com/mcp-servers/hostinger/hostinger-api-mcp/) | MCP server for Hostinger API | 98.3% | — | 264 539 |
+| 8 | [Svelte MCP](https://mcpbeat.com/mcp-servers/svelte/mcp/) | The official Svelte MCP server providing docs and autofixing tools for… | 76.7% | 4 | 27 609 |
+| 9 | [ateam-mcp](https://mcpbeat.com/mcp-servers/ariekogan/ateam-mcp/) | Build, validate, and deploy multi-agent AI solutions from any AI… | 99.7% | 59 | 2 266 |
+| 10 | [Semiotic](https://mcpbeat.com/mcp-servers/nteract/semiotic/) | Verified React chart generation: select, validate, repair, render, and… | 100.0% | 5 | 18 588 |
+| 11 | [APICK](https://mcpbeat.com/mcp-servers/apick/all/) | APICK Korean data, simple-auth lookups, OCR, search, conversion, image… | 99.4% | 144 | 1 890 |
+| 12 | [crosstabs](https://mcpbeat.com/mcp-servers/crosstabs/crosstabs/) | Free survey crosstabs with local analysis and temporary hosted MCP… | 100.0% | 52 | 1 828 |
+| 13 | [Medical Terminologies MCP](https://mcpbeat.com/mcp-servers/sidneybissoli/medical-terminologies-mcp/) | Diagnoses, drugs & lab codes: ICD-11, LOINC, RxNorm, MeSH, ATC, CID-10… | 99.7% | 33 | 1 897 |
+| 14 | [Apiguru Amazon Data](https://mcpbeat.com/mcp-servers/apiguru/amazon-data/) | Live Amazon product, review, search, deal, offer/stock and seller data… | 100.0% | 12 | 6 324 |
+| 15 | [PropLine — Sports Betting Odds & Prop Resolution](https://mcpbeat.com/mcp-servers/proplineapi/propline-mcp/) | Live odds, cross-book +EV and graded player-prop results across 37… | 100.0% | 32 | 1 893 |
+| 16 | [ShipStatic](https://mcpbeat.com/mcp-servers/shipstatic/mcp/) | Deploy static websites from AI agents. Free at mcp.shipstatic.com — no… | 99.7% | 15 | 4 233 |
+| 17 | [sentry-mcp](https://mcpbeat.com/mcp-servers/getsentry/sentry-mcp/) | MCP server for Sentry - error monitoring, issue tracking, and debugging… | 100.0% | — | 134 579 |
+| 18 | [GoldenMatch](https://mcpbeat.com/mcp-servers/benseverndev-oss/goldenmatch/) | Find duplicate records in 30 seconds. Zero-config entity resolution… | 99.9% | 77 | 1 503 |
+| 19 | [NicheDB](https://mcpbeat.com/mcp-servers/nichedb/nichedb/) | Sources in, feeds out: an open, ever-growing database of real-time… | 99.7% | 27 | 1 991 |
+| 20 | [Clipform](https://mcpbeat.com/mcp-servers/clipform/mcp-server/) | Interactive video forms that capture authentic responses. Build… | 100.0% | 33 | 1 471 |
+| 21 | [UK Property Data](https://mcpbeat.com/mcp-servers/paulieb89/property-shared/) | UK property data — Land Registry comps, EPC, Rightmove, rental yields… | 97.3% | 14 | 3 700 |
+| 22 | [mcp](https://mcpbeat.com/mcp-servers/bykaranteli/mcp/) | Crypto derivatives data: funding, OI, liquidations, options, ETF flows… | 99.4% | 67 | 1 207 |
+| 23 | [pubmed-mcp-server](https://mcpbeat.com/mcp-servers/cyanheads/pubmed-mcp-server/) | Search PubMed/Europe PMC, fetch articles and full text… | 96.5% | 11 | 4 557 |
+| 24 | [Supabase](https://mcpbeat.com/mcp-servers/supabase/mcp/) | MCP server for interacting with the Supabase platform | 99.9% | — | 92 293 |
+| 25 | [EchelonGraph CVE & Exposure](https://mcpbeat.com/mcp-servers/echelongraph/echelongraph-mcp/) | CVE, KEV, EPSS, SBOM and advisory lookups; per-CVE exposure from Shodan… | 100.0% | 16 | 2 585 |
+| 26 | [WhiteMagic — governed local memory for agent continuity](https://mcpbeat.com/mcp-servers/lbailey94/whitemagic-mcp/) | Governed local-first memory and continuity for AI agents — signed… | 100.0% | 24 | 1 578 |
+| 27 | [PoloPan Fashion MCP Server](https://mcpbeat.com/mcp-servers/rofoso-com/polopan-fashion-mcp/) | Fashion & apparel MCP: visual outfit search, stock verification, and… | 100.0% | 10 | 4 151 |
+| 28 | [ikeytz Einsatzgebiet-Karten](https://mcpbeat.com/mcp-servers/ikeytz/maps/) | Read/Link MCP for maps.ikeytz.com. Public read-only. No forms… | 100.0% | 68 | 949 |
+| 29 | [GripForge](https://mcpbeat.com/mcp-servers/gripforgeai/mcp/) | Turn prompts into production-ready game assets: animated characters… | 98.9% | 195 | 947 |
+| 30 | [Palisade](https://mcpbeat.com/mcp-servers/palisade/palisade/) | Monitor and manage email authentication (SPF, DKIM, DMARC, MTA-STS… | 99.8% | — | 75 211 |
+| 31 | [Chain Daddy](https://mcpbeat.com/mcp-servers/chaindaddy/mcp/) | Search tokens, check registrations, and run a Chain Daddy creator store… | 100.0% | 41 | 825 |
+| 32 | [Mlola UI](https://mcpbeat.com/mcp-servers/mlolahq/mlola-ui/) | Mlola UI components, tokens and design rules for coding agents, with a… | 100.0% | 6 | 6 311 |
+| 33 | [TaScan](https://mcpbeat.com/mcp-servers/snowbikemike/tascan-mcp/) | 36 MCP tools for projects, tasks, workers, QR/NFC tags, and AI… | 99.7% | 106 | 810 |
+| 34 | [Dados Abertos Senado BR MCP](https://mcpbeat.com/mcp-servers/sidneybissoli/senado-br-mcp-cloudflare/) | MCP server for Brazilian Federal Senate open data (legislative… | 99.7% | 69 | 797 |
+| 35 | [sonar](https://mcpbeat.com/mcp-servers/trysonar/sonar/) | ASO tools for AI agents: keyword research, rank tracking, competitor… | 99.5% | 54 | 778 |
+| 36 | [ikeytz - Schlüsseldienst Ludwigsburg](https://mcpbeat.com/mcp-servers/ikeytz/website/) | Read/Link MCP tools for Schlüsseldienst Ludwigsburg ikeytz. Public… | 98.7% | 47 | 754 |
+| 37 | [Music Studio](https://mcpbeat.com/mcp-servers/linxule/mcp-music-studio/) | ABC sheet music + Strudel live coding: songs, videos and live jam… | 99.8% | 10 | 3 258 |
+| 38 | [Seiche — world-markets evidence terminal](https://mcpbeat.com/mcp-servers/beepboop2025/seiche/) | Money, FX, capital-market and metadata-only China macro evidence with… | 98.6% | 16 | 1 868 |
+| 39 | [Canli Validation](https://mcpbeat.com/mcp-servers/arhancanli/canli-validation-mcp/) | Deflated Sharpe and PBO checks. A verdict is not admission to anything… | 15.2% | 18 | 1 408 |
+| 40 | [BorealHost](https://mcpbeat.com/mcp-servers/borealhost/mcp/) | Agent-native web hosting — deploy sites, manage DNS, register domains… | 99.7% | 184 | 605 |
+| 41 | [Wicked MCP](https://mcpbeat.com/mcp-servers/choaticpixels/wicked-mcp/) | The whole Wicked suite for agents: trading, DeFi/token risk, identity… | 100.0% | 75 | 605 |
+| 42 | [Genesis402 by UnyKorn (x402 pay-per-call)](https://mcpbeat.com/mcp-servers/fthtrading/genesis402-mcp/) | Counterparty checks, sanctions screening, company lookup and 360+… | 96.8% | 22 | 1 032 |
+| 43 | [gblin-treasury-risk-regime](https://mcpbeat.com/mcp-servers/gblinproject/gblin-treasury-risk-regime/) | GBLIN on Base for AI agents: risk regime, treasury plan for idle USDC… | 89.7% | 24 | 918 |
+| 44 | [IBGE Brasil MCP](https://mcpbeat.com/mcp-servers/sidneybissoli/ibge-br-mcp/) | IBGE: geography, census, economy and health from the official APIs… | 99.7% | 23 | 945 |
+| 45 | [Homespun](https://mcpbeat.com/mcp-servers/homespun/homespun/) | Deploy a multi-user web app from your agent: hosting, auth, database… | 100.0% | 27 | 759 |
+| 46 | [foundry](https://mcpbeat.com/mcp-servers/oods-foundry/foundry/) | OODS Foundry is an object-oriented design system that extends the one… | 100.0% | 9 | 2 626 |
+| 47 | [Schelling Add Forward](https://mcpbeat.com/mcp-servers/schellingaf/schellingaf/) | Multi-agent coordination for AI agents: shared spaces, tasks, search… | 99.9% | 14 | 1 452 |
+| 48 | [nucleus](https://mcpbeat.com/mcp-servers/eidetic-works/nucleus/) | Sovereign Agent OS — Persistent Memory, Governance & Compliance for AI… | 99.7% | 28 | 601 |
+| 49 | [opencode-workbench](https://mcpbeat.com/mcp-servers/simonmak-ascent/opencode-workbench/) | Provision an OpenCode workbench and MCP stack on any Linux box, local… | 91.7% | 10 | 1 982 |
+| 50 | [UK Legal Research](https://mcpbeat.com/mcp-servers/paulieb89/uk-legal-mcp/) | UK legal research — case law, legislation, Hansard, bills, votes… | 99.3% | 35 | 440 |
+| 51 | [AILANG Parse](https://mcpbeat.com/mcp-servers/sunholo-data/parse/) | Deterministic DOCX/PPTX/XLSX/PDF parser: track changes, comments… | 99.9% | 12 | 1 557 |
+| 52 | [Agent402.Tools: pay-per-call web tools](https://mcpbeat.com/mcp-servers/mikeypetrillo/agent402/) | Agentic Finance: 500+ agent tools, multi-chain USDC over x402 or MPP… | 99.0% | 18 | 963 |
+| 53 | [ApexCharts](https://mcpbeat.com/mcp-servers/apexcharts/mcp/) | Generates and validates configs for ApexCharts charts, grid, gantt… | 100.0% | 23 | 716 |
+| 54 | [Axint](https://mcpbeat.com/mcp-servers/agenticempire/axint/) | Proof and repair for Apple coding agents: validate Swift, run Xcode… | 99.7% | 36 | 434 |
+| 55 | [CoinRithm Agent Trading](https://mcpbeat.com/mcp-servers/coinrithm/mcp-trading/) | Keyless prediction-market data across 12 venues plus paper-trading of… | 99.6% | 41 | 412 |
+| 56 | [Agoragentic Agent OS MCP](https://mcpbeat.com/mcp-servers/rhein1/agoragentic/) | Triptych OS (Agent OS) MCP for governed routing, receipts, and USDC… | 99.8% | 17 | 956 |
+| 57 | [BeeL](https://mcpbeat.com/mcp-servers/beel/mcp/) | Spanish e-invoicing with VeriFactu (AEAT): issue invoices, manage… | 98.1% | 121 | 402 |
+| 58 | [inspo](https://mcpbeat.com/mcp-servers/nutlope/inspo/) | Real production websites for coding agents: palettes, fonts, fold… | 84.8% | 15 | 1 089 |
+| 59 | [AgentPay — trust routing + spend caps for x402 agents](https://mcpbeat.com/mcp-servers/romudille-bit/agentpay/) | Buyer-side trust oracle + capped sessions for x402 agents… | 100.0% | 23 | 632 |
+| 60 | [quanticdata-mcp](https://mcpbeat.com/mcp-servers/quantumproxies/quanticdata-mcp/) | Live web access for agents: scrape, SERP search, crawl/map, 100+… | 99.5% | 28 | 483 |
 
 ---
 
@@ -114,8 +114,8 @@ install them, weekly, from npm and PyPI.
 | 4 | [Chrome DevTools MCP](https://mcpbeat.com/mcp-servers/chromedevtools/chrome-devtools-mcp/) | MCP server for Chrome DevTools | 1 731 154 | Oct 2026 |
 | 5 | [browser-use](https://mcpbeat.com/mcp-servers/browser-use/browser-use/) | Control a real Chrome browser to complete any task: fill forms, extract… | 1 689 793 | Oct 2026 |
 | 6 | [mcp](https://mcpbeat.com/mcp-servers/snyk/mcp/) | Easily find and fix security issues in your applications leveraging… | 813 314 | Sep 2026 |
-| 7 | [telnyx](https://mcpbeat.com/mcp-servers/team-telnyx/telnyx/) | Official TypeScript library for the Telnyx API | 487 202 | Sep 2026 |
-| 8 | [Desktop Commander](https://mcpbeat.com/mcp-servers/wonderwhy-er/desktop-commander/) | MCP server for terminal commands, file operations, and process… | 348 832 | Sep 2026 |
+| 7 | [telnyx](https://mcpbeat.com/mcp-servers/team-telnyx/telnyx/) | Official TypeScript library for the Telnyx API | 487 202 | Oct 2026 |
+| 8 | [Desktop Commander](https://mcpbeat.com/mcp-servers/wonderwhy-er/desktop-commander/) | MCP server for terminal commands, file operations, and process… | 348 832 | Oct 2026 |
 | 9 | [AWS MCP Server](https://mcpbeat.com/mcp-servers/aws/mcp-proxy-for-aws/) | AWS MCP Server lets AI securely access AWS using docs, API calls, and… | 278 552 | — |
 | 10 | [agent-device](https://mcpbeat.com/mcp-servers/callstackincubator/agent-device/) | Let AI agents inspect, control, and debug real iOS, Android, desktop… | 277 666 | Oct 2026 |
 | 11 | [EdgarTools](https://mcpbeat.com/mcp-servers/dgunning/edgartools/) | Open-source SEC EDGAR toolkit — 13 tools, 7 prompts, every filing type… | 194 202 | Oct 2026 |
@@ -206,7 +206,7 @@ install them, weekly, from npm and PyPI.
 | [Edgegap](https://mcpbeat.com/mcp-servers/edgegap/mcp/) | Deploy and operate multiplayer game servers on Edgegap's global edge… | 🟢 answering | 609 | 19 |
 | [robinx-mcp](https://mcpbeat.com/mcp-servers/jamhimself/robinx-mcp/) | Robinhood Chain MCP server: rug checks, deployer records, measured X… | 🟢 answering | 323 | 31 |
 | [mcp-graphql-enhanced](https://mcpbeat.com/mcp-servers/letoribo/mcp-graphql-enhanced/) | GraphQL gateway for LLMs. Handles huge GitHub GraphQL & @neo4j/graphql… | ⚪ local | 25 011 | — |
-| [RationalBloks](https://mcpbeat.com/mcp-servers/rationalbloks/rationalbloks-mcp/) | Deploy production REST APIs from JSON schemas in seconds. Manage… | 🟢 answering | 215 | 50 |
+| [RationalBloks](https://mcpbeat.com/mcp-servers/rationalbloks/rationalbloks-mcp/) | Deploy production REST APIs from JSON schemas in seconds. Manage… | 🟢 answering | 215 | 64 |
 | [Dockhold](https://mcpbeat.com/mcp-servers/dockhold/dockhold/) | Deploy your project to a live HTTPS URL from your AI tool; read logs… | 🟢 answering | 268 | 20 |
 | [DEEPBOM](https://mcpbeat.com/mcp-servers/junhwan-kwon/deepbom/) | Browser-local and CLI static evidence for deployed AI model artifacts. | 🟢 answering | 607 | 7 |
 | [InnoDay](https://mcpbeat.com/mcp-servers/havilandsoftware/mcp-server-innoday/) | Unified ticketing MCP server for Jira, Linear, Trello, Notion, and… | ⚪ local | 7 518 | — |
@@ -225,7 +225,7 @@ install them, weekly, from npm and PyPI.
 | [PoloPan Fashion MCP Server](https://mcpbeat.com/mcp-servers/rofoso-com/polopan-fashion-mcp/) | Fashion & apparel MCP: visual outfit search, stock verification, and… | 🟢 answering | 4 151 | 10 |
 | [Chain Daddy](https://mcpbeat.com/mcp-servers/chaindaddy/mcp/) | Search tokens, check registrations, and run a Chain Daddy creator store… | 🟢 answering | 825 | 41 |
 | [sonar](https://mcpbeat.com/mcp-servers/trysonar/sonar/) | ASO tools for AI agents: keyword research, rank tracking, competitor… | 🟢 answering | 778 | 54 |
-| [Schelling Add Forward](https://mcpbeat.com/mcp-servers/schellingaf/schellingaf/) | Communication and persistent state for AI agents: spaces, posts… | 🟢 answering | 1 452 | 14 |
+| [Schelling Add Forward](https://mcpbeat.com/mcp-servers/schellingaf/schellingaf/) | Multi-agent coordination for AI agents: shared spaces, tasks, search… | 🟢 answering | 1 452 | 14 |
 | [UK Legal Research](https://mcpbeat.com/mcp-servers/paulieb89/uk-legal-mcp/) | UK legal research — case law, legislation, Hansard, bills, votes… | 🟢 answering | 440 | 35 |
 | [quanticdata-mcp](https://mcpbeat.com/mcp-servers/quantumproxies/quanticdata-mcp/) | Live web access for agents: scrape, SERP search, crawl/map, 100+… | 🟢 answering | 483 | 28 |
 | [Maxwell Directory (x402 + MCP)](https://mcpbeat.com/mcp-servers/maxwellinternational/data/) | Local providers worldwide, plus travel and public data. Free search… | 🟢 answering | 372 | 36 |
@@ -318,61 +318,61 @@ install them, weekly, from npm and PyPI.
 ## Listed as active, but never answer
 
 The official registry still marks these as active. We have been sending them a real
-handshake every 15 minutes and getting nothing back. 4 226 servers are in this state
+handshake every 15 minutes and getting nothing back. 4 389 servers are in this state
 right now; the 50 with the most stars are below.
 
 | Server | What it does | Stars | Last commit |
 |---|---|---:|---|
-| [Front-End Checklist](https://mcpbeat.com/mcp-servers/thedaviddias/front-end-checklist/) | Review frontend code and live pages against 386 quality-gated web… | 74 373 | Oct 2026 |
-| [Metabase](https://mcpbeat.com/mcp-servers/metabase/mcp/) | Lets AI clients search, explore, query, and visualize data in a… | 49 546 | Oct 2026 |
-| [Agent Skills Search Server](https://mcpbeat.com/mcp-servers/com-mcp/skills-search/) | Search and discover Agent Skills from the skills.sh registry. Powered… | 25 931 | Aug 2026 |
-| [Coder](https://mcpbeat.com/mcp-servers/coder/coder/) | Manage Coder workspaces, templates, and cloud development environments | 16 856 | Oct 2026 |
-| [OpenMetadata](https://mcpbeat.com/mcp-servers/open-metadata/openmetadata-mcp/) | Official OpenMetadata MCP: 21 read and write tools for search, lineage… | 15 379 | Oct 2026 |
-| [basebalance.cloud — x402 RPC & MCP gateway](https://mcpbeat.com/mcp-servers/basebalance/basebalance/) | USDC-gated Base JSON-RPC: free 10 req/min, $0.50 per 10k. Failover… | 7 000 | Aug 2026 |
-| [AdsAgent](https://mcpbeat.com/mcp-servers/nowork-studio/adsagent/) | Google Ads analysis and operations — read performance, manage keywords… | 3 899 | Oct 2026 |
-| [browserbasehq-mcp-browserbase](https://mcpbeat.com/mcp-servers/smithery/browserbasehq-mcp-browserbase/) | Provides cloud browser automation capabilities using Stagehand and… | 3 407 | Jul 2026 |
-| [BoostedTravel](https://mcpbeat.com/mcp-servers/boostedchat/travel/) | Flight search & booking for AI agents. 400+ airlines, $20-50 cheaper… | 2 114 | Oct 2026 |
-| [emailmd](https://mcpbeat.com/mcp-servers/emailmd/emailmd/) | Render markdown into email-safe HTML, lint drafts for deliverability… | 1 381 | Oct 2026 |
+| [Front-End Checklist](https://mcpbeat.com/mcp-servers/thedaviddias/front-end-checklist/) | Review frontend code and live pages against 386 quality-gated web… | 74 390 | Oct 2026 |
+| [Metabase](https://mcpbeat.com/mcp-servers/metabase/mcp/) | Lets AI clients search, explore, query, and visualize data in a… | 49 558 | Oct 2026 |
+| [Agent Skills Search Server](https://mcpbeat.com/mcp-servers/com-mcp/skills-search/) | Search and discover Agent Skills from the skills.sh registry. Powered… | 25 948 | Aug 2026 |
+| [Coder](https://mcpbeat.com/mcp-servers/coder/coder/) | Manage Coder workspaces, templates, and cloud development environments | 16 874 | Oct 2026 |
+| [OpenMetadata](https://mcpbeat.com/mcp-servers/open-metadata/openmetadata-mcp/) | Official OpenMetadata MCP: 21 read and write tools for search, lineage… | 15 392 | Oct 2026 |
+| [basebalance.cloud — x402 RPC & MCP gateway](https://mcpbeat.com/mcp-servers/basebalance/basebalance/) | USDC-gated Base JSON-RPC: free 10 req/min, $0.50 per 10k. Failover… | 7 050 | Aug 2026 |
+| [AdsAgent](https://mcpbeat.com/mcp-servers/nowork-studio/adsagent/) | Google Ads analysis and operations — read performance, manage keywords… | 3 904 | Oct 2026 |
+| [browserbasehq-mcp-browserbase](https://mcpbeat.com/mcp-servers/smithery/browserbasehq-mcp-browserbase/) | Provides cloud browser automation capabilities using Stagehand and… | 3 405 | Jul 2026 |
+| [BoostedTravel](https://mcpbeat.com/mcp-servers/boostedchat/travel/) | Flight search & booking for AI agents. 400+ airlines, $20-50 cheaper… | 2 115 | Oct 2026 |
+| [emailmd](https://mcpbeat.com/mcp-servers/emailmd/emailmd/) | Render markdown into email-safe HTML, lint drafts for deliverability… | 1 380 | Oct 2026 |
 | [ChiR24-unreal_mcp](https://mcpbeat.com/mcp-servers/smithery/chir24-unreal-mcp/) | Control Unreal Engine to browse assets, import content, and manage… | 903 | Oct 2026 |
 | [ChiR24-unreal_mcp_server](https://mcpbeat.com/mcp-servers/smithery/chir24-unreal-mcp-server/) | A comprehensive Model Context Protocol (MCP) server that enables AI… | 903 | Oct 2026 |
-| [Agent Swarm](https://mcpbeat.com/mcp-servers/desplega-ai/agent-swarm/) | Full Agent Swarm API and MCP server with local SQLite storage for… | 859 | Oct 2026 |
+| [Agent Swarm](https://mcpbeat.com/mcp-servers/desplega-ai/agent-swarm/) | Full Agent Swarm API and MCP server with local SQLite storage for… | 861 | Oct 2026 |
 | [hustcc-mcp-mermaid](https://mcpbeat.com/mcp-servers/smithery/hustcc-mcp-mermaid/) | Generate dynamic Mermaid diagrams and charts with AI assistance… | 642 | May 2026 |
-| [Marmot Data Catalog](https://mcpbeat.com/mcp-servers/marmotdata/marmot/) | Open-source data catalog. Search assets, explore lineage, and find… | 619 | Oct 2026 |
-| [docfork-mcp](https://mcpbeat.com/mcp-servers/docfork/docfork-mcp/) | Up-to-date docs for AI. DEPRECATED: Use io.github.docfork/docfork… | 486 | Jun 2026 |
+| [Marmot Data Catalog](https://mcpbeat.com/mcp-servers/marmotdata/marmot/) | Open-source data catalog. Search assets, explore lineage, and find… | 620 | Oct 2026 |
+| [docfork-mcp](https://mcpbeat.com/mcp-servers/docfork/docfork-mcp/) | Up-to-date docs for AI. DEPRECATED: Use io.github.docfork/docfork… | 487 | Jun 2026 |
 | [Superserve](https://mcpbeat.com/mcp-servers/superserve-ai/mcp/) | MCP server for Superserve sandboxes: create, exec, and manage… | 465 | Oct 2026 |
-| [HQBase](https://mcpbeat.com/mcp-servers/hqbase/hqbase/) | Connect AI agents to your self-hosted HQBase shared email workspace. | 338 | Sep 2026 |
-| [Svelte MCP](https://mcpbeat.com/mcp-servers/svelte/mcp/) | The official Svelte MCP server providing docs and autofixing tools for… | 330 | Oct 2026 |
-| [mcp-server](https://mcpbeat.com/mcp-servers/packmind/mcp-server/) | Packmind captures, scales, and enforces your organization's technical… | 316 | Oct 2026 |
-| [COTAL actions (cotal.ai)](https://mcpbeat.com/mcp-servers/cotal/cotal/) | cotal.ai actions: product overview, site search, build log, feedback… | 307 | Oct 2026 |
-| [OrchestKit Docs MCP](https://mcpbeat.com/mcp-servers/yonatangross/orchestkit/) | Read-only MCP server for the OrchestKit docs: full-text search +… | 287 | Oct 2026 |
+| [HQBase](https://mcpbeat.com/mcp-servers/hqbase/hqbase/) | Connect AI agents to your self-hosted HQBase shared email workspace. | 337 | Sep 2026 |
+| [mcp-server](https://mcpbeat.com/mcp-servers/packmind/mcp-server/) | Packmind captures, scales, and enforces your organization's technical… | 317 | Oct 2026 |
+| [COTAL actions (cotal.ai)](https://mcpbeat.com/mcp-servers/cotal/cotal/) | cotal.ai actions: product overview, site search, build log, feedback… | 309 | Oct 2026 |
+| [OrchestKit Docs MCP](https://mcpbeat.com/mcp-servers/yonatangross/orchestkit/) | Read-only MCP server for the OrchestKit docs: full-text search +… | 289 | Oct 2026 |
+| [Customermates](https://mcpbeat.com/mcp-servers/benjiwagner/customermates/) | Native MCP access to CRM contacts, organizations, deals and tasks with… | 224 | Oct 2026 |
 | [jjlabsio-korea-stock-mcp](https://mcpbeat.com/mcp-servers/smithery/jjlabsio-korea-stock-mcp/) | Search company disclosures and financial statements from the Korean… | 177 | Aug 2026 |
 | [Glean Remote MCP Server](https://mcpbeat.com/mcp-servers/glean/mcp/) | Remote MCP Server that securely connects Glean Enterprise Knowledge… | 165 | Apr 2026 |
 | [Dynatrace](https://mcpbeat.com/mcp-servers/dynatrace/dynatrace-for-ai/) | Connect AI assistants to Dynatrace to query observability data and… | 161 | Oct 2026 |
+| [PayRam](https://mcpbeat.com/mcp-servers/payram/mcp/) | Install, configure, operate and integrate self-hosted PayRam crypto… | 158 | Oct 2026 |
 | [PayRam Helper MCP Server](https://mcpbeat.com/mcp-servers/payram/payram-helper-mcp/) | Remote MCP server to integrate and validate self-hosted PayRam… | 158 | Jul 2026 |
 | [ContextLattice](https://mcpbeat.com/mcp-servers/sheawinkler/contextlattice/) | Private-by-default, local-first memory/context/task orchestrator for… | 153 | Aug 2026 |
 | [mcp](https://mcpbeat.com/mcp-servers/augments/mcp/) | Augments MCP Server - A comprehensive framework documentation provider… | 128 | Mar 2026 |
 | [mcp-server](https://mcpbeat.com/mcp-servers/apple-rag/mcp-server/) | Apple Developer Documentation with Semantic Search, RAG, and AI… | 120 | Oct 2026 |
-| [openaffiliate-mcp](https://mcpbeat.com/mcp-servers/sonpiaz/openaffiliate-mcp/) | Search and discover affiliate programs with agent-ready data and… | 114 | Oct 2026 |
+| [openaffiliate-mcp](https://mcpbeat.com/mcp-servers/sonpiaz/openaffiliate-mcp/) | Search and discover affiliate programs with agent-ready data and… | 113 | Oct 2026 |
 | [IlyaGusev-academia_mcp](https://mcpbeat.com/mcp-servers/smithery/ilyagusev-academia-mcp/) | Search arXiv and ACL Anthology, retrieve citations and references, and… | 93 | Jan 2026 |
 | [HitKeep](https://mcpbeat.com/mcp-servers/pascalebeier/hitkeep/) | Stateless 2026-07-28 read-only MCP server for aggregate HitKeep… | 93 | Oct 2026 |
 | [yuna0x0-anilist-mcp](https://mcpbeat.com/mcp-servers/smithery/yuna0x0-anilist-mcp/) | Access and interact with anime and manga data seamlessly. Retrieve… | 90 | Jul 2026 |
-| [LuxAlgo MCP](https://mcpbeat.com/mcp-servers/luxalgo/luxalgo-mcp-server/) | LuxAlgo for AI agents: the Library, prop firms, Market Trackers, Edge… | 88 | Oct 2026 |
+| [LuxAlgo MCP](https://mcpbeat.com/mcp-servers/luxalgo/luxalgo-mcp-server/) | LuxAlgo for AI agents: the Library, prop firms, Market Trackers, Edge… | 89 | Oct 2026 |
 | [ClariLayer](https://mcpbeat.com/mcp-servers/clarilayer/clarilayer/) | Individual-analyst context layer: recall, remember, and reconcile your… | 82 | Sep 2026 |
 | [Patsnap Patent & Literature Search](https://mcpbeat.com/mcp-servers/patsnap/patent-literature-search-mcp/) | Search 200M+ patents and 216M+ scientific papers using natural language… | 82 | Aug 2026 |
-| [DispatchSEO](https://mcpbeat.com/mcp-servers/neozi12/dispatchseo/) | Open-source SEO manager for coding agents: keyword research, content… | 81 | Oct 2026 |
 | [Tailwind Shades](https://mcpbeat.com/mcp-servers/bourhaouta/tailwindshades/) | Tailwind CSS palettes (50-950) from any color, the closest Tailwind… | 77 | Oct 2026 |
-| [amazon_ads_mcp](https://mcpbeat.com/mcp-servers/kuudoai/amazon-ads-mcp/) | Amazon Ads API MCP server for Amazon Advertising API | 71 | Sep 2026 |
+| [amazon_ads_mcp](https://mcpbeat.com/mcp-servers/kuudoai/amazon-ads-mcp/) | Amazon Ads API MCP server for Amazon Advertising API | 72 | Sep 2026 |
 | [kesslerio-attio-mcp-server](https://mcpbeat.com/mcp-servers/smithery/kesslerio-attio-mcp-server/) | Connect AI to your Attio CRM. Manage contacts, companies, deals, and… | 69 | Oct 2026 |
 | [kesslerio-attio-mcp-server-beta](https://mcpbeat.com/mcp-servers/smithery/kesslerio-attio-mcp-server-beta/) | Streamline your Attio workflows using natural language to search… | 69 | Oct 2026 |
-| [yuna0x0-hackmd-mcp](https://mcpbeat.com/mcp-servers/smithery/yuna0x0-hackmd-mcp/) | Interact with your HackMD notes and teams seamlessly. Manage your… | 67 | Jul 2026 |
+| [yuna0x0-hackmd-mcp](https://mcpbeat.com/mcp-servers/smithery/yuna0x0-hackmd-mcp/) | Interact with your HackMD notes and teams seamlessly. Manage your… | 68 | Jul 2026 |
 | [HuaweiCloud DevKit (Community Preview)](https://mcpbeat.com/mcp-servers/glqff/huaweicloud-devkit/) | Community preview of HuaweiCloud DevKit MCP server (official… | 65 | Sep 2026 |
 | [HuaweiCloud DevKit (Remote Demo)](https://mcpbeat.com/mcp-servers/glqff/huaweicloud-devkit-demo/) | Community demo: HuaweiCloud DevKit MCP server in remote streamable-http… | 65 | Sep 2026 |
+| [Oxynote](https://mcpbeat.com/mcp-servers/oxynote/oxynote/) | Self-hosted team docs with live Prometheus charts. Read, write and… | 65 | Oct 2026 |
+| [TesterArmy](https://mcpbeat.com/mcp-servers/tester-army/testerarmy/) | Agents that test your web and mobile app like real users, on every pull… | 65 | Sep 2026 |
 | [MCP AutoMem](https://mcpbeat.com/mcp-servers/verygoodplugins/mcp-automem/) | Graph-vector memory for AI assistants using FalkorDB and Qdrant | 65 | Aug 2026 |
 | [mcp](https://mcpbeat.com/mcp-servers/globalping/mcp/) | Interact with a global network measurement platform.Run network… | 64 | Sep 2026 |
-| [Wraps](https://mcpbeat.com/mcp-servers/wraps/docs/) | Search the Wraps docs and estimate AWS SES costs. Public, read-only, no… | 62 | Oct 2026 |
-| [TesterArmy](https://mcpbeat.com/mcp-servers/tester-army/testerarmy/) | Agents that test your web and mobile app like real users, on every pull… | 61 | Sep 2026 |
 | [hmr](https://mcpbeat.com/mcp-servers/promplate/hmr/) | Docs for hot-module-reload and reactive programming for Python (`hmr`… | 60 | Aug 2026 |
-| [Open Agreements](https://mcpbeat.com/mcp-servers/open-agreements/open-agreements/) | Fill standard legal agreement templates (NDAs, SAFEs, NVCA docs… | 59 | Oct 2026 |
+| [dbtrail](https://mcpbeat.com/mcp-servers/dbtrail/dbtrail/) | MySQL change tracking with instant row-level recovery and forensic… | 59 | Oct 2026 |
 
 ---
 
@@ -412,14 +412,14 @@ published from no longer exists. You cannot read what you are about to run.
 |---|---|
 | [data/top-servers.json](data/top-servers.json) | The table above, machine-readable |
 | [data/summary.json](data/summary.json) | Ecosystem totals, rebuilt nightly |
-| [mcpbeat.com/data/](https://mcpbeat.com/data/) | Everything: all 40 705 servers, 63 591 skills, daily uptime history |
+| [mcpbeat.com/data/](https://mcpbeat.com/data/) | Everything: all 41 213 servers, 63 763 skills, daily uptime history |
 
 Licensed **CC BY 4.0** — use it anywhere, credit [mcpbeat](https://mcpbeat.com).
 
 ## How the numbers are made
 
 - **Liveness** — a real MCP `initialize` handshake to every remote address, every
-  15 minutes. 102 871 687 checks so far. A refusal with an auth challenge counts as alive:
+  15 minutes. 105 307 303 checks so far. A refusal with an auth challenge counts as alive:
   the server runs, it just wants a key.
 - **Installs** — weekly downloads from npm and PyPI. Stars measure how many people
   liked a link; downloads measure how many run the thing.
