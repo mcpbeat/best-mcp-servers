@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-07",
+  "findings": {
+    "fixed": 867,
+    "high": 37,
+    "new": 2002
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "kaeawc/auto-mobile",
+      "url": "https://mcpbeat.com/mcp-servers/jasonpearson/auto-mobile/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "HomenShum/NodeBenchAI",
+      "url": "https://mcpbeat.com/mcp-servers/homenshum/nodebench/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "getsentry/toolkit",
+      "url": "https://mcpbeat.com/mcp-servers/getsentry/sentry-mcp/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/tutor-mcp/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "yaver-io/yaver.io",
+      "url": "https://mcpbeat.com/mcp-servers/yaver-io/yaver/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "hashgraph-online/hol-guard",
+      "url": "https://mcpbeat.com/mcp-servers/hashgraph-online/hol-guard/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "superdesigndev/treg",
+      "url": "https://mcpbeat.com/mcp-servers/superdesigndev/treg/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "ogasurfproject-jpg/horizon-shield",
+      "url": "https://mcpbeat.com/mcp-servers/ogasurfproject-jpg/hs-mcp-observatory/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "Cotal-AI/Cotal",
+      "url": "https://mcpbeat.com/mcp-servers/cotal/cotal/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "leancoderkavy/premiere-pro-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/leancoderkavy/premiere-pro/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "BuilderIO/agent-native",
+      "url": "https://mcpbeat.com/mcp-servers/builderio/agent-native-content/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "muzimu217/DeliverKit",
+      "url": "https://mcpbeat.com/mcp-servers/muzimu217/deliverkit/"
+    },
+    {
+      "detail": "get_library",
+      "kind": "schema",
+      "server": "bowmark-ai/skill",
+      "url": "https://mcpbeat.com/mcp-servers/bowmark/bowmark/"
+    },
+    {
+      "detail": "search_web_pages",
+      "kind": "schema",
+      "server": "keenableai/keenable-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/keenable/web-search/"
+    },
+    {
+      "detail": "animate3DModelPreset",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "shop",
+      "kind": "schema",
+      "server": "nathangrotticelli/searchshopai",
+      "url": "https://mcpbeat.com/mcp-servers/searchshop-www/la-luer/"
+    },
+    {
+      "detail": "generate_voicing",
+      "kind": "schema",
+      "server": "BluesPrince/thiri-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/thiri/chord-intelligence/"
+    },
+    {
+      "detail": "update_audio_preferences",
+      "kind": "schema",
+      "server": "mameziane/aiponge",
+      "url": "https://mcpbeat.com/mcp-servers/aiponge/mcp/"
+    },
+    {
+      "detail": "get_sold_comps",
+      "kind": "schema",
+      "server": "benswork-space/govauctions-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/govauctions/govauctions/"
+    },
+    {
+      "detail": "realty_search_complexes",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "colony_mod_queue_action",
+      "kind": "schema",
+      "server": "TheColonyCC/colony-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/thecolony/mcp-server/"
+    },
+    {
+      "detail": "search_facilities",
+      "kind": "schema",
+      "server": "azmartone67/dchub-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/dchub/mcp-server/"
+    },
+    {
+      "detail": "orderbook",
+      "kind": "schema",
+      "server": "1inch/1inch-ai",
+      "url": "https://mcpbeat.com/mcp-servers/1inch-business/mcp/"
+    },
+    {
+      "detail": "team.summarize",
+      "kind": "schema",
+      "server": "Michelangelo-Z/ai-design-blueprint",
+      "url": "https://mcpbeat.com/mcp-servers/aidesignblueprint/blueprint/"
+    }
+  ],
+  "servers": {
+    "gone": 29,
+    "new": 380
+  },
+  "source": "https://mcpbeat.com/data/2026-10-07/",
+  "tools": {
+    "added": 1082,
+    "removed": 502,
+    "schema_changed": 2458
+  }
+}
