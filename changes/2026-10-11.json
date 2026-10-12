@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-11",
+  "findings": {
+    "fixed": 985,
+    "high": 64,
+    "new": 3003
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "Helm-Protocol/openttt-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/helm-protocol/openttt-pot/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "hostsmith/mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/hostsmith/mcp-server/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "kentcdodds/kody",
+      "url": "https://mcpbeat.com/mcp-servers/kentcdodds/kody/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "yaver-io/yaver.io",
+      "url": "https://mcpbeat.com/mcp-servers/kivanccakmak/yaver/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "kryptobaseddev/cleo",
+      "url": "https://mcpbeat.com/mcp-servers/kryptobaseddev/cleo-mcp-server/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "ogasurfproject-jpg/horizon-shield",
+      "url": "https://mcpbeat.com/mcp-servers/ogasurfproject-jpg/horizon-shield/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "refined-element/lightning-enable-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/refined-element/lightning-enable-mcp/"
+    },
+    {
+      "detail": "net.reverse_shell",
+      "kind": "new_high",
+      "server": "safedep/vet",
+      "url": "https://mcpbeat.com/mcp-servers/safedep/vet-mcp/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "pezhik/skilltotal",
+      "url": "https://mcpbeat.com/mcp-servers/skilltotal/skilltotal/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "DamianTodorovic/kepta",
+      "url": "https://mcpbeat.com/mcp-servers/damiantodorovic/kepta/"
+    },
+    {
+      "detail": "message_autonomad",
+      "kind": "schema",
+      "server": "Autonomad1/autonomad1",
+      "url": "https://mcpbeat.com/mcp-servers/autonomad/travel/"
+    },
+    {
+      "detail": "renew_ens_name",
+      "kind": "schema",
+      "server": "eggybug42069/namewhisper-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/namewhisper/ens-tools/"
+    },
+    {
+      "detail": "search_sec_filings",
+      "kind": "schema",
+      "server": "signal8ai/signal8-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/signal8/mcp/"
+    },
+    {
+      "detail": "get_address_noise",
+      "kind": "schema",
+      "server": "appstackllc/decibelshieldwebsite",
+      "url": "https://mcpbeat.com/mcp-servers/decibelshield/decibel-shield/"
+    },
+    {
+      "detail": "search_listings",
+      "kind": "schema",
+      "server": "Evlek/evlek-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/evlek/mcp-server/"
+    },
+    {
+      "detail": "create_meal_plan",
+      "kind": "schema",
+      "server": "Im5tu/haus",
+      "url": "https://mcpbeat.com/mcp-servers/onehaus/haus/"
+    },
+    {
+      "detail": "calculate_required_sale_price",
+      "kind": "schema",
+      "server": "Pulltrader/pulltrader-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/pulltrader/seller-economics/"
+    },
+    {
+      "detail": "build_workflow_links",
+      "kind": "schema",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "request_trial_key",
+      "kind": "schema",
+      "server": "Acuris-GmbH/acuris-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/acuris-geo/acuris-mcp/"
+    },
+    {
+      "detail": "income_tax_estimate",
+      "kind": "schema",
+      "server": "embracingearth-space/ai2fin-tax-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ai2fin/ai2fin-tax-mcp/"
+    },
+    {
+      "detail": "design.validate",
+      "kind": "schema",
+      "server": "Michelangelo-Z/ai-design-blueprint",
+      "url": "https://mcpbeat.com/mcp-servers/aidesignblueprint/blueprint/"
+    },
+    {
+      "detail": "asterwise_get_dasha_transits",
+      "kind": "schema",
+      "server": "asterwise/asterwise-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/asterwise/mcp/"
+    }
+  ],
+  "servers": {
+    "gone": 22,
+    "new": 372
+  },
+  "source": "https://mcpbeat.com/data/2026-10-11/",
+  "tools": {
+    "added": 1921,
+    "removed": 263,
+    "schema_changed": 2452
+  }
+}
