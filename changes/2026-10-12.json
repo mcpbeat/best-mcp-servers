@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-12",
+  "findings": {
+    "fixed": 1173,
+    "high": 102,
+    "new": 3269
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "BeppeTemp/cartographer",
+      "url": "https://mcpbeat.com/mcp-servers/beppetemp/cartographer/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "Harusame64/desktop-touch-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/harusame64/desktop-touch-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "yiminspace/quarry",
+      "url": "https://mcpbeat.com/mcp-servers/wangggym/quarry/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "delimit-ai/delimit-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/delimit-ai/delimit-mcp-server/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "keploy/keploy",
+      "url": "https://mcpbeat.com/mcp-servers/keploy/mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "kryptobaseddev/cleo",
+      "url": "https://mcpbeat.com/mcp-servers/kryptobaseddev/cleo-mcp-server/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "kubeshop/testkube",
+      "url": "https://mcpbeat.com/mcp-servers/kubeshop/testkube-mcp/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "mastyf-ai/mastyf.ai",
+      "url": "https://mcpbeat.com/mcp-servers/mastyf-ai/mastyf-ai/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/scene-mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "safedep/vet",
+      "url": "https://mcpbeat.com/mcp-servers/safedep/vet-mcp/"
+    },
+    {
+      "detail": "search_hotels",
+      "kind": "schema",
+      "server": "Autonomad1/autonomad1",
+      "url": "https://mcpbeat.com/mcp-servers/autonomad/travel/"
+    },
+    {
+      "detail": "nausika_search_places",
+      "kind": "schema",
+      "server": "nausika-app/nausika-feedback",
+      "url": "https://mcpbeat.com/mcp-servers/nausika/mcp/"
+    },
+    {
+      "detail": "create_meal_plan",
+      "kind": "schema",
+      "server": "Im5tu/haus",
+      "url": "https://mcpbeat.com/mcp-servers/onehaus/haus/"
+    },
+    {
+      "detail": "realty_get_auction_case",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "register",
+      "kind": "schema",
+      "server": "ee324/a2awire",
+      "url": "https://mcpbeat.com/mcp-servers/a2awire/a2awire/"
+    },
+    {
+      "detail": "payment_receipt",
+      "kind": "schema",
+      "server": "babyblueviper1/invinoveritas-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/babyblueviper/invinoveritas/"
+    },
+    {
+      "detail": "get_liqmap",
+      "kind": "schema",
+      "server": "bykarantelicom/bykaranteli-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/bykaranteli/mcp/"
+    },
+    {
+      "detail": "getNetworkPools",
+      "kind": "schema",
+      "server": "coinpaprika/dexpaprika-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dexpaprika/dexpaprika/"
+    },
+    {
+      "detail": "interzoid_enrich_functions",
+      "kind": "schema",
+      "server": "interzoid/interzoid-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/interzoid/mcp-server/"
+    },
+    {
+      "detail": "kapruka_create_order",
+      "kind": "schema",
+      "server": "kapruka/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/kapruka/kapruka-mcp/"
+    },
+    {
+      "detail": "export",
+      "kind": "schema",
+      "server": "w1ne/kernelCAD-web",
+      "url": "https://mcpbeat.com/mcp-servers/kernelcad/kernelcad/"
+    },
+    {
+      "detail": "deployments_upload",
+      "kind": "schema",
+      "server": "shipstatic/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/shipstatic/mcp/"
+    }
+  ],
+  "servers": {
+    "gone": 24,
+    "new": 487
+  },
+  "source": "https://mcpbeat.com/data/2026-10-12/",
+  "tools": {
+    "added": 1691,
+    "removed": 1372,
+    "schema_changed": 2114
+  }
+}
