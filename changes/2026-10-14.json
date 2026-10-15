@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-14",
+  "findings": {
+    "fixed": 1029,
+    "high": 52,
+    "new": 3065
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "cohexa-ai/agent-coherence",
+      "url": "https://mcpbeat.com/mcp-servers/cohexa-ai/stale-write-guard-fs/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "devlint/GitWand",
+      "url": "https://mcpbeat.com/mcp-servers/devlint/gitwand/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "duriantaco/skylos",
+      "url": "https://mcpbeat.com/mcp-servers/duriantaco/skylos/"
+    },
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "mcpindex-ai/mcpindex-web",
+      "url": "https://mcpbeat.com/mcp-servers/gautamgb/mcp-server-mcpindex/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "kubeshop/testkube",
+      "url": "https://mcpbeat.com/mcp-servers/kubeshop/testkube-mcp/"
+    },
+    {
+      "detail": "rug.new_behaviour",
+      "kind": "new_high",
+      "server": "pendpost/pendpost",
+      "url": "https://mcpbeat.com/mcp-servers/pendpost/pendpost/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "ogasurfproject-jpg/horizon-shield",
+      "url": "https://mcpbeat.com/mcp-servers/ogasurfproject-jpg/hs-verify-gate/"
+    },
+    {
+      "detail": "rug.new_behaviour",
+      "kind": "new_high",
+      "server": "redditapis/redditapis-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/redditapis/redditapis-mcp/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "pezhik/skilltotal",
+      "url": "https://mcpbeat.com/mcp-servers/skilltotal/skilltotal/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "desplega-ai/agent-swarm",
+      "url": "https://mcpbeat.com/mcp-servers/desplega-ai/agent-swarm/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "vbcherepanov/total-agent-memory",
+      "url": "https://mcpbeat.com/mcp-servers/vbcherepanov/total-agent-memory/"
+    },
+    {
+      "detail": "combo.obf_exfil",
+      "kind": "new_high",
+      "server": "BuilderIO/agent-native",
+      "url": "https://mcpbeat.com/mcp-servers/builderio/agent-native-forms/"
+    },
+    {
+      "detail": "search_activities",
+      "kind": "schema",
+      "server": "Autonomad1/autonomad1",
+      "url": "https://mcpbeat.com/mcp-servers/autonomad/travel/"
+    },
+    {
+      "detail": "certscore_get_report_evidence_page",
+      "kind": "schema",
+      "server": "ergoveritas1-alt/certscore.ai",
+      "url": "https://mcpbeat.com/mcp-servers/certscore/mcp-light/"
+    },
+    {
+      "detail": "get_variable_context",
+      "kind": "schema",
+      "server": "FlowCastle/telegram-bot-templates",
+      "url": "https://mcpbeat.com/mcp-servers/flowcastle/flowcastle/"
+    },
+    {
+      "detail": "compose_entry",
+      "kind": "schema",
+      "server": "mameziane/aiponge",
+      "url": "https://mcpbeat.com/mcp-servers/aiponge/mcp/"
+    },
+    {
+      "detail": "realty_policy_rules",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "delete_site",
+      "kind": "schema",
+      "server": "thomasbillen-netizen/vibedeploy-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/vibedeploy/vibedeploy/"
+    },
+    {
+      "detail": "colony_report_content",
+      "kind": "schema",
+      "server": "TheColonyCC/colony-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/thecolony/mcp-server/"
+    },
+    {
+      "detail": "wejob_search_companies",
+      "kind": "schema",
+      "server": "WeJob-IT/WeJob-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/wejob/wejob/"
+    },
+    {
+      "detail": "read_inbox",
+      "kind": "schema",
+      "server": "azmartone67/dchub-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/dchub/mcp-server/"
+    },
+    {
+      "detail": "build_workflow_links",
+      "kind": "schema",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "execute_tool",
+      "kind": "schema",
+      "server": "apideck-libraries/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/apideck/mcp/"
+    },
+    {
+      "detail": "check_resolution_options",
+      "kind": "schema",
+      "server": "Bgenc48/arc-ledger-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/arcandledger/tax-tools/"
+    }
+  ],
+  "servers": {
+    "gone": 17,
+    "new": 561
+  },
+  "source": "https://mcpbeat.com/data/2026-10-14/",
+  "tools": {
+    "added": 1313,
+    "removed": 285,
+    "schema_changed": 2869
+  }
+}
