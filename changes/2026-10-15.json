@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-15",
+  "findings": {
+    "fixed": 1151,
+    "high": 55,
+    "new": 3762
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "squirrelscan/squirrelscan",
+      "url": "https://mcpbeat.com/mcp-servers/squirrelscan/squirrelscan/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "beepboop2025/seiche",
+      "url": "https://mcpbeat.com/mcp-servers/beepboop2025/seiche/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "bmdhodl/agent47",
+      "url": "https://mcpbeat.com/mcp-servers/bmdhodl/agentguard47/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "moira-mcp/moira",
+      "url": "https://mcpbeat.com/mcp-servers/moira-mcp/moira/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "solomon2773/nora",
+      "url": "https://mcpbeat.com/mcp-servers/solomon2773/nora/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "vantioai/vantio-open-core",
+      "url": "https://mcpbeat.com/mcp-servers/vantioai/vantio-optics/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "hashgraph-online/hol-guard",
+      "url": "https://mcpbeat.com/mcp-servers/hashgraph-online/hol-guard/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "pezhik/skilltotal",
+      "url": "https://mcpbeat.com/mcp-servers/skilltotal/skilltotal/"
+    },
+    {
+      "detail": "solidity.delegatecall",
+      "kind": "new_high",
+      "server": "fortunesayspump/nibgate",
+      "url": "https://mcpbeat.com/mcp-servers/fortunesayspump/nibgate/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "superdesigndev/treg",
+      "url": "https://mcpbeat.com/mcp-servers/superdesigndev/treg/"
+    },
+    {
+      "detail": "run_flow_autotest",
+      "kind": "schema",
+      "server": "FlowCastle/telegram-bot-templates",
+      "url": "https://mcpbeat.com/mcp-servers/flowcastle/flowcastle/"
+    },
+    {
+      "detail": "log_meal",
+      "kind": "schema",
+      "server": "shawnazar/forkmate-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/forkmate/forkmate/"
+    },
+    {
+      "detail": "create3DModel",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "get_premarket_scan_history",
+      "kind": "schema",
+      "server": "signal8ai/signal8-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/signal8/mcp/"
+    },
+    {
+      "detail": "jobs",
+      "kind": "schema",
+      "server": "vaaya-ai/vaaya-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/vaaya/mcp/"
+    },
+    {
+      "detail": "check_recalls",
+      "kind": "schema",
+      "server": "cardog-ai/mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/cardog/mcp/"
+    },
+    {
+      "detail": "build_workflow_links",
+      "kind": "schema",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "get_event",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/county-map/"
+    },
+    {
+      "detail": "get_event",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/earthquakes/"
+    },
+    {
+      "detail": "get_event",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/floods/"
+    },
+    {
+      "detail": "identify_dataset_geography",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/geocoding/"
+    },
+    {
+      "detail": "get_event",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/hurricanes/"
+    }
+  ],
+  "servers": {
+    "gone": 31,
+    "new": 564
+  },
+  "source": "https://mcpbeat.com/data/2026-10-15/",
+  "tools": {
+    "added": 2027,
+    "removed": 580,
+    "schema_changed": 3013
+  }
+}
