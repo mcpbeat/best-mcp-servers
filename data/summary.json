@@ -1,16 +1,16 @@
 {
-  "checks": 134506547,
-  "generated": "2026-10-19T04:36:47Z",
+  "checks": 137455516,
+  "generated": "2026-10-20T04:36:28Z",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "method": "JSON-RPC initialize handshake every 15 minutes; installs from npm and PyPI",
   "servers": {
-    "answering": 25350,
-    "listed_active_but_dead": 5291,
-    "tracked": 46882,
-    "with_network_address": 30578
+    "answering": 25690,
+    "listed_active_but_dead": 5389,
+    "tracked": 47455,
+    "with_network_address": 31016
   },
   "skills": {
-    "unique": 65514,
+    "unique": 65569,
     "vendors_publishing": 71
   },
   "source": "https://mcpbeat.com"
