@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-19",
+  "findings": {
+    "fixed": 1222,
+    "high": 94,
+    "new": 3185
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "Artexis10/exomem",
+      "url": "https://mcpbeat.com/mcp-servers/artexis10/exomem/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "PranavNagrecha/Salesforce-Intelligence",
+      "url": "https://mcpbeat.com/mcp-servers/pranavnagrecha/sf-intelligence/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "flagrix-io/flagrix-cli",
+      "url": "https://mcpbeat.com/mcp-servers/flagrix-io/flagrix/"
+    },
+    {
+      "detail": "rug.new_behaviour",
+      "kind": "new_high",
+      "server": "hostinger/api-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/hostinger/hostinger-api-mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "keploy/keploy",
+      "url": "https://mcpbeat.com/mcp-servers/keploy/mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "roian6/apple-health-ai-bridge",
+      "url": "https://mcpbeat.com/mcp-servers/roian6/health-bridge/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "saajunaid/caddis-plugin",
+      "url": "https://mcpbeat.com/mcp-servers/saajunaid/junai-mcp/"
+    },
+    {
+      "detail": "net.reverse_shell",
+      "kind": "new_high",
+      "server": "samvallad33/vestige",
+      "url": "https://mcpbeat.com/mcp-servers/samvallad33/vestige/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "sudomichael/search-console-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/sudomichael/search-console-mcp/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "yaver-io/yaver.io",
+      "url": "https://mcpbeat.com/mcp-servers/yaver-io/yaver/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "pezhik/skilltotal",
+      "url": "https://mcpbeat.com/mcp-servers/skilltotal/skilltotal/"
+    },
+    {
+      "detail": "search_flights",
+      "kind": "schema",
+      "server": "Autonomad1/autonomad1",
+      "url": "https://mcpbeat.com/mcp-servers/autonomad/travel/"
+    },
+    {
+      "detail": "validate_actions",
+      "kind": "schema",
+      "server": "FlowCastle/telegram-bot-templates",
+      "url": "https://mcpbeat.com/mcp-servers/flowcastle/flowcastle/"
+    },
+    {
+      "detail": "editImage",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "get_cash_runway_calendar",
+      "kind": "schema",
+      "server": "signal8ai/signal8-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/signal8/mcp/"
+    },
+    {
+      "detail": "route_verdict",
+      "kind": "schema",
+      "server": "RipperMercs/tensorfeed-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/tensorfeed/mcp-server/"
+    },
+    {
+      "detail": "analyze_chord",
+      "kind": "schema",
+      "server": "BluesPrince/thiri-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/thiri/chord-intelligence/"
+    },
+    {
+      "detail": "search_jobs",
+      "kind": "schema",
+      "server": "Himalayas-App/himalayas-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/himalayas/mcp/"
+    },
+    {
+      "detail": "search_materialien",
+      "kind": "schema",
+      "server": "jonashertner/opencaselaw",
+      "url": "https://mcpbeat.com/mcp-servers/opencaselaw/swiss-caselaw/"
+    },
+    {
+      "detail": "validate_collateral_swap_eligibility",
+      "kind": "schema",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "get_timeline",
+      "kind": "schema",
+      "server": "api-evangelist/apievangelist-aws",
+      "url": "https://mcpbeat.com/mcp-servers/apievangelist/api-evangelist/"
+    },
+    {
+      "detail": "compare_guard_with_forward",
+      "kind": "schema",
+      "server": "currencyguard/server",
+      "url": "https://mcpbeat.com/mcp-servers/currencyguard/guard-pricing/"
+    },
+    {
+      "detail": "create_report",
+      "kind": "schema",
+      "server": "JobMojito/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/jobmojito/jobmojito/"
+    }
+  ],
+  "servers": {
+    "gone": 24,
+    "new": 569
+  },
+  "source": "https://mcpbeat.com/data/2026-10-19/",
+  "tools": {
+    "added": 1035,
+    "removed": 192,
+    "schema_changed": 1908
+  }
+}
