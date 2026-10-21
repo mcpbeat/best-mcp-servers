@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-20",
+  "findings": {
+    "fixed": 2260,
+    "high": 69,
+    "new": 1892
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "GUCCI-atlasv/Skillssafe.com",
+      "url": "https://mcpbeat.com/mcp-servers/skillssafe/scanner/"
+    },
+    {
+      "detail": "docker.privileged",
+      "kind": "new_high",
+      "server": "AndrewDryga/emisar",
+      "url": "https://mcpbeat.com/mcp-servers/emisar/emisar/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "Hyeonu-Cha/dotnet-coverage-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/hyeonu-cha/dotnet-coverage-mcp/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "YuliiaKovalova/dotnet-template-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/yuliiakovalova/dotnet-template-mcp/"
+    },
+    {
+      "detail": "exec.pipe_to_shell",
+      "kind": "new_high",
+      "server": "bjenkinsgit/psyxe-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/bjenkinsgit/psyxe-mcp/"
+    },
+    {
+      "detail": "exec.pipe_to_shell",
+      "kind": "new_high",
+      "server": "gnt-ai/gnt",
+      "url": "https://mcpbeat.com/mcp-servers/gnt-ai/gnt/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "mkerchenski/RedditAdsMcp",
+      "url": "https://mcpbeat.com/mcp-servers/mkerchenski/reddit-ads-mcp/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "moonolgerd/game-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/moonolgerd/game-mcp/"
+    },
+    {
+      "detail": "exec.pipe_to_shell",
+      "kind": "new_high",
+      "server": "patsa2561-art/mneme-ai",
+      "url": "https://mcpbeat.com/mcp-servers/patsa2561-art/mneme-ai/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "pierre3/MailDevMcp",
+      "url": "https://mcpbeat.com/mcp-servers/pierre3/maildev-mcp/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "pierre3/dotnet-zap-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/pierre3/zap-mcp/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "timheuer/SampleDotnetMcpServer",
+      "url": "https://mcpbeat.com/mcp-servers/timheuer/sampledotnetmcpserver/"
+    },
+    {
+      "detail": "create_booking_intent",
+      "kind": "schema",
+      "server": "Autonomad1/autonomad1",
+      "url": "https://mcpbeat.com/mcp-servers/autonomad/travel/"
+    },
+    {
+      "detail": "search_vehicles",
+      "kind": "schema",
+      "server": "gondola-ai/gondola-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/gondola/gondola/"
+    },
+    {
+      "detail": "mlp_sell_vs_hold",
+      "kind": "schema",
+      "server": "luc253/lucasandersen-ai",
+      "url": "https://mcpbeat.com/mcp-servers/lucasandersen/mlp-tax/"
+    },
+    {
+      "detail": "editSpritesheet",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "screen_companies",
+      "kind": "schema",
+      "server": "signal8ai/signal8-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/signal8/mcp/"
+    },
+    {
+      "detail": "get_doc",
+      "kind": "schema",
+      "server": "try-dock-ai/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/trydock/dock/"
+    },
+    {
+      "detail": "submit_feedback",
+      "kind": "schema",
+      "server": "Himalayas-App/himalayas-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/himalayas/mcp/"
+    },
+    {
+      "detail": "colony_search_posts",
+      "kind": "schema",
+      "server": "TheColonyCC/colony-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/thecolony/mcp-server/"
+    },
+    {
+      "detail": "get_renewable_energy",
+      "kind": "schema",
+      "server": "azmartone67/dchub-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/dchub/mcp-server/"
+    },
+    {
+      "detail": "get_building_block",
+      "kind": "schema",
+      "server": "api-evangelist/apievangelist-aws",
+      "url": "https://mcpbeat.com/mcp-servers/apievangelist/api-evangelist/"
+    },
+    {
+      "detail": "analyze_3d_model",
+      "kind": "schema",
+      "server": "zvmzaretsky/fabtally-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/fabtally/slicer/"
+    },
+    {
+      "detail": "ic_donations_total",
+      "kind": "schema",
+      "server": "Immersive-commons/ic-skills",
+      "url": "https://mcpbeat.com/mcp-servers/immersivecommons/floor10/"
+    }
+  ],
+  "servers": {
+    "gone": 31,
+    "new": 573
+  },
+  "source": "https://mcpbeat.com/data/2026-10-20/",
+  "tools": {
+    "added": 1395,
+    "removed": 465,
+    "schema_changed": 2586
+  }
+}
