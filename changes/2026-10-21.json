@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-21",
+  "findings": {
+    "fixed": 4229,
+    "high": 167,
+    "new": 5038
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "testivai/testivai-oss",
+      "url": "https://mcpbeat.com/mcp-servers/testiv/mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "BeppeTemp/cartographer",
+      "url": "https://mcpbeat.com/mcp-servers/beppetemp/cartographer/"
+    },
+    {
+      "detail": "docker.privileged",
+      "kind": "new_high",
+      "server": "L337-org/docker-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/gavinlucas/docker-mcp-server/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "TinyAssets/TinyAssets",
+      "url": "https://mcpbeat.com/mcp-servers/jonnyton/workflow-universe-server/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "MarcelRoozekrans/memorylens-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/marcelroozekrans/memorylens-mcp/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "MarcelRoozekrans/roslyn-codelens-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/marcelroozekrans/roslyn-codelens/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "MaxFreedomPollard/Compartment",
+      "url": "https://mcpbeat.com/mcp-servers/maxfreedompollard/engram/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "Runeeward/runeward",
+      "url": "https://mcpbeat.com/mcp-servers/runewardd/runeward/"
+    },
+    {
+      "detail": "rug.new_install_hook",
+      "kind": "new_high",
+      "server": "SAP/mdk-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/sap/mdk-mcp-server/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "alyiox/mcp-mssql",
+      "url": "https://mcpbeat.com/mcp-servers/alyiox/mcp-mssql/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "arifulislamat/database-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/arifulislamat/database-mcp-sqlite/"
+    },
+    {
+      "detail": "send_message",
+      "kind": "schema",
+      "server": "FlowCastle/telegram-bot-templates",
+      "url": "https://mcpbeat.com/mcp-servers/flowcastle/flowcastle/"
+    },
+    {
+      "detail": "search_vehicles",
+      "kind": "schema",
+      "server": "gondola-ai/gondola-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/gondola/gondola/"
+    },
+    {
+      "detail": "get_transactions",
+      "kind": "schema",
+      "server": "jdguggs10/flaim-fantasy",
+      "url": "https://mcpbeat.com/mcp-servers/flaim/mcp/"
+    },
+    {
+      "detail": "search_jobs",
+      "kind": "schema",
+      "server": "Himalayas-App/himalayas-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/himalayas/mcp/"
+    },
+    {
+      "detail": "create_meal_plan",
+      "kind": "schema",
+      "server": "Im5tu/haus",
+      "url": "https://mcpbeat.com/mcp-servers/onehaus/haus/"
+    },
+    {
+      "detail": "estimate_delay_penalty",
+      "kind": "schema",
+      "server": "sallim-app/contract-compass",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/contract-compass/"
+    },
+    {
+      "detail": "realty_presale_vs_market",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "nfe_emitir",
+      "kind": "schema",
+      "server": "BrasilNFe/brasilnfe-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/com-brasilnfe/fiscal/"
+    },
+    {
+      "detail": "estimate_delay_penalty",
+      "kind": "schema",
+      "server": "sallim-app/contract-compass",
+      "url": "https://mcpbeat.com/mcp-servers/naru/contract-compass/"
+    },
+    {
+      "detail": "get_dua",
+      "kind": "schema",
+      "server": "yserrag/asksakina-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/asksakina/islamic-knowledge/"
+    },
+    {
+      "detail": "get_desk_notes",
+      "kind": "schema",
+      "server": "bykarantelicom/bykaranteli-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/bykaranteli/mcp/"
+    },
+    {
+      "detail": "submitFeedback",
+      "kind": "schema",
+      "server": "coinpaprika/coinpaprika-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/coinpaprika/coinpaprika/"
+    }
+  ],
+  "servers": {
+    "gone": 60,
+    "new": 708
+  },
+  "source": "https://mcpbeat.com/data/2026-10-21/",
+  "tools": {
+    "added": 1199,
+    "removed": 445,
+    "schema_changed": 2256
+  }
+}
