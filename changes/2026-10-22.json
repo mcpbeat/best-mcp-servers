@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-22",
+  "findings": {
+    "fixed": 1750,
+    "high": 97,
+    "new": 3642
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "BeppeTemp/cartographer",
+      "url": "https://mcpbeat.com/mcp-servers/beppetemp/cartographer/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "apatilgtn/k8scortex-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/apatilgtn/k8scortex-mcp/"
+    },
+    {
+      "detail": "exec.pipe_to_shell",
+      "kind": "new_high",
+      "server": "asklokesh/loki-mode",
+      "url": "https://mcpbeat.com/mcp-servers/asklokesh/loki-mode/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "tata1mg/catalyst-core",
+      "url": "https://mcpbeat.com/mcp-servers/mayankmahavar1mg/mcp/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/portfolio-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "hashgraph-online/hol-guard",
+      "url": "https://mcpbeat.com/mcp-servers/hashgraph-online/hol-guard/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "pezhik/skilltotal",
+      "url": "https://mcpbeat.com/mcp-servers/skilltotal/skilltotal/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "activeing123/mcptoon",
+      "url": "https://mcpbeat.com/mcp-servers/activeing123/mcptoon/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "superdesigndev/treg",
+      "url": "https://mcpbeat.com/mcp-servers/superdesigndev/treg/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "Cotal-AI/Cotal",
+      "url": "https://mcpbeat.com/mcp-servers/cotal/cotal/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "AIYantra/extra",
+      "url": "https://mcpbeat.com/mcp-servers/aiyantra/extra/"
+    },
+    {
+      "detail": "unpublish_workflow",
+      "kind": "schema",
+      "server": "dreamlit-ai/dreamlit-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dreamlit/mcp/"
+    },
+    {
+      "detail": "enrich_entity",
+      "kind": "schema",
+      "server": "TOT-Concept/mcp-server-entity-enricher",
+      "url": "https://mcpbeat.com/mcp-servers/entityenricher/enricher/"
+    },
+    {
+      "detail": "estimate_cost",
+      "kind": "schema",
+      "server": "pictomancer.ai/pig-gateway",
+      "url": "https://mcpbeat.com/mcp-servers/pictomancer/image-processing/"
+    },
+    {
+      "detail": "estimate_delay_penalty",
+      "kind": "schema",
+      "server": "sallim-app/contract-compass",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/contract-compass/"
+    },
+    {
+      "detail": "realty_policy_rules",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "estimate_delay_penalty",
+      "kind": "schema",
+      "server": "sallim-app/contract-compass",
+      "url": "https://mcpbeat.com/mcp-servers/naru/contract-compass/"
+    },
+    {
+      "detail": "analyze_site",
+      "kind": "schema",
+      "server": "azmartone67/dchub-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/dchub/mcp-server/"
+    },
+    {
+      "detail": "build_workflow_links",
+      "kind": "schema",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "get_document_cost_tool",
+      "kind": "schema",
+      "server": "jmtroller/mcp-documentation",
+      "url": "https://mcpbeat.com/mcp-servers/bankruptcyobserver/mcp/"
+    },
+    {
+      "detail": "update_food",
+      "kind": "schema",
+      "server": "gohluke/dayze-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dayze/life-context/"
+    },
+    {
+      "detail": "compare",
+      "kind": "schema",
+      "server": "AlexandDunk/frontdesk-data",
+      "url": "https://mcpbeat.com/mcp-servers/frontdeskreview/front-desk-review-data/"
+    },
+    {
+      "detail": "search_apps",
+      "kind": "schema",
+      "server": "getappniche-com/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/getappniche/mcp/"
+    }
+  ],
+  "servers": {
+    "gone": 28,
+    "new": 676
+  },
+  "source": "https://mcpbeat.com/data/2026-10-22/",
+  "tools": {
+    "added": 2442,
+    "removed": 968,
+    "schema_changed": 2699
+  }
+}
