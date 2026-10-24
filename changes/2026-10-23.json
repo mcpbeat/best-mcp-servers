@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-23",
+  "findings": {
+    "fixed": 2673,
+    "high": 82,
+    "new": 4580
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "josebarnetche/consignatarias-next",
+      "url": "https://mcpbeat.com/mcp-servers/com-consignatarias/cattle-market/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "cohexa-ai/agent-coherence",
+      "url": "https://mcpbeat.com/mcp-servers/cohexa-ai/stale-write-guard-fs/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "TinyAssets/TinyAssets",
+      "url": "https://mcpbeat.com/mcp-servers/jonnyton/workflow-universe-server/"
+    },
+    {
+      "detail": "net.reverse_shell",
+      "kind": "new_high",
+      "server": "samvallad33/vestige",
+      "url": "https://mcpbeat.com/mcp-servers/samvallad33/vestige/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "vantioai/vantio-open-core",
+      "url": "https://mcpbeat.com/mcp-servers/vantioai/vantio-optics/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "hashgraph-online/hol-guard",
+      "url": "https://mcpbeat.com/mcp-servers/hashgraph-online/hol-guard/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "zrk222/code-factory",
+      "url": "https://mcpbeat.com/mcp-servers/zrk222/code-factory/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "tufantunc/ssh-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/tufantunc/ssh-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "activeing123/mcptoon",
+      "url": "https://mcpbeat.com/mcp-servers/activeing123/mcptoon/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "superdesigndev/treg",
+      "url": "https://mcpbeat.com/mcp-servers/superdesigndev/treg/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "ArtJack/verdict",
+      "url": "https://mcpbeat.com/mcp-servers/artjack/verdict/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "Cotal-AI/Cotal",
+      "url": "https://mcpbeat.com/mcp-servers/cotal/cotal/"
+    },
+    {
+      "detail": "find_opportunities",
+      "kind": "schema",
+      "server": "analyticslegends/analytics-legends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/analyticslegends/sap-analytics/"
+    },
+    {
+      "detail": "cancel_booking",
+      "kind": "schema",
+      "server": "Autonomad1/autonomad1",
+      "url": "https://mcpbeat.com/mcp-servers/autonomad/travel/"
+    },
+    {
+      "detail": "get_capabilities",
+      "kind": "schema",
+      "server": "piers-fawkes/fodda-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/fodda/brand-intelligence/"
+    },
+    {
+      "detail": "get_capabilities",
+      "kind": "schema",
+      "server": "piers-fawkes/fodda-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/fodda/deep-research/"
+    },
+    {
+      "detail": "get_capabilities",
+      "kind": "schema",
+      "server": "piers-fawkes/fodda-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/fodda/earnings-intelligence/"
+    },
+    {
+      "detail": "find_expert",
+      "kind": "schema",
+      "server": "piers-fawkes/fodda-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/fodda/expert-consult/"
+    },
+    {
+      "detail": "find_expert",
+      "kind": "schema",
+      "server": "piers-fawkes/fodda-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/fodda/mcp-server/"
+    },
+    {
+      "detail": "get_capabilities",
+      "kind": "schema",
+      "server": "piers-fawkes/fodda-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/fodda/topic-research/"
+    },
+    {
+      "detail": "get_transactions",
+      "kind": "schema",
+      "server": "jdguggs10/flaim-fantasy",
+      "url": "https://mcpbeat.com/mcp-servers/flaim/mcp/"
+    },
+    {
+      "detail": "search_meme_templates",
+      "kind": "schema",
+      "server": "memebo-at/memeboat-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/memebo/memeboat-mcp/"
+    },
+    {
+      "detail": "create_webhook_endpoint",
+      "kind": "schema",
+      "server": "arbengine/mailbox-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/mailbox/mailbox/"
+    },
+    {
+      "detail": "build_workflow_links",
+      "kind": "schema",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    }
+  ],
+  "servers": {
+    "gone": 31,
+    "new": 634
+  },
+  "source": "https://mcpbeat.com/data/2026-10-23/",
+  "tools": {
+    "added": 1819,
+    "removed": 531,
+    "schema_changed": 2848
+  }
+}
