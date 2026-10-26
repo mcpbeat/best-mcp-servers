@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-25",
+  "findings": {
+    "fixed": 1423,
+    "high": 146,
+    "new": 2920
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "Pseudogiant-xr/Pseudolife-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/pseudogiant-xr/pseudolife-mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "africanmarketos591/mvr-framework",
+      "url": "https://mcpbeat.com/mcp-servers/africanmarketos591/mvr-api/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "bluetouff/13flow",
+      "url": "https://mcpbeat.com/mcp-servers/bluetouff/13flow/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "getmarrow/marrow-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/getmarrow/marrow/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "keploy/keploy",
+      "url": "https://mcpbeat.com/mcp-servers/keploy/mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "roian6/apple-health-ai-bridge",
+      "url": "https://mcpbeat.com/mcp-servers/roian6/health-bridge/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "hashgraph-online/hol-guard",
+      "url": "https://mcpbeat.com/mcp-servers/hashgraph-online/hol-guard/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "zrk222/code-factory",
+      "url": "https://mcpbeat.com/mcp-servers/zrk222/code-factory/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "pipeshub-ai/mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/pipeshub-ai/mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "bvisible/mcp-ssh-manager",
+      "url": "https://mcpbeat.com/mcp-servers/bvisible/mcp-ssh-manager/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "daidaiJ/websearch-mcpserver",
+      "url": "https://mcpbeat.com/mcp-servers/daidaij/websearch-mcpserver/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "contextstream/mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/contextstream/mcp-server/"
+    },
+    {
+      "detail": "generate_kavel_image",
+      "kind": "schema",
+      "server": "hanshs474/kavel-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/kavel/kavel-mcp/"
+    },
+    {
+      "detail": "list_retiring_models",
+      "kind": "schema",
+      "server": "hivemindunit/llmintel-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/llmintel/model-lifecycle/"
+    },
+    {
+      "detail": "path_answer",
+      "kind": "schema",
+      "server": "embeddedlayers/mcp-analytics",
+      "url": "https://mcpbeat.com/mcp-servers/mcpanalytics/analytics/"
+    },
+    {
+      "detail": "get_snow_report",
+      "kind": "schema",
+      "server": "mikeslone/snowsure-web",
+      "url": "https://mcpbeat.com/mcp-servers/snowsure/snow/"
+    },
+    {
+      "detail": "trends___get_growth",
+      "kind": "schema",
+      "server": "trendsmcp-ai/amazon-trends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/amazon/"
+    },
+    {
+      "detail": "trends___get_time_series",
+      "kind": "schema",
+      "server": "trendsmcp-ai/app-store-trends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/app-store/"
+    },
+    {
+      "detail": "trends___get_time_series",
+      "kind": "schema",
+      "server": "trendsmcp-ai/Trends-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/competitor-tracking/"
+    },
+    {
+      "detail": "trends___get_time_series",
+      "kind": "schema",
+      "server": "trendsmcp-ai/Trends-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/content-strategy/"
+    },
+    {
+      "detail": "trends___get_growth",
+      "kind": "schema",
+      "server": "trendsmcp-ai/Trends-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/crypto/"
+    },
+    {
+      "detail": "trends___get_growth",
+      "kind": "schema",
+      "server": "trendsmcp-ai/Trends-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/ecommerce/"
+    },
+    {
+      "detail": "trends___get_growth",
+      "kind": "schema",
+      "server": "trendsmcp-ai/google-trends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/google-trends/"
+    },
+    {
+      "detail": "trends___get_time_series",
+      "kind": "schema",
+      "server": "trendsmcp-ai/Trends-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/trendsmcp/market-research/"
+    }
+  ],
+  "servers": {
+    "gone": 16,
+    "new": 525
+  },
+  "source": "https://mcpbeat.com/data/2026-10-25/",
+  "tools": {
+    "added": 2380,
+    "removed": 613,
+    "schema_changed": 3333
+  }
+}
