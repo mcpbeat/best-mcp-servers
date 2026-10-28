@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-27",
+  "findings": {
+    "fixed": 1565,
+    "high": 99,
+    "new": 2930
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "TinyAssets/TinyAssets",
+      "url": "https://mcpbeat.com/mcp-servers/jonnyton/workflow-universe-server/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "beepboop2025/seiche",
+      "url": "https://mcpbeat.com/mcp-servers/beepboop2025/seiche/"
+    },
+    {
+      "detail": "rug.new_behaviour",
+      "kind": "new_high",
+      "server": "n24q02m/email",
+      "url": "https://mcpbeat.com/mcp-servers/n24q02m/better-email-mcp/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/ibm-watsonx/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "strale-io/strale",
+      "url": "https://mcpbeat.com/mcp-servers/strale-io/strale/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "Misterio070/scanpay",
+      "url": "https://mcpbeat.com/mcp-servers/misterio070/scanpay/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "pezhik/skilltotal",
+      "url": "https://mcpbeat.com/mcp-servers/skilltotal/skilltotal/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "pipeshub-ai/mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/pipeshub-ai/mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "desplega-ai/agent-swarm",
+      "url": "https://mcpbeat.com/mcp-servers/desplega-ai/agent-swarm/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "rebasepro/rebase",
+      "url": "https://mcpbeat.com/mcp-servers/rebasepro/rebase/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "theluckystrike/mcp-servers",
+      "url": "https://mcpbeat.com/mcp-servers/theluckystrike/barcode/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "parallel-sandbox/parallelsandbox-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/parallelsandbox/parallelsandbox/"
+    },
+    {
+      "detail": "search_hotels",
+      "kind": "schema",
+      "server": "Autonomad1/autonomad1",
+      "url": "https://mcpbeat.com/mcp-servers/autonomad/travel/"
+    },
+    {
+      "detail": "get_workflow_and_preview_url",
+      "kind": "schema",
+      "server": "dreamlit-ai/dreamlit-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dreamlit/mcp/"
+    },
+    {
+      "detail": "start_batch_enrichment",
+      "kind": "schema",
+      "server": "TOT-Concept/mcp-server-entity-enricher",
+      "url": "https://mcpbeat.com/mcp-servers/entityenricher/enricher/"
+    },
+    {
+      "detail": "getDocs",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "get_sold_comps",
+      "kind": "schema",
+      "server": "benswork-space/govauctions-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/govauctions/govauctions/"
+    },
+    {
+      "detail": "estimate_batch_mail",
+      "kind": "schema",
+      "server": "arbengine/mailbox-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/mailbox/mailbox/"
+    },
+    {
+      "detail": "nfe_emitir",
+      "kind": "schema",
+      "server": "BrasilNFe/brasilnfe-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/com-brasilnfe/fiscal/"
+    },
+    {
+      "detail": "colony_create_post",
+      "kind": "schema",
+      "server": "TheColonyCC/colony-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/thecolony/mcp-server/"
+    },
+    {
+      "detail": "build_workflow_links",
+      "kind": "schema",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "asterwise_get_western_daily_factors",
+      "kind": "schema",
+      "server": "asterwise/asterwise-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/asterwise/mcp/"
+    },
+    {
+      "detail": "update_person",
+      "kind": "schema",
+      "server": "gohluke/dayze-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dayze/life-context/"
+    },
+    {
+      "detail": "get_about",
+      "kind": "schema",
+      "server": "followontours/mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/followontours/cricket-travel/"
+    }
+  ],
+  "servers": {
+    "gone": 51,
+    "new": 627
+  },
+  "source": "https://mcpbeat.com/data/2026-10-27/",
+  "tools": {
+    "added": 1262,
+    "removed": 246,
+    "schema_changed": 2046
+  }
+}
