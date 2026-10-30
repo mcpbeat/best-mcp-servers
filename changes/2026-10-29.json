@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-29",
+  "findings": {
+    "fixed": 1366,
+    "high": 69,
+    "new": 2318
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "AndrewDryga/emisar",
+      "url": "https://mcpbeat.com/mcp-servers/emisar/emisar/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "DanceNitra/inspeximus",
+      "url": "https://mcpbeat.com/mcp-servers/dancenitra/mnemo/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "Pseudogiant-xr/Pseudolife-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/pseudogiant-xr/pseudolife-mcp/"
+    },
+    {
+      "detail": "combo.exec_obfuscated",
+      "kind": "new_high",
+      "server": "eutech-directory/legis-link-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/eutech-directory/legis-link/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "kody-hq/kody",
+      "url": "https://mcpbeat.com/mcp-servers/kentcdodds/kody/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "keploy/keploy",
+      "url": "https://mcpbeat.com/mcp-servers/keploy/mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "kryptobaseddev/cleo",
+      "url": "https://mcpbeat.com/mcp-servers/kryptobaseddev/cleo-mcp-server/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "swswordholy-tech/AgentsChatProtocol",
+      "url": "https://mcpbeat.com/mcp-servers/swswordholy-tech/agentschat-mcp/"
+    },
+    {
+      "detail": "solidity.delegatecall",
+      "kind": "new_high",
+      "server": "MintwareDevelopers/Mintware-Beta",
+      "url": "https://mcpbeat.com/mcp-servers/mintwaredevelopers/mcp-server/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "TanerTalas/codecraft",
+      "url": "https://mcpbeat.com/mcp-servers/tanertalas/codecraft/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "vbcherepanov/total-agent-memory",
+      "url": "https://mcpbeat.com/mcp-servers/vbcherepanov/total-agent-memory/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "omarmohelal/SecHelix",
+      "url": "https://mcpbeat.com/mcp-servers/omarmohelal/sechelix/"
+    },
+    {
+      "detail": "give_consent",
+      "kind": "schema",
+      "server": "shawnazar/forkmate-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/forkmate/forkmate/"
+    },
+    {
+      "detail": "search_clinical_trials",
+      "kind": "schema",
+      "server": "signal8ai/signal8-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/signal8/mcp/"
+    },
+    {
+      "detail": "update_webhook_endpoint",
+      "kind": "schema",
+      "server": "arbengine/mailbox-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/mailbox/mailbox/"
+    },
+    {
+      "detail": "nfe_previsualizar",
+      "kind": "schema",
+      "server": "BrasilNFe/brasilnfe-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/com-brasilnfe/fiscal/"
+    },
+    {
+      "detail": "colony_report_content",
+      "kind": "schema",
+      "server": "TheColonyCC/colony-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/thecolony/mcp-server/"
+    },
+    {
+      "detail": "aqua",
+      "kind": "schema",
+      "server": "1inch/1inch-ai",
+      "url": "https://mcpbeat.com/mcp-servers/1inch-business/mcp/"
+    },
+    {
+      "detail": "update_inventory_item",
+      "kind": "schema",
+      "server": "gohluke/dayze-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dayze/life-context/"
+    },
+    {
+      "detail": "get_template",
+      "kind": "schema",
+      "server": "instavar/mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/instavar/mcp-server/"
+    },
+    {
+      "detail": "create_interview",
+      "kind": "schema",
+      "server": "JobMojito/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/jobmojito/jobmojito/"
+    },
+    {
+      "detail": "export",
+      "kind": "schema",
+      "server": "w1ne/kernelCAD-web",
+      "url": "https://mcpbeat.com/mcp-servers/kernelcad/kernelcad/"
+    },
+    {
+      "detail": "send_developer_feedback",
+      "kind": "schema",
+      "server": "lightbringer-patents/mcp-connector",
+      "url": "https://mcpbeat.com/mcp-servers/lightbringer/connector/"
+    },
+    {
+      "detail": "search_journals",
+      "kind": "schema",
+      "server": "sundou82/conference-partner-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/myhuiban-www/conference-partner/"
+    }
+  ],
+  "servers": {
+    "gone": 37,
+    "new": 679
+  },
+  "source": "https://mcpbeat.com/data/2026-10-29/",
+  "tools": {
+    "added": 1236,
+    "removed": 680,
+    "schema_changed": 4168
+  }
+}
