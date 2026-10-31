@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-30",
+  "findings": {
+    "fixed": 1895,
+    "high": 92,
+    "new": 7671
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "BeppeTemp/cartographer",
+      "url": "https://mcpbeat.com/mcp-servers/beppetemp/cartographer/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "Harusame64/desktop-touch-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/harusame64/desktop-touch-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "getmarrow/marrow-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/getmarrow/marrow/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "malamutemayhem/unclick",
+      "url": "https://mcpbeat.com/mcp-servers/malamutemayhem/amber/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "ogasurfproject-jpg/horizon-shield",
+      "url": "https://mcpbeat.com/mcp-servers/ogasurfproject-jpg/hs-audit-app/"
+    },
+    {
+      "detail": "combo.exec_obfuscated",
+      "kind": "new_high",
+      "server": "openaccountants/openaccountants",
+      "url": "https://mcpbeat.com/mcp-servers/openaccountants/openaccountants/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "screenpipe/screenpipe",
+      "url": "https://mcpbeat.com/mcp-servers/screenpipe/screenpipe-mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Vladimir-Human/ru-marketplace-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/vladimir-human/ru-marketplace-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "hashgraph-online/hol-guard",
+      "url": "https://mcpbeat.com/mcp-servers/hashgraph-online/hol-guard/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "desplega-ai/agent-swarm",
+      "url": "https://mcpbeat.com/mcp-servers/desplega-ai/agent-swarm/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "superdesigndev/treg",
+      "url": "https://mcpbeat.com/mcp-servers/superdesigndev/treg/"
+    },
+    {
+      "detail": "get_academy_module",
+      "kind": "schema",
+      "server": "analyticslegends/analytics-legends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/analyticslegends/sap-analytics/"
+    },
+    {
+      "detail": "run",
+      "kind": "schema",
+      "server": "bowmark-ai/skill",
+      "url": "https://mcpbeat.com/mcp-servers/bowmark/bowmark/"
+    },
+    {
+      "detail": "certscore_get_report_evidence_page",
+      "kind": "schema",
+      "server": "ergoveritas1-alt/certscore.ai",
+      "url": "https://mcpbeat.com/mcp-servers/certscore/mcp-light/"
+    },
+    {
+      "detail": "classify_database_model",
+      "kind": "schema",
+      "server": "TOT-Concept/mcp-server-entity-enricher",
+      "url": "https://mcpbeat.com/mcp-servers/entityenricher/enricher/"
+    },
+    {
+      "detail": "report_issue",
+      "kind": "schema",
+      "server": "sallim-app/contract-compass",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/contract-compass/"
+    },
+    {
+      "detail": "report_issue",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "report_issue",
+      "kind": "schema",
+      "server": "sallim-app/contract-compass",
+      "url": "https://mcpbeat.com/mcp-servers/naru/contract-compass/"
+    },
+    {
+      "detail": "compare_cities",
+      "kind": "schema",
+      "server": "summerstateofmind/cityparity",
+      "url": "https://mcpbeat.com/mcp-servers/cityparity/cityparity/"
+    },
+    {
+      "detail": "price_guard",
+      "kind": "schema",
+      "server": "currencyguard/server",
+      "url": "https://mcpbeat.com/mcp-servers/currencyguard/guard-pricing/"
+    },
+    {
+      "detail": "interzoid_building_profile",
+      "kind": "schema",
+      "server": "interzoid/interzoid-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/interzoid/mcp-server/"
+    },
+    {
+      "detail": "get_player_props",
+      "kind": "schema",
+      "server": "drduda9/olympus-bets-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/olympus-bets/olympus-bets-analytics/"
+    },
+    {
+      "detail": "keyword_rankings",
+      "kind": "schema",
+      "server": "ncosic/webotee-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/webotee/amazon-product-research-mcp/"
+    }
+  ],
+  "servers": {
+    "gone": 28,
+    "new": 694
+  },
+  "source": "https://mcpbeat.com/data/2026-10-30/",
+  "tools": {
+    "added": 1175,
+    "removed": 256,
+    "schema_changed": 2310
+  }
+}
