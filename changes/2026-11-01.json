@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-01",
+  "findings": {
+    "fixed": 1581,
+    "high": 68,
+    "new": 3406
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "exec.pipe_to_shell",
+      "kind": "new_high",
+      "server": "kirbah/mcp-youtube",
+      "url": "https://mcpbeat.com/mcp-servers/smithery/kirbah-mcp-youtube/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "Pseudogiant-xr/Pseudolife-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/pseudogiant-xr/pseudolife-mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "asklokesh/loki-mode",
+      "url": "https://mcpbeat.com/mcp-servers/asklokesh/loki-mode/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "duriantaco/skylos",
+      "url": "https://mcpbeat.com/mcp-servers/duriantaco/skylos/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "juyterman1000/entroly",
+      "url": "https://mcpbeat.com/mcp-servers/juyterman1000/entroly/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "mindstone/mcp-servers",
+      "url": "https://mcpbeat.com/mcp-servers/mindstone/mcp-server-slack/"
+    },
+    {
+      "detail": "secret.leaked",
+      "kind": "new_high",
+      "server": "nifrajs/nifra",
+      "url": "https://mcpbeat.com/mcp-servers/nifrajs/nifra-docs/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/kol-mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "ogasurfproject-jpg/horizon-shield",
+      "url": "https://mcpbeat.com/mcp-servers/ogasurfproject-jpg/horizon-shield-webmcp/"
+    },
+    {
+      "detail": "combo.exec_obfuscated",
+      "kind": "new_high",
+      "server": "openaccountants/openaccountants",
+      "url": "https://mcpbeat.com/mcp-servers/openaccountants/openaccountants/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "saajunaid/caddis-plugin",
+      "url": "https://mcpbeat.com/mcp-servers/saajunaid/junai-mcp/"
+    },
+    {
+      "detail": "net.reverse_shell",
+      "kind": "new_high",
+      "server": "samvallad33/vestige",
+      "url": "https://mcpbeat.com/mcp-servers/samvallad33/vestige/"
+    },
+    {
+      "detail": "jig_call",
+      "kind": "schema",
+      "server": "bowmark-ai/skill",
+      "url": "https://mcpbeat.com/mcp-servers/bowmark/bowmark/"
+    },
+    {
+      "detail": "path_rerun",
+      "kind": "schema",
+      "server": "embeddedlayers/mcp-analytics",
+      "url": "https://mcpbeat.com/mcp-servers/mcpanalytics/analytics/"
+    },
+    {
+      "detail": "nfe_emitir",
+      "kind": "schema",
+      "server": "BrasilNFe/brasilnfe-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/com-brasilnfe/fiscal/"
+    },
+    {
+      "detail": "colony_preview_post",
+      "kind": "schema",
+      "server": "TheColonyCC/colony-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/thecolony/mcp-server/"
+    },
+    {
+      "detail": "build_workflow_links",
+      "kind": "schema",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "discover_agents",
+      "kind": "schema",
+      "server": "ee324/a2awire",
+      "url": "https://mcpbeat.com/mcp-servers/a2awire/a2awire/"
+    },
+    {
+      "detail": "get_price_index_history",
+      "kind": "schema",
+      "server": "ntlgnc/Agentery-Plugin",
+      "url": "https://mcpbeat.com/mcp-servers/agentery/agentery/"
+    },
+    {
+      "detail": "open_in_studio",
+      "kind": "schema",
+      "server": "w1ne/kernelCAD-web",
+      "url": "https://mcpbeat.com/mcp-servers/kernelcad/kernelcad/"
+    },
+    {
+      "detail": "export_leads",
+      "kind": "schema",
+      "server": "macgregordev/leadmarina-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/leadmarina/leadmarina/"
+    },
+    {
+      "detail": "sapiens_repertorio",
+      "kind": "schema",
+      "server": "inhabitants/sapiens-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/sapiensinteticos/sapiens/"
+    },
+    {
+      "detail": "get_summary",
+      "kind": "schema",
+      "server": "tickerdb/tickerdb-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/tickerdb/mcp-server/"
+    },
+    {
+      "detail": "list_events",
+      "kind": "schema",
+      "server": "lestertww/webhookstudio",
+      "url": "https://mcpbeat.com/mcp-servers/webhook-studio/webhooks/"
+    }
+  ],
+  "servers": {
+    "gone": 22,
+    "new": 552
+  },
+  "source": "https://mcpbeat.com/data/2026-11-01/",
+  "tools": {
+    "added": 1058,
+    "removed": 391,
+    "schema_changed": 2046
+  }
+}
