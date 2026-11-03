@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-02",
+  "findings": {
+    "fixed": 5223,
+    "high": 188,
+    "new": 3557
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "kaeawc/auto-mobile",
+      "url": "https://mcpbeat.com/mcp-servers/jasonpearson/auto-mobile/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "BeppeTemp/cartographer",
+      "url": "https://mcpbeat.com/mcp-servers/beppetemp/cartographer/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "Runeeward/RuneBox",
+      "url": "https://mcpbeat.com/mcp-servers/runewardd/runeward/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "Tyox-all/Weave_Protocol",
+      "url": "https://mcpbeat.com/mcp-servers/tyox-all/mund/"
+    },
+    {
+      "detail": "exec.pipe_to_shell",
+      "kind": "new_high",
+      "server": "asklokesh/loki-mode",
+      "url": "https://mcpbeat.com/mcp-servers/asklokesh/loki-mode/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "duriantaco/skylos",
+      "url": "https://mcpbeat.com/mcp-servers/duriantaco/skylos/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "keploy/keploy",
+      "url": "https://mcpbeat.com/mcp-servers/keploy/mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "mindstone/mcp-servers",
+      "url": "https://mcpbeat.com/mcp-servers/mindstone/mcp-server-freshdesk/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "roian6/apple-health-ai-bridge",
+      "url": "https://mcpbeat.com/mcp-servers/roian6/health-bridge/"
+    },
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "jgraph/drawio-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/draw/mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Enkryptedx/xrpldashboard",
+      "url": "https://mcpbeat.com/mcp-servers/xrpldashboard/xrpldashboard-mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Vladimir-Human/ru-marketplace-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/vladimir-human/ru-marketplace-mcp/"
+    },
+    {
+      "detail": "jig_open",
+      "kind": "schema",
+      "server": "bowmark-ai/skill",
+      "url": "https://mcpbeat.com/mcp-servers/bowmark/bowmark/"
+    },
+    {
+      "detail": "get_insider_cluster_buys",
+      "kind": "schema",
+      "server": "signal8ai/signal8-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/signal8/mcp/"
+    },
+    {
+      "detail": "nfe_previsualizar",
+      "kind": "schema",
+      "server": "BrasilNFe/brasilnfe-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/com-brasilnfe/fiscal/"
+    },
+    {
+      "detail": "set_market_alert",
+      "kind": "schema",
+      "server": "azmartone67/dchub-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/dchub/mcp-server/"
+    },
+    {
+      "detail": "log_moment",
+      "kind": "schema",
+      "server": "gohluke/dayze-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dayze/life-context/"
+    },
+    {
+      "detail": "search_beaches",
+      "kind": "schema",
+      "server": "Flightmussy/beachmap-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/europebeachmap/beachmap/"
+    },
+    {
+      "detail": "frantic.read_board",
+      "kind": "schema",
+      "server": "gofrantic/frantic-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/gofrantic/frantic/"
+    },
+    {
+      "detail": "propose_video_storyboard",
+      "kind": "schema",
+      "server": "instavar/mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/instavar/mcp-server/"
+    },
+    {
+      "detail": "list_report_fields",
+      "kind": "schema",
+      "server": "JobMojito/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/jobmojito/jobmojito/"
+    },
+    {
+      "detail": "write_bom",
+      "kind": "schema",
+      "server": "w1ne/kernelCAD-web",
+      "url": "https://mcpbeat.com/mcp-servers/kernelcad/kernelcad/"
+    },
+    {
+      "detail": "lookup_business",
+      "kind": "schema",
+      "server": "loppee-ai/loppee-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/loppee/loppee/"
+    },
+    {
+      "detail": "broadcasts_create",
+      "kind": "schema",
+      "server": "anrawool/mailrith-agent-platform",
+      "url": "https://mcpbeat.com/mcp-servers/mailrith/mailrith/"
+    }
+  ],
+  "servers": {
+    "gone": 33,
+    "new": 766
+  },
+  "source": "https://mcpbeat.com/data/2026-11-02/",
+  "tools": {
+    "added": 2009,
+    "removed": 747,
+    "schema_changed": 2611
+  }
+}
