@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-03",
+  "findings": {
+    "fixed": 1058,
+    "high": 54,
+    "new": 1864
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "AndrewDryga/emisar",
+      "url": "https://mcpbeat.com/mcp-servers/emisar/emisar/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "asklokesh/loki-mode",
+      "url": "https://mcpbeat.com/mcp-servers/asklokesh/loki-mode/"
+    },
+    {
+      "detail": "rug.new_behaviour",
+      "kind": "new_high",
+      "server": "hostinger/api-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/hostinger/hostinger-api-mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "keploy/keploy",
+      "url": "https://mcpbeat.com/mcp-servers/keploy/mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "mindstone/mcp-servers",
+      "url": "https://mcpbeat.com/mcp-servers/mindstone/mcp-server-fathom/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "bekirdag/pigeonpost",
+      "url": "https://mcpbeat.com/mcp-servers/bekirdag/pigeonpost/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Vladimir-Human/ru-marketplace-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/vladimir-human/ru-marketplace-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "blissito/easybits",
+      "url": "https://mcpbeat.com/mcp-servers/easybits/easybits/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "wraps-team/wraps",
+      "url": "https://mcpbeat.com/mcp-servers/wraps/docs/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "Looted/kibi",
+      "url": "https://mcpbeat.com/mcp-servers/looted/kibi-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "mahdibrr/dev-error-explainers",
+      "url": "https://mcpbeat.com/mcp-servers/mahdibrr/dev-error-explainers/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "csigelo/sigelo",
+      "url": "https://mcpbeat.com/mcp-servers/csigelo/sigelo/"
+    },
+    {
+      "detail": "run",
+      "kind": "schema",
+      "server": "bowmark-ai/skill",
+      "url": "https://mcpbeat.com/mcp-servers/bowmark/bowmark/"
+    },
+    {
+      "detail": "rigModel",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "get_intraday_bars",
+      "kind": "schema",
+      "server": "signal8ai/signal8-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/signal8/mcp/"
+    },
+    {
+      "detail": "web_access_sitemap",
+      "kind": "schema",
+      "server": "usestring/string-ai-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/usestring/web-access/"
+    },
+    {
+      "detail": "realty_region_rankings",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "sonar_get_app",
+      "kind": "schema",
+      "server": "trysonar/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/trysonar/sonar/"
+    },
+    {
+      "detail": "arquivo_baixar_evento",
+      "kind": "schema",
+      "server": "BrasilNFe/brasilnfe-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/com-brasilnfe/fiscal/"
+    },
+    {
+      "detail": "discover_agents",
+      "kind": "schema",
+      "server": "ee324/a2awire",
+      "url": "https://mcpbeat.com/mcp-servers/a2awire/a2awire/"
+    },
+    {
+      "detail": "submit_quote_request",
+      "kind": "schema",
+      "server": "cameronjmcewan-dev/advocatemcp",
+      "url": "https://mcpbeat.com/mcp-servers/advocatemcp/advocate/"
+    },
+    {
+      "detail": "fetch",
+      "kind": "schema",
+      "server": "BingoWon/apple-rag-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/apple-rag/mcp-server/"
+    },
+    {
+      "detail": "check_agent_discovery",
+      "kind": "schema",
+      "server": "MadaBurns/bv-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/blackveilsecurity/dns/"
+    },
+    {
+      "detail": "get_liqmap",
+      "kind": "schema",
+      "server": "bykarantelicom/bykaranteli-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/bykaranteli/mcp/"
+    }
+  ],
+  "servers": {
+    "gone": 23,
+    "new": 833
+  },
+  "source": "https://mcpbeat.com/data/2026-11-03/",
+  "tools": {
+    "added": 2818,
+    "removed": 943,
+    "schema_changed": 3696
+  }
+}
