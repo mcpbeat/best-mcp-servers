@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-04",
+  "findings": {
+    "fixed": 1616,
+    "high": 253,
+    "new": 3259
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "squirrelscan/squirrelscan",
+      "url": "https://mcpbeat.com/mcp-servers/squirrelscan/squirrelscan/"
+    },
+    {
+      "detail": "exec.pipe_to_shell",
+      "kind": "new_high",
+      "server": "0xMassi/webclaw",
+      "url": "https://mcpbeat.com/mcp-servers/0xmassi/webclaw/"
+    },
+    {
+      "detail": "docker.privileged",
+      "kind": "new_high",
+      "server": "L337-org/docker-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/l337-org/docker-mcp-server/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "yiminspace/quarry",
+      "url": "https://mcpbeat.com/mcp-servers/wangggym/quarry/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "unsoldgroup/mail-index",
+      "url": "https://mcpbeat.com/mcp-servers/alunsoldantarctica/mail-index/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "devlint/GitWand",
+      "url": "https://mcpbeat.com/mcp-servers/devlint/gitwand/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "keploy/keploy",
+      "url": "https://mcpbeat.com/mcp-servers/keploy/mcp/"
+    },
+    {
+      "detail": "supply.only_in_package",
+      "kind": "new_high",
+      "server": "mayim-mayim/mayim-agent",
+      "url": "https://mcpbeat.com/mcp-servers/mayim-mayim/ln-church-agent-mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "mindstone/mcp-servers",
+      "url": "https://mcpbeat.com/mcp-servers/mindstone/mcp-server-talentlms/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "ogasurfproject-jpg/horizon-shield",
+      "url": "https://mcpbeat.com/mcp-servers/ogasurfproject-jpg/horizon-shield-webmcp/"
+    },
+    {
+      "detail": "combo.exec_obfuscated",
+      "kind": "new_high",
+      "server": "openaccountants/openaccountants",
+      "url": "https://mcpbeat.com/mcp-servers/openaccountants/openaccountants-mcp/"
+    },
+    {
+      "detail": "search_web_pages",
+      "kind": "schema",
+      "server": "keenableai/keenable-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/keenable/web-search/"
+    },
+    {
+      "detail": "transferMotion",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "get_dilution_instruments",
+      "kind": "schema",
+      "server": "signal8ai/signal8-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/signal8/mcp/"
+    },
+    {
+      "detail": "get_practice",
+      "kind": "schema",
+      "server": "jonashertner/opencaselaw",
+      "url": "https://mcpbeat.com/mcp-servers/opencaselaw/swiss-caselaw/"
+    },
+    {
+      "detail": "discover_agents",
+      "kind": "schema",
+      "server": "ee324/a2awire",
+      "url": "https://mcpbeat.com/mcp-servers/a2awire/a2awire/"
+    },
+    {
+      "detail": "asterwise_get_dasha",
+      "kind": "schema",
+      "server": "asterwise/asterwise-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/asterwise/mcp/"
+    },
+    {
+      "detail": "worlds_search_cli_reference",
+      "kind": "schema",
+      "server": "claude-world/worlds-knowledge-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/claude-world/worlds-knowledge/"
+    },
+    {
+      "detail": "preview_destructive_change",
+      "kind": "schema",
+      "server": "gohluke/dayze-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dayze/life-context/"
+    },
+    {
+      "detail": "create_monitor",
+      "kind": "schema",
+      "server": "hyperping/mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/hyperping/hyperping/"
+    },
+    {
+      "detail": "search_assets",
+      "kind": "schema",
+      "server": "w1ne/kernelCAD-web",
+      "url": "https://mcpbeat.com/mcp-servers/kernelcad/kernelcad/"
+    },
+    {
+      "detail": "search_leads",
+      "kind": "schema",
+      "server": "macgregordev/leadmarina-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/leadmarina/leadmarina/"
+    },
+    {
+      "detail": "get_slate",
+      "kind": "schema",
+      "server": "jessejohnsohn/negativeev-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/negativeev/bet-checker/"
+    }
+  ],
+  "servers": {
+    "gone": 37,
+    "new": 711
+  },
+  "source": "https://mcpbeat.com/data/2026-11-04/",
+  "tools": {
+    "added": 4425,
+    "removed": 1487,
+    "schema_changed": 2394
+  }
+}
