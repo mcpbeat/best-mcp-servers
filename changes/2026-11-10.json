@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-10",
+  "findings": {
+    "fixed": 2536,
+    "high": 151,
+    "new": 3846
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "AndrewDryga/emisar",
+      "url": "https://mcpbeat.com/mcp-servers/emisar/emisar/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "datanika-io/datanika-core",
+      "url": "https://mcpbeat.com/mcp-servers/datanika/datanika-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "cohexa-ai/agent-coherence",
+      "url": "https://mcpbeat.com/mcp-servers/cohexa-ai/stale-write-guard-fs/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "DunkelCloud/ToolMesh",
+      "url": "https://mcpbeat.com/mcp-servers/dunkelcloud/toolmesh/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Lykhoyda/ask-llm",
+      "url": "https://mcpbeat.com/mcp-servers/lykhoyda/ask-claude/"
+    },
+    {
+      "detail": "rug.new_behaviour",
+      "kind": "new_high",
+      "server": "Tyox-all/Weave_Protocol",
+      "url": "https://mcpbeat.com/mcp-servers/tyox-all/mund/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "adamsjack711-ux/pkgxray",
+      "url": "https://mcpbeat.com/mcp-servers/adamsjack711-ux/pkgxray/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "devlint/GitWand",
+      "url": "https://mcpbeat.com/mcp-servers/devlint/gitwand/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "getsentry/toolkit",
+      "url": "https://mcpbeat.com/mcp-servers/getsentry/sentry-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "j0hanz/filesystem-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/j0hanz/filesystem-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "kryptobaseddev/cleo",
+      "url": "https://mcpbeat.com/mcp-servers/kryptobaseddev/cleo-mcp-server/"
+    },
+    {
+      "detail": "net.reverse_shell",
+      "kind": "new_high",
+      "server": "smart-mcp-proxy/mcpproxy-go",
+      "url": "https://mcpbeat.com/mcp-servers/smart-mcp-proxy/mcpproxy-go/"
+    },
+    {
+      "detail": "find_answers",
+      "kind": "schema",
+      "server": "analyticslegends/analytics-legends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/analyticslegends/sap-analytics/"
+    },
+    {
+      "detail": "create_agent",
+      "kind": "schema",
+      "server": "Chronary/chronary-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/chronary/mcp/"
+    },
+    {
+      "detail": "search_web_pages",
+      "kind": "schema",
+      "server": "keenableai/keenable-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/keenable/web-search/"
+    },
+    {
+      "detail": "get_reverse_splits_list",
+      "kind": "schema",
+      "server": "signal8ai/signal8-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/signal8/mcp/"
+    },
+    {
+      "detail": "validate_ai_output",
+      "kind": "schema",
+      "server": "VerificateAI/verificate-mcp-quickstart",
+      "url": "https://mcpbeat.com/mcp-servers/verificate/mcp/"
+    },
+    {
+      "detail": "get_transactions",
+      "kind": "schema",
+      "server": "jdguggs10/flaim-fantasy",
+      "url": "https://mcpbeat.com/mcp-servers/flaim/mcp/"
+    },
+    {
+      "detail": "delete_company_job",
+      "kind": "schema",
+      "server": "Himalayas-App/himalayas-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/himalayas/mcp/"
+    },
+    {
+      "detail": "find_sites",
+      "kind": "schema",
+      "server": "azmartone67/dchub-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/dchub/mcp-server/"
+    },
+    {
+      "detail": "build_workflow_links",
+      "kind": "schema",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "promptguard_list_events",
+      "kind": "schema",
+      "server": "promptguardhq/promptguard",
+      "url": "https://mcpbeat.com/mcp-servers/promptguard/security/"
+    },
+    {
+      "detail": "hires_create_job",
+      "kind": "schema",
+      "server": "100Hires/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/100hires/100hires/"
+    },
+    {
+      "detail": "birth",
+      "kind": "schema",
+      "server": "ee324/a2awire",
+      "url": "https://mcpbeat.com/mcp-servers/a2awire/a2awire/"
+    }
+  ],
+  "servers": {
+    "gone": 32,
+    "new": 989
+  },
+  "source": "https://mcpbeat.com/data/2026-11-10/",
+  "tools": {
+    "added": 2075,
+    "removed": 1959,
+    "schema_changed": 2604
+  }
+}
