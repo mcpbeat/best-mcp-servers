@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-11",
+  "findings": {
+    "fixed": 1837,
+    "high": 89,
+    "new": 2730
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "MaxFreedomPollard/Compartment",
+      "url": "https://mcpbeat.com/mcp-servers/maxfreedompollard/engram/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "hostsmith/mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/hostsmith/mcp-server/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "kryptobaseddev/cleo",
+      "url": "https://mcpbeat.com/mcp-servers/kryptobaseddev/cleo-mcp-server/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "mindstone/mcp-servers",
+      "url": "https://mcpbeat.com/mcp-servers/mindstone/mcp-server-kling/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "ooples/token-optimizer-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ooples/token-optimizer-mcp/"
+    },
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "parterburn/dabble.me",
+      "url": "https://mcpbeat.com/mcp-servers/parterburn/dabble-me/"
+    },
+    {
+      "detail": "exec.pipe_to_shell",
+      "kind": "new_high",
+      "server": "zhitongblog/unterm",
+      "url": "https://mcpbeat.com/mcp-servers/zhitongblog/unterm/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Enkryptedx/xrpldashboard",
+      "url": "https://mcpbeat.com/mcp-servers/xrpldashboard/xrpldashboard-mcp/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "tourhabk-ui/pos",
+      "url": "https://mcpbeat.com/mcp-servers/vedarai/mcp/"
+    },
+    {
+      "detail": "secret.leaked",
+      "kind": "new_high",
+      "server": "Uuriko/project-room",
+      "url": "https://mcpbeat.com/mcp-servers/uuriko/project-room/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "ogasurfproject-jpg/horizon-shield",
+      "url": "https://mcpbeat.com/mcp-servers/ogasurfproject-jpg/hs-partner-002-mcp/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "csigelo/sigelo",
+      "url": "https://mcpbeat.com/mcp-servers/csigelo/sigelo/"
+    },
+    {
+      "detail": "find_academy_modules",
+      "kind": "schema",
+      "server": "analyticslegends/analytics-legends-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/analyticslegends/sap-analytics/"
+    },
+    {
+      "detail": "validate_actions",
+      "kind": "schema",
+      "server": "FlowCastle/telegram-bot-templates",
+      "url": "https://mcpbeat.com/mcp-servers/flowcastle/flowcastle/"
+    },
+    {
+      "detail": "previewDirectionalSprites",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "list_available_styles",
+      "kind": "schema",
+      "server": "Retro-Diffusion/retro-diffusion-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/retrodiffusion/pixel-art/"
+    },
+    {
+      "detail": "propose_mailbox_md_edit",
+      "kind": "schema",
+      "server": "arbengine/mailbox-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/mailbox/mailbox/"
+    },
+    {
+      "detail": "page_create_from_brief",
+      "kind": "schema",
+      "server": "daniel-lopez-puig/landings",
+      "url": "https://mcpbeat.com/mcp-servers/create-web-page/create-web-page/"
+    },
+    {
+      "detail": "search_apps",
+      "kind": "schema",
+      "server": "getappniche-com/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/getappniche/mcp/"
+    },
+    {
+      "detail": "frantic.post_bounty",
+      "kind": "schema",
+      "server": "gofrantic/frantic-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/gofrantic/frantic/"
+    },
+    {
+      "detail": "make_call",
+      "kind": "schema",
+      "server": "KaiCalls/kaicalls-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/kaicalls/kaicalls/"
+    },
+    {
+      "detail": "get_network_signals",
+      "kind": "schema",
+      "server": "OV3RK177/kairos-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/kairossignal/kairos-signal/"
+    },
+    {
+      "detail": "export",
+      "kind": "schema",
+      "server": "w1ne/kernelCAD-web",
+      "url": "https://mcpbeat.com/mcp-servers/kernelcad/kernelcad/"
+    },
+    {
+      "detail": "search_papers",
+      "kind": "schema",
+      "server": "RetrogradeLabs/lune-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/luneresearch/lune/"
+    }
+  ],
+  "servers": {
+    "gone": 42,
+    "new": 840
+  },
+  "source": "https://mcpbeat.com/data/2026-11-11/",
+  "tools": {
+    "added": 2931,
+    "removed": 1967,
+    "schema_changed": 2827
+  }
+}
