@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-12",
+  "findings": {
+    "fixed": 5600,
+    "high": 75,
+    "new": 3629
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "Areso/safe-ssh-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/areso/safe-ssh-mcp/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "DanceNitra/inspeximus",
+      "url": "https://mcpbeat.com/mcp-servers/dancenitra/inspeximus/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "IgorGanapolsky/ThumbGate",
+      "url": "https://mcpbeat.com/mcp-servers/igorganapolsky/rlhf-feedback-loop/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "MaxFreedomPollard/Compartment",
+      "url": "https://mcpbeat.com/mcp-servers/maxfreedompollard/engram/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "Pseudogiant-xr/Pseudolife-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/pseudogiant-xr/pseudolife-mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "Runeeward/RuneBox",
+      "url": "https://mcpbeat.com/mcp-servers/runewardd/runeward/"
+    },
+    {
+      "detail": "exec.pipe_to_shell",
+      "kind": "new_high",
+      "server": "anzy-renlab-ai/pronounce",
+      "url": "https://mcpbeat.com/mcp-servers/anzy-renlab-ai/pronounce/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "getsentry/toolkit",
+      "url": "https://mcpbeat.com/mcp-servers/getsentry/sentry-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "hostsmith/mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/hostsmith/mcp-server/"
+    },
+    {
+      "detail": "net.reverse_shell",
+      "kind": "new_high",
+      "server": "keploy/keploy",
+      "url": "https://mcpbeat.com/mcp-servers/keploy/mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "mindstone/mcp-servers",
+      "url": "https://mcpbeat.com/mcp-servers/mindstone/mcp-server-humaans/"
+    },
+    {
+      "detail": "request_upgrade",
+      "kind": "schema",
+      "server": "Chronary/chronary-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/chronary/mcp/"
+    },
+    {
+      "detail": "fetch_page_content",
+      "kind": "schema",
+      "server": "keenableai/keenable-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/keenable/web-search/"
+    },
+    {
+      "detail": "search_clinical_trials",
+      "kind": "schema",
+      "server": "signal8ai/signal8-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/signal8/mcp/"
+    },
+    {
+      "detail": "get_draft",
+      "kind": "schema",
+      "server": "jdguggs10/flaim-fantasy",
+      "url": "https://mcpbeat.com/mcp-servers/flaim/mcp/"
+    },
+    {
+      "detail": "scoring-profile-update",
+      "kind": "schema",
+      "server": "saberapp/platform",
+      "url": "https://mcpbeat.com/mcp-servers/saber-mcp/saber/"
+    },
+    {
+      "detail": "realty_search_onbid",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "create_meme",
+      "kind": "schema",
+      "server": "memebo-at/memeboat-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/memebo/memeboat-mcp/"
+    },
+    {
+      "detail": "birth",
+      "kind": "schema",
+      "server": "ee324/a2awire",
+      "url": "https://mcpbeat.com/mcp-servers/a2awire/a2awire/"
+    },
+    {
+      "detail": "check_ssl",
+      "kind": "schema",
+      "server": "MadaBurns/bv-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/blackveilsecurity/dns/"
+    },
+    {
+      "detail": "frantic.post_bounty",
+      "kind": "schema",
+      "server": "gofrantic/frantic-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/gofrantic/frantic/"
+    },
+    {
+      "detail": "generate_component_styles",
+      "kind": "schema",
+      "server": "JobMojito/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/jobmojito/jobmojito/"
+    },
+    {
+      "detail": "make_call",
+      "kind": "schema",
+      "server": "KaiCalls/kaicalls-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/kaicalls/kaicalls/"
+    }
+  ],
+  "servers": {
+    "gone": 34,
+    "new": 740
+  },
+  "source": "https://mcpbeat.com/data/2026-11-12/",
+  "tools": {
+    "added": 3789,
+    "removed": 2636,
+    "schema_changed": 3804
+  }
+}
