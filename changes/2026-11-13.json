@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-13",
+  "findings": {
+    "fixed": 1787,
+    "high": 72,
+    "new": 9387
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "cohexa-ai/agent-coherence",
+      "url": "https://mcpbeat.com/mcp-servers/cohexa-ai/stale-write-guard-fs/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "IgorGanapolsky/ThumbGate",
+      "url": "https://mcpbeat.com/mcp-servers/igorganapolsky/thumbgate/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "Pseudogiant-xr/Pseudolife-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/pseudogiant-xr/pseudolife-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "asklokesh/loki-mode",
+      "url": "https://mcpbeat.com/mcp-servers/asklokesh/loki-mode/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "cbetz/last-ehr",
+      "url": "https://mcpbeat.com/mcp-servers/cbetz/last-ehr/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "hodlxxi/Universal-Bitcoin-Identity-Layer",
+      "url": "https://mcpbeat.com/mcp-servers/hodlxxi/hodlxxi-readonly/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "tata1mg/catalyst-core",
+      "url": "https://mcpbeat.com/mcp-servers/mayankmahavar1mg/mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "mindstone/mcp-servers",
+      "url": "https://mcpbeat.com/mcp-servers/mindstone/mcp-server-email-imap/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "raccioly/docguard",
+      "url": "https://mcpbeat.com/mcp-servers/raccioly/docguard/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "ryanmat/mcp-server-logicmonitor",
+      "url": "https://mcpbeat.com/mcp-servers/ryanmat/logicmonitor/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Vladimir-Human/ru-marketplace-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/vladimir-human/ru-marketplace-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "bvisible/mcp-ssh-manager",
+      "url": "https://mcpbeat.com/mcp-servers/bvisible/mcp-ssh-manager/"
+    },
+    {
+      "detail": "create_booking_intent",
+      "kind": "schema",
+      "server": "autonomad-ai/autonomad",
+      "url": "https://mcpbeat.com/mcp-servers/autonomad/travel/"
+    },
+    {
+      "detail": "tokenize",
+      "kind": "schema",
+      "server": "gih2yun/bareun-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/bareun/bareun/"
+    },
+    {
+      "detail": "save_text_registration_details",
+      "kind": "schema",
+      "server": "CallMCP/callmcp",
+      "url": "https://mcpbeat.com/mcp-servers/callmcp/server/"
+    },
+    {
+      "detail": "cancel_event",
+      "kind": "schema",
+      "server": "Chronary/chronary-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/chronary/mcp/"
+    },
+    {
+      "detail": "update_application",
+      "kind": "schema",
+      "server": "FlowCastle/telegram-bot-templates",
+      "url": "https://mcpbeat.com/mcp-servers/flowcastle/flowcastle/"
+    },
+    {
+      "detail": "get_dilution_risk",
+      "kind": "schema",
+      "server": "signal8ai/signal8-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/signal8/mcp/"
+    },
+    {
+      "detail": "nfe_emitir",
+      "kind": "schema",
+      "server": "BrasilNFe/brasilnfe-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/com-brasilnfe/fiscal/"
+    },
+    {
+      "detail": "colony_get_mod_queue",
+      "kind": "schema",
+      "server": "TheColonyCC/colony-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/thecolony/mcp-server/"
+    },
+    {
+      "detail": "promptguard_redact",
+      "kind": "schema",
+      "server": "promptguardhq/promptguard",
+      "url": "https://mcpbeat.com/mcp-servers/promptguard/security/"
+    },
+    {
+      "detail": "ip_lookup",
+      "kind": "schema",
+      "server": "UPinar/contrastapi",
+      "url": "https://mcpbeat.com/mcp-servers/contrastcyber/api/"
+    },
+    {
+      "detail": "settings_get",
+      "kind": "schema",
+      "server": "danioni/coordinalo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/coordinalo/mcp-server/"
+    },
+    {
+      "detail": "create_agent",
+      "kind": "schema",
+      "server": "KaiCalls/kaicalls-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/kaicalls/kaicalls/"
+    }
+  ],
+  "servers": {
+    "gone": 28,
+    "new": 661
+  },
+  "source": "https://mcpbeat.com/data/2026-11-13/",
+  "tools": {
+    "added": 1386,
+    "removed": 1154,
+    "schema_changed": 2832
+  }
+}
