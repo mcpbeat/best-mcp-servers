@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-14",
+  "findings": {
+    "fixed": 2433,
+    "high": 109,
+    "new": 4556
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "HeyPuter/puter",
+      "url": "https://mcpbeat.com/mcp-servers/puter/mcp-server/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "IgorGanapolsky/ThumbGate",
+      "url": "https://mcpbeat.com/mcp-servers/igorganapolsky/mcp-memory-gateway/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "Pseudogiant-xr/Pseudolife-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/pseudogiant-xr/pseudolife-mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "africanmarketos591/mvr-framework",
+      "url": "https://mcpbeat.com/mcp-servers/africanmarketos591/mvr-api/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "asklokesh/loki-mode",
+      "url": "https://mcpbeat.com/mcp-servers/asklokesh/loki-mode/"
+    },
+    {
+      "detail": "rug.new_behaviour",
+      "kind": "new_high",
+      "server": "bzdOS/hubd",
+      "url": "https://mcpbeat.com/mcp-servers/bzdos/hubd/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "getsentry/toolkit",
+      "url": "https://mcpbeat.com/mcp-servers/getsentry/sentry-mcp/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "juyterman1000/entroly",
+      "url": "https://mcpbeat.com/mcp-servers/juyterman1000/entroly/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "keploy/keploy",
+      "url": "https://mcpbeat.com/mcp-servers/keploy/mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "koda-ai-studio/agent-bom",
+      "url": "https://mcpbeat.com/mcp-servers/msaad00/agent-bom/"
+    },
+    {
+      "detail": "jig_update",
+      "kind": "schema",
+      "server": "bowmark-ai/skill",
+      "url": "https://mcpbeat.com/mcp-servers/bowmark/bowmark/"
+    },
+    {
+      "detail": "rigor_execute",
+      "kind": "schema",
+      "server": "chicogonzales/plith",
+      "url": "https://mcpbeat.com/mcp-servers/plith/plith/"
+    },
+    {
+      "detail": "get_season_openings",
+      "kind": "schema",
+      "server": "mikeslone/snowsure-web",
+      "url": "https://mcpbeat.com/mcp-servers/snowsure/snow/"
+    },
+    {
+      "detail": "get_doc",
+      "kind": "schema",
+      "server": "try-dock-ai/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/trydock/dock/"
+    },
+    {
+      "detail": "inmag_history",
+      "kind": "schema",
+      "server": "josebarnetche/consignatarias-next",
+      "url": "https://mcpbeat.com/mcp-servers/com-consignatarias/cattle-market/"
+    },
+    {
+      "detail": "evento_carta_correcao",
+      "kind": "schema",
+      "server": "BrasilNFe/brasilnfe-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/com-brasilnfe/fiscal/"
+    },
+    {
+      "detail": "colony_update_settings",
+      "kind": "schema",
+      "server": "TheColonyCC/colony-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/thecolony/mcp-server/"
+    },
+    {
+      "detail": "get_policies",
+      "kind": "schema",
+      "server": "Tempguru-co/tempguru-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/tempguru/event-staffing/"
+    },
+    {
+      "detail": "compliance_queue_optimize",
+      "kind": "schema",
+      "server": "kelm2021/aurelianflo-public",
+      "url": "https://mcpbeat.com/mcp-servers/aurelianflo/core/"
+    },
+    {
+      "detail": "get_pack",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/boundaries/"
+    },
+    {
+      "detail": "get_pack",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/county-map/"
+    },
+    {
+      "detail": "get_pack",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/earthquakes/"
+    }
+  ],
+  "servers": {
+    "gone": 25,
+    "new": 748
+  },
+  "source": "https://mcpbeat.com/data/2026-11-14/",
+  "tools": {
+    "added": 5551,
+    "removed": 1742,
+    "schema_changed": 3876
+  }
+}
