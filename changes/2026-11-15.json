@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-15",
+  "findings": {
+    "fixed": 1826,
+    "high": 97,
+    "new": 3517
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "Areso/safe-ssh-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/areso/safe-ssh-mcp/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "Pseudogiant-xr/Pseudolife-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/pseudogiant-xr/pseudolife-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "asklokesh/loki-mode",
+      "url": "https://mcpbeat.com/mcp-servers/asklokesh/loki-mode/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "getmarrow/marrow-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/getmarrow/marrow/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "iowarp/clio-kit",
+      "url": "https://mcpbeat.com/mcp-servers/iowarp/chronolog-mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "keploy/keploy",
+      "url": "https://mcpbeat.com/mcp-servers/keploy/mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "mindstone/mcp-servers",
+      "url": "https://mcpbeat.com/mcp-servers/mindstone/mcp-server-retell-ai/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "ogasurfproject-jpg/horizon-shield",
+      "url": "https://mcpbeat.com/mcp-servers/ogasurfproject-jpg/horizon-shield-webmcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "raccioly/docguard",
+      "url": "https://mcpbeat.com/mcp-servers/raccioly/docguard/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "swswordholy-tech/AgentsChat",
+      "url": "https://mcpbeat.com/mcp-servers/swswordholy-tech/agentschat-mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Enkryptedx/xrpldashboard",
+      "url": "https://mcpbeat.com/mcp-servers/xrpldashboard/xrpldashboard-mcp/"
+    },
+    {
+      "detail": "run",
+      "kind": "schema",
+      "server": "bowmark-ai/skill",
+      "url": "https://mcpbeat.com/mcp-servers/bowmark/bowmark/"
+    },
+    {
+      "detail": "request_upgrade",
+      "kind": "schema",
+      "server": "Chronary/chronary-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/chronary/mcp/"
+    },
+    {
+      "detail": "retry_expertises",
+      "kind": "schema",
+      "server": "TOT-Concept/mcp-server-entity-enricher",
+      "url": "https://mcpbeat.com/mcp-servers/entityenricher/enricher/"
+    },
+    {
+      "detail": "audit_agent_readiness",
+      "kind": "schema",
+      "server": "babyblueviper1/invinoveritas-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/babyblueviper/invinoveritas/"
+    },
+    {
+      "detail": "search_modules",
+      "kind": "schema",
+      "server": "jallen/eurorack-reference",
+      "url": "https://mcpbeat.com/mcp-servers/eurorackref/eurorack/"
+    },
+    {
+      "detail": "sapiens_meta",
+      "kind": "schema",
+      "server": "inhabitants/sapiens-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/sapiensinteticos/sapiens/"
+    },
+    {
+      "detail": "update_website_settings",
+      "kind": "schema",
+      "server": "squirrelscan/squirrelscan",
+      "url": "https://mcpbeat.com/mcp-servers/squirrelscan/squirrelscan/"
+    },
+    {
+      "detail": "list_deliveries",
+      "kind": "schema",
+      "server": "lestertww/webhookstudio",
+      "url": "https://mcpbeat.com/mcp-servers/webhook-studio/webhooks/"
+    },
+    {
+      "detail": "search_jobs",
+      "kind": "schema",
+      "server": "jobspipe/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/jobspipe/mcp/"
+    },
+    {
+      "detail": "tracepass_templates",
+      "kind": "schema",
+      "server": "malinoto/tracepass-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/tracepass/tracepass/"
+    },
+    {
+      "detail": "get_brief",
+      "kind": "schema",
+      "server": "Parsegl/parse",
+      "url": "https://mcpbeat.com/mcp-servers/parse/mcp/"
+    },
+    {
+      "detail": "ns_reverse",
+      "kind": "schema",
+      "server": "ABTdomain/domainkits-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/abtdomain/domainkits-mcp/"
+    }
+  ],
+  "servers": {
+    "gone": 20,
+    "new": 527
+  },
+  "source": "https://mcpbeat.com/data/2026-11-15/",
+  "tools": {
+    "added": 2543,
+    "removed": 774,
+    "schema_changed": 2361
+  }
+}
