@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-16",
+  "findings": {
+    "fixed": 736,
+    "high": 76,
+    "new": 1821
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "colibird-ai/local-mcp-releases",
+      "url": "https://mcpbeat.com/mcp-servers/local-mcp/local-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "arifulislamat/database-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/arifulislamat/database-mcp-mysql/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "asklokesh/loki-mode",
+      "url": "https://mcpbeat.com/mcp-servers/asklokesh/loki-mode/"
+    },
+    {
+      "detail": "rug.new_behaviour",
+      "kind": "new_high",
+      "server": "localseodata/mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/localseodata/mcp-server/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "malamutemayhem/unclick",
+      "url": "https://mcpbeat.com/mcp-servers/malamutemayhem/youtube/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "swswordholy-tech/AgentsChat",
+      "url": "https://mcpbeat.com/mcp-servers/swswordholy-tech/agentschat-mcp/"
+    },
+    {
+      "detail": "exec.pipe_to_shell",
+      "kind": "new_high",
+      "server": "yaver-io/yaver.io",
+      "url": "https://mcpbeat.com/mcp-servers/yaver-io/yaver/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Vladimir-Human/ru-marketplace-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/vladimir-human/ru-marketplace-mcp/"
+    },
+    {
+      "detail": "rug.new_install_hook",
+      "kind": "new_high",
+      "server": "minia2auk/minia2a-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/minia2a/minia2a-mcp-5ac39e/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "ArtJack/verdict",
+      "url": "https://mcpbeat.com/mcp-servers/artjack/verdict/"
+    },
+    {
+      "detail": "net.reverse_shell",
+      "kind": "new_high",
+      "server": "skillmds/SkillMD",
+      "url": "https://mcpbeat.com/mcp-servers/skillmd/skillmd/"
+    },
+    {
+      "detail": "create_event",
+      "kind": "schema",
+      "server": "Chronary/chronary-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/chronary/mcp/"
+    },
+    {
+      "detail": "run_flow_autotest",
+      "kind": "schema",
+      "server": "FlowCastle/telegram-bot-templates",
+      "url": "https://mcpbeat.com/mcp-servers/flowcastle/flowcastle/"
+    },
+    {
+      "detail": "generateWithStyle",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "colony_report_content",
+      "kind": "schema",
+      "server": "TheColonyCC/colony-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/thecolony/mcp-server/"
+    },
+    {
+      "detail": "walkability_summary",
+      "kind": "schema",
+      "server": "henryspatialanalysis/wtm.api",
+      "url": "https://mcpbeat.com/mcp-servers/close/close-api/"
+    },
+    {
+      "detail": "get_trip_planner_link",
+      "kind": "schema",
+      "server": "audiala/mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/audiala/mcp/"
+    },
+    {
+      "detail": "cve_search",
+      "kind": "schema",
+      "server": "UPinar/contrastapi",
+      "url": "https://mcpbeat.com/mcp-servers/contrastcyber/api/"
+    },
+    {
+      "detail": "search_modules",
+      "kind": "schema",
+      "server": "jallen/eurorack-reference",
+      "url": "https://mcpbeat.com/mcp-servers/eurorackref/eurorack/"
+    },
+    {
+      "detail": "frantic.enlist_agent",
+      "kind": "schema",
+      "server": "gofrantic/frantic-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/gofrantic/frantic/"
+    },
+    {
+      "detail": "request_another_interview_attempt",
+      "kind": "schema",
+      "server": "JobMojito/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/jobmojito/jobmojito/"
+    },
+    {
+      "detail": "get_agency_workspace",
+      "kind": "schema",
+      "server": "KaiCalls/kaicalls-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/kaicalls/kaicalls/"
+    },
+    {
+      "detail": "create_link",
+      "kind": "schema",
+      "server": "Linkly-HQ/linkly-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/linklyhq/linkly/"
+    }
+  ],
+  "servers": {
+    "gone": 27,
+    "new": 638
+  },
+  "source": "https://mcpbeat.com/data/2026-11-16/",
+  "tools": {
+    "added": 2218,
+    "removed": 2452,
+    "schema_changed": 6204
+  }
+}
