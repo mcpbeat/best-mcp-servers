@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-17",
+  "findings": {
+    "fixed": 3658,
+    "high": 121,
+    "new": 3787
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "jitsucom/jitsu",
+      "url": "https://mcpbeat.com/mcp-servers/jitsu/mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "Pseudogiant-xr/Pseudolife-MCP",
+      "url": "https://mcpbeat.com/mcp-servers/pseudogiant-xr/pseudolife-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "asklokesh/loki-mode",
+      "url": "https://mcpbeat.com/mcp-servers/asklokesh/loki-mode/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "corsur/swarm-tips",
+      "url": "https://mcpbeat.com/mcp-servers/corsur/swarm-tips/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "getmarrow/marrow-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/getmarrow/marrow/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "getsentry/toolkit",
+      "url": "https://mcpbeat.com/mcp-servers/getsentry/sentry-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "iowarp/clio-kit",
+      "url": "https://mcpbeat.com/mcp-servers/iowarp/adios-mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "mikhae1/kubeview-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/mikhae1/kubeview/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "mindstone/mcp-servers",
+      "url": "https://mcpbeat.com/mcp-servers/mindstone/mcp-server-microsoft-calendar/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "raccioly/docguard",
+      "url": "https://mcpbeat.com/mcp-servers/raccioly/docguard/"
+    },
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "jgraph/drawio-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/draw/mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "Vladimir-Human/ru-marketplace-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/vladimir-human/ru-marketplace-mcp/"
+    },
+    {
+      "detail": "search_hotels",
+      "kind": "schema",
+      "server": "autonomad-ai/autonomad",
+      "url": "https://mcpbeat.com/mcp-servers/autonomad/travel/"
+    },
+    {
+      "detail": "run",
+      "kind": "schema",
+      "server": "bowmark-ai/skill",
+      "url": "https://mcpbeat.com/mcp-servers/bowmark/bowmark/"
+    },
+    {
+      "detail": "draft_email_campaign",
+      "kind": "schema",
+      "server": "CallMCP/callmcp",
+      "url": "https://mcpbeat.com/mcp-servers/callmcp/server/"
+    },
+    {
+      "detail": "search_web_pages",
+      "kind": "schema",
+      "server": "keenableai/keenable-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/keenable/web-search/"
+    },
+    {
+      "detail": "editSpritesheet",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "get_recently_delisted",
+      "kind": "schema",
+      "server": "signal8ai/signal8-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/signal8/mcp/"
+    },
+    {
+      "detail": "record_results",
+      "kind": "schema",
+      "server": "turnale-app/turnale",
+      "url": "https://mcpbeat.com/mcp-servers/turnale/turnale/"
+    },
+    {
+      "detail": "send_outbound_mail",
+      "kind": "schema",
+      "server": "arbengine/mailbox-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/mailbox/mailbox/"
+    },
+    {
+      "detail": "colony_get_post_comments",
+      "kind": "schema",
+      "server": "TheColonyCC/colony-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/thecolony/mcp-server/"
+    },
+    {
+      "detail": "aqua",
+      "kind": "schema",
+      "server": "1inch/1inch-ai",
+      "url": "https://mcpbeat.com/mcp-servers/1inch-business/mcp/"
+    },
+    {
+      "detail": "discover_agents",
+      "kind": "schema",
+      "server": "ee324/a2awire",
+      "url": "https://mcpbeat.com/mcp-servers/a2awire/a2awire/"
+    },
+    {
+      "detail": "calculate_match_score",
+      "kind": "schema",
+      "server": "Cnd-North/entrance",
+      "url": "https://mcpbeat.com/mcp-servers/admitbase/admissions/"
+    }
+  ],
+  "servers": {
+    "gone": 35,
+    "new": 840
+  },
+  "source": "https://mcpbeat.com/data/2026-11-17/",
+  "tools": {
+    "added": 3159,
+    "removed": 2259,
+    "schema_changed": 6579
+  }
+}
