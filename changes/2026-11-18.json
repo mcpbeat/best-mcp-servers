@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-18",
+  "findings": {
+    "fixed": 1838,
+    "high": 84,
+    "new": 3748
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "draugr-dev/draugr",
+      "url": "https://mcpbeat.com/mcp-servers/draugr/draugr/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "Artexis10/exomem",
+      "url": "https://mcpbeat.com/mcp-servers/artexis10/exomem/"
+    },
+    {
+      "detail": "rug.new_behaviour",
+      "kind": "new_high",
+      "server": "IgorGanapolsky/ThumbGate",
+      "url": "https://mcpbeat.com/mcp-servers/igorganapolsky/thumbgate/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "Scormave/gramps-web-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/scormave/gramps-web-mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "asklokesh/loki-mode",
+      "url": "https://mcpbeat.com/mcp-servers/asklokesh/loki-mode/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "bawbel/scanner",
+      "url": "https://mcpbeat.com/mcp-servers/bawbel/bawbel-scanner/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "delimit-ai/delimit-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/delimit-ai/delimit-mcp-server/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "devlint/GitWand",
+      "url": "https://mcpbeat.com/mcp-servers/devlint/gitwand/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "iowarp/clio-kit",
+      "url": "https://mcpbeat.com/mcp-servers/iowarp/node-hardware-mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "keploy/keploy",
+      "url": "https://mcpbeat.com/mcp-servers/keploy/mcp/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "saagpatel/operant",
+      "url": "https://mcpbeat.com/mcp-servers/saagpatel/operant-mcp/"
+    },
+    {
+      "detail": "upsert_product",
+      "kind": "schema",
+      "server": "CallMCP/callmcp",
+      "url": "https://mcpbeat.com/mcp-servers/callmcp/server/"
+    },
+    {
+      "detail": "search_web_pages",
+      "kind": "schema",
+      "server": "keenableai/keenable-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/keenable/web-search/"
+    },
+    {
+      "detail": "rigor_plan",
+      "kind": "schema",
+      "server": "chicogonzales/plith",
+      "url": "https://mcpbeat.com/mcp-servers/plith/plith/"
+    },
+    {
+      "detail": "start_inference_job",
+      "kind": "schema",
+      "server": "Retro-Diffusion/retro-diffusion-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/retrodiffusion/pixel-art/"
+    },
+    {
+      "detail": "get_float_history",
+      "kind": "schema",
+      "server": "signal8ai/signal8-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/signal8/mcp/"
+    },
+    {
+      "detail": "upgrade_plan",
+      "kind": "schema",
+      "server": "try-dock-ai/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/trydock/dock/"
+    },
+    {
+      "detail": "update_task",
+      "kind": "schema",
+      "server": "lksrz/cnvs-whiteboard-skills",
+      "url": "https://mcpbeat.com/mcp-servers/cnvs/whiteboard/"
+    },
+    {
+      "detail": "nfse_emitir",
+      "kind": "schema",
+      "server": "BrasilNFe/brasilnfe-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/com-brasilnfe/fiscal/"
+    },
+    {
+      "detail": "resolve_deep_point",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/county-map/"
+    },
+    {
+      "detail": "resolve_bbox",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/geocoding/"
+    },
+    {
+      "detail": "resolve_point",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/reverse-geocoding/"
+    },
+    {
+      "detail": "update_person",
+      "kind": "schema",
+      "server": "gohluke/dayze-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/dayze/life-context/"
+    }
+  ],
+  "servers": {
+    "gone": 34,
+    "new": 773
+  },
+  "source": "https://mcpbeat.com/data/2026-11-18/",
+  "tools": {
+    "added": 3016,
+    "removed": 1954,
+    "schema_changed": 53094
+  }
+}
