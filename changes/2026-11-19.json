@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-19",
+  "findings": {
+    "fixed": 2122,
+    "high": 127,
+    "new": 3714
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "asklokesh/loki-mode",
+      "url": "https://mcpbeat.com/mcp-servers/asklokesh/loki-mode/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "brianirish/laravel-mcp-companion",
+      "url": "https://mcpbeat.com/mcp-servers/brianirish/laravel-mcp-companion/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "ericlovold/sanction",
+      "url": "https://mcpbeat.com/mcp-servers/ericlovold/sanction/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "iowarp/clio-kit",
+      "url": "https://mcpbeat.com/mcp-servers/iowarp/ndp-mcp/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "MystenLabs/sui",
+      "url": "https://mcpbeat.com/mcp-servers/jessiemongeon1/sui-kapa/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/intel-mcp/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "ogasurfproject-jpg/horizon-shield",
+      "url": "https://mcpbeat.com/mcp-servers/ogasurfproject-jpg/hs-hearing/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "raccioly/docguard",
+      "url": "https://mcpbeat.com/mcp-servers/raccioly/docguard/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "ruvnet/ruflo",
+      "url": "https://mcpbeat.com/mcp-servers/ruvnet/claude-flow/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "whistlegraph/aesthetic-computer",
+      "url": "https://mcpbeat.com/mcp-servers/whistlegraph/aesthetic-computer/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "zrk222/code-factory",
+      "url": "https://mcpbeat.com/mcp-servers/zrk222/code-factory/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "daidaiJ/websearch-mcpserver",
+      "url": "https://mcpbeat.com/mcp-servers/daidaij/websearch-mcpserver/"
+    },
+    {
+      "detail": "upsert_lead",
+      "kind": "schema",
+      "server": "CallMCP/callmcp",
+      "url": "https://mcpbeat.com/mcp-servers/callmcp/server/"
+    },
+    {
+      "detail": "upscaleImage",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "datasets_upload",
+      "kind": "schema",
+      "server": "embeddedlayers/mcp-analytics",
+      "url": "https://mcpbeat.com/mcp-servers/mcpanalytics/analytics/"
+    },
+    {
+      "detail": "start_lowpoly_generate",
+      "kind": "schema",
+      "server": "Retro-Diffusion/retro-diffusion-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/retrodiffusion/pixel-art/"
+    },
+    {
+      "detail": "monitors-create",
+      "kind": "schema",
+      "server": "saberapp/platform",
+      "url": "https://mcpbeat.com/mcp-servers/saber-mcp/saber/"
+    },
+    {
+      "detail": "decide_contract_method",
+      "kind": "schema",
+      "server": "sallim-app/contract-compass",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/contract-compass/"
+    },
+    {
+      "detail": "nfe_emitir",
+      "kind": "schema",
+      "server": "BrasilNFe/brasilnfe-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/com-brasilnfe/fiscal/"
+    },
+    {
+      "detail": "decide_contract_method",
+      "kind": "schema",
+      "server": "sallim-app/contract-compass",
+      "url": "https://mcpbeat.com/mcp-servers/naru/contract-compass/"
+    },
+    {
+      "detail": "append_round",
+      "kind": "schema",
+      "server": "mumo-chat/mumo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/mumo/mcp/"
+    },
+    {
+      "detail": "build_supplier_request_package",
+      "kind": "schema",
+      "server": "Deadlypillow/a2a2p",
+      "url": "https://mcpbeat.com/mcp-servers/a2a2p/a2a2p/"
+    },
+    {
+      "detail": "cve_products",
+      "kind": "schema",
+      "server": "UPinar/contrastapi",
+      "url": "https://mcpbeat.com/mcp-servers/contrastcyber/api/"
+    },
+    {
+      "detail": "get_booking_options",
+      "kind": "schema",
+      "server": "Dim-hour/Dim-Hour",
+      "url": "https://mcpbeat.com/mcp-servers/dimhour/catalog/"
+    }
+  ],
+  "servers": {
+    "gone": 39,
+    "new": 713
+  },
+  "source": "https://mcpbeat.com/data/2026-11-19/",
+  "tools": {
+    "added": 3860,
+    "removed": 1750,
+    "schema_changed": 7051
+  }
+}
