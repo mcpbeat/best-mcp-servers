@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-20",
+  "findings": {
+    "fixed": 1781,
+    "high": 131,
+    "new": 3784
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "josebarnetche/consignatarias-next",
+      "url": "https://mcpbeat.com/mcp-servers/com-consignatarias/cattle-market/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "brianirish/laravel-mcp-companion",
+      "url": "https://mcpbeat.com/mcp-servers/brianirish/laravel-mcp-companion/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "keploy/keploy",
+      "url": "https://mcpbeat.com/mcp-servers/keploy/mcp/"
+    },
+    {
+      "detail": "rug.new_behaviour",
+      "kind": "new_high",
+      "server": "nirholas/XActions",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/xactions/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "zrk222/code-factory",
+      "url": "https://mcpbeat.com/mcp-servers/zrk222/code-factory/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "beepboop2025/financial-evidence-skills",
+      "url": "https://mcpbeat.com/mcp-servers/beepboop2025/financial-evidence/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "mako-ai/mako",
+      "url": "https://mcpbeat.com/mcp-servers/mako-ai/mako/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "ArtJack/verdict",
+      "url": "https://mcpbeat.com/mcp-servers/artjack/verdict/"
+    },
+    {
+      "detail": "supply.only_in_package",
+      "kind": "new_high",
+      "server": "DiffCI/core",
+      "url": "https://mcpbeat.com/mcp-servers/diffci/diffci/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "node9-ai/node9-proxy",
+      "url": "https://mcpbeat.com/mcp-servers/node9-ai/node9/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "arctop/seamless",
+      "url": "https://mcpbeat.com/mcp-servers/arctop/seamless/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "NeuralDEEPnet/agent-shelter",
+      "url": "https://mcpbeat.com/mcp-servers/neuraldeepnet/agent-shelter/"
+    },
+    {
+      "detail": "make_call",
+      "kind": "schema",
+      "server": "CallMCP/callmcp",
+      "url": "https://mcpbeat.com/mcp-servers/callmcp/server/"
+    },
+    {
+      "detail": "query_pol_certificates",
+      "kind": "schema",
+      "server": "SIFR0-dev/djzs-AI",
+      "url": "https://mcpbeat.com/mcp-servers/djzs/trust-mcp/"
+    },
+    {
+      "detail": "list_ev",
+      "kind": "schema",
+      "server": "lumifyai/lumify",
+      "url": "https://mcpbeat.com/mcp-servers/lumify/sports-intelligence/"
+    },
+    {
+      "detail": "realty_get_auction_case",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "price_seasonality",
+      "kind": "schema",
+      "server": "josebarnetche/consignatarias-next",
+      "url": "https://mcpbeat.com/mcp-servers/com-consignatarias/cattle-market/"
+    },
+    {
+      "detail": "search_practice",
+      "kind": "schema",
+      "server": "jonashertner/opencaselaw",
+      "url": "https://mcpbeat.com/mcp-servers/opencaselaw/swiss-caselaw/"
+    },
+    {
+      "detail": "create_deliberation",
+      "kind": "schema",
+      "server": "mumo-chat/mumo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/mumo/mcp/"
+    },
+    {
+      "detail": "aqua",
+      "kind": "schema",
+      "server": "1inch/1inch-ai",
+      "url": "https://mcpbeat.com/mcp-servers/1inch-business/mcp/"
+    },
+    {
+      "detail": "create_monitor",
+      "kind": "schema",
+      "server": "hyperping/mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/hyperping/hyperping/"
+    },
+    {
+      "detail": "get_competitor_moves_diff",
+      "kind": "schema",
+      "server": "IndustryLensOp/industrylens-mcp-docs",
+      "url": "https://mcpbeat.com/mcp-servers/industry-lens/mcp-public/"
+    },
+    {
+      "detail": "make_call",
+      "kind": "schema",
+      "server": "KaiCalls/kaicalls-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/kaicalls/kaicalls/"
+    },
+    {
+      "detail": "review_cad",
+      "kind": "schema",
+      "server": "w1ne/kernelCAD-web",
+      "url": "https://mcpbeat.com/mcp-servers/kernelcad/kernelcad/"
+    }
+  ],
+  "servers": {
+    "gone": 104,
+    "new": 874
+  },
+  "source": "https://mcpbeat.com/data/2026-11-20/",
+  "tools": {
+    "added": 3410,
+    "removed": 2205,
+    "schema_changed": 3421
+  }
+}
