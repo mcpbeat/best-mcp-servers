@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-22",
+  "findings": {
+    "fixed": 2004,
+    "high": 75,
+    "new": 3089
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "dinglebear-ai/labby",
+      "url": "https://mcpbeat.com/mcp-servers/dinglebear/labby/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "squirrelscan/squirrelscan",
+      "url": "https://mcpbeat.com/mcp-servers/squirrelscan/squirrelscan/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "Areso/safe-ssh-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/areso/safe-ssh-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "bawbel/scanner",
+      "url": "https://mcpbeat.com/mcp-servers/bawbel/scanner/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "getsentry/toolkit",
+      "url": "https://mcpbeat.com/mcp-servers/getsentry/sentry-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "iowarp/clio-kit",
+      "url": "https://mcpbeat.com/mcp-servers/iowarp/geojson-mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "keploy/keploy",
+      "url": "https://mcpbeat.com/mcp-servers/keploy/mcp/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "nirholas/three.ws",
+      "url": "https://mcpbeat.com/mcp-servers/nirholas/agora-mcp/"
+    },
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "parterburn/dabble.me",
+      "url": "https://mcpbeat.com/mcp-servers/parterburn/dabble-me/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "zrk222/code-factory",
+      "url": "https://mcpbeat.com/mcp-servers/zrk222/code-factory/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "rebasepro/rebase",
+      "url": "https://mcpbeat.com/mcp-servers/rebasepro/rebase/"
+    },
+    {
+      "detail": "run",
+      "kind": "schema",
+      "server": "bowmark-ai/skill",
+      "url": "https://mcpbeat.com/mcp-servers/bowmark/bowmark/"
+    },
+    {
+      "detail": "get_audit_log",
+      "kind": "schema",
+      "server": "Chronary/chronary-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/chronary/mcp/"
+    },
+    {
+      "detail": "get_pricing",
+      "kind": "schema",
+      "server": "acf5914932/gethal.ai-lp",
+      "url": "https://mcpbeat.com/mcp-servers/gethal/mcp/"
+    },
+    {
+      "detail": "get_splits_history",
+      "kind": "schema",
+      "server": "lumifyai/lumify",
+      "url": "https://mcpbeat.com/mcp-servers/lumify/sports-intelligence/"
+    },
+    {
+      "detail": "get_apply_link",
+      "kind": "schema",
+      "server": "Himalayas-App/himalayas-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/himalayas/mcp/"
+    },
+    {
+      "detail": "classes_update",
+      "kind": "schema",
+      "server": "zooza-dev/zooza-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/zooza/mcp-server/"
+    },
+    {
+      "detail": "build_workflow_links",
+      "kind": "schema",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "birth",
+      "kind": "schema",
+      "server": "ee324/a2awire",
+      "url": "https://mcpbeat.com/mcp-servers/a2awire/a2awire/"
+    },
+    {
+      "detail": "add_tracked_address",
+      "kind": "schema",
+      "server": "bykarantelicom/bykaranteli-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/bykaranteli/mcp/"
+    },
+    {
+      "detail": "compare_cities",
+      "kind": "schema",
+      "server": "summerstateofmind/cityparity",
+      "url": "https://mcpbeat.com/mcp-servers/cityparity/cityparity/"
+    },
+    {
+      "detail": "crm_delete_contacts",
+      "kind": "schema",
+      "server": "lamont703/Project_InnerG_Complete_Agency",
+      "url": "https://mcpbeat.com/mcp-servers/innergcomplete/shearquery/"
+    },
+    {
+      "detail": "evaluate_script",
+      "kind": "schema",
+      "server": "w1ne/kernelCAD-web",
+      "url": "https://mcpbeat.com/mcp-servers/kernelcad/kernelcad/"
+    }
+  ],
+  "servers": {
+    "gone": 27,
+    "new": 275
+  },
+  "source": "https://mcpbeat.com/data/2026-11-22/",
+  "tools": {
+    "added": 2767,
+    "removed": 2116,
+    "schema_changed": 3187
+  }
+}
