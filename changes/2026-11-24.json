@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-24",
+  "findings": {
+    "fixed": 3156,
+    "high": 128,
+    "new": 5901
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "colibird-ai/local-mcp-releases",
+      "url": "https://mcpbeat.com/mcp-servers/local-mcp/local-mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "Areso/safe-ssh-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/areso/safe-ssh-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "NellInc/saferagenticai-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/nellinc/saferagenticai-mcp/"
+    },
+    {
+      "detail": "exec.pipe_to_shell",
+      "kind": "new_high",
+      "server": "OpenAdaptAI/OpenAdapt",
+      "url": "https://mcpbeat.com/mcp-servers/openadaptai/openadapt-agent/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "adamsjack711-ux/pkgxray",
+      "url": "https://mcpbeat.com/mcp-servers/adamsjack711-ux/pkgxray/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "devlint/GitWand",
+      "url": "https://mcpbeat.com/mcp-servers/devlint/gitwand/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "gowtham0992/link",
+      "url": "https://mcpbeat.com/mcp-servers/gowtham0992/link/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "keploy/keploy",
+      "url": "https://mcpbeat.com/mcp-servers/keploy/mcp/"
+    },
+    {
+      "detail": "net.reverse_shell",
+      "kind": "new_high",
+      "server": "mastyf-ai/mastyf.ai",
+      "url": "https://mcpbeat.com/mcp-servers/mastyf-ai/mastyf-ai/"
+    },
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "parterburn/dabble.me",
+      "url": "https://mcpbeat.com/mcp-servers/parterburn/dabble-me/"
+    },
+    {
+      "detail": "combo.exec_exfil",
+      "kind": "new_high",
+      "server": "swswordholy-tech/AgentsChat",
+      "url": "https://mcpbeat.com/mcp-servers/swswordholy-tech/agentschat-mcp/"
+    },
+    {
+      "detail": "update_contact",
+      "kind": "schema",
+      "server": "FlowCastle/telegram-bot-templates",
+      "url": "https://mcpbeat.com/mcp-servers/flowcastle/flowcastle/"
+    },
+    {
+      "detail": "get_hotel_rates",
+      "kind": "schema",
+      "server": "gondola-ai/gondola-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/gondola/gondola/"
+    },
+    {
+      "detail": "fetch_page_content",
+      "kind": "schema",
+      "server": "keenableai/keenable-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/keenable/web-search/"
+    },
+    {
+      "detail": "create3DModel",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "update_company_job",
+      "kind": "schema",
+      "server": "Himalayas-App/himalayas-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/himalayas/mcp/"
+    },
+    {
+      "detail": "realty_presale_funding_plan",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "nfe_previsualizar",
+      "kind": "schema",
+      "server": "BrasilNFe/brasilnfe-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/com-brasilnfe/fiscal/"
+    },
+    {
+      "detail": "get_session",
+      "kind": "schema",
+      "server": "mumo-chat/mumo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/mumo/mcp/"
+    },
+    {
+      "detail": "compare_sites",
+      "kind": "schema",
+      "server": "azmartone67/dchub-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/dchub/mcp-server/"
+    },
+    {
+      "detail": "birth",
+      "kind": "schema",
+      "server": "ee324/a2awire",
+      "url": "https://mcpbeat.com/mcp-servers/a2awire/a2awire/"
+    },
+    {
+      "detail": "review",
+      "kind": "schema",
+      "server": "babyblueviper1/invinoveritas-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/babyblueviper/invinoveritas/"
+    },
+    {
+      "detail": "get_tool_reference",
+      "kind": "schema",
+      "server": "JobMojito/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/jobmojito/jobmojito/"
+    }
+  ],
+  "servers": {
+    "gone": 34,
+    "new": 2429
+  },
+  "source": "https://mcpbeat.com/data/2026-11-24/",
+  "tools": {
+    "added": 4069,
+    "removed": 4920,
+    "schema_changed": 9017
+  }
+}
