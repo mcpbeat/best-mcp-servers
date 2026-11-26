@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-25",
+  "findings": {
+    "fixed": 3241,
+    "high": 142,
+    "new": 5102
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "substrate-systems/evermatter",
+      "url": "https://mcpbeat.com/mcp-servers/artexis10/exomem/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "aarwitz/tapp",
+      "url": "https://mcpbeat.com/mcp-servers/aarwitz/tapp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "asklokesh/loki-mode",
+      "url": "https://mcpbeat.com/mcp-servers/asklokesh/loki-mode/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "brianirish/laravel-mcp-companion",
+      "url": "https://mcpbeat.com/mcp-servers/brianirish/laravel-mcp-companion/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "tata1mg/catalyst-core",
+      "url": "https://mcpbeat.com/mcp-servers/mayankmahavar1mg/mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "dinglebear-ai/cortex",
+      "url": "https://mcpbeat.com/mcp-servers/tootie/cortex/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "hashgraph-online/hol-guard",
+      "url": "https://mcpbeat.com/mcp-servers/hashgraph-online/hol-guard/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "superdesigndev/treg",
+      "url": "https://mcpbeat.com/mcp-servers/superdesigndev/treg/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "vike-io/vike-trader",
+      "url": "https://mcpbeat.com/mcp-servers/vike-io/vike-trader/"
+    },
+    {
+      "detail": "combo.secrets_out",
+      "kind": "new_high",
+      "server": "vbcherepanov/total-agent-memory",
+      "url": "https://mcpbeat.com/mcp-servers/vbcherepanov/total-agent-memory/"
+    },
+    {
+      "detail": "subscribe_ical",
+      "kind": "schema",
+      "server": "Chronary/chronary-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/chronary/mcp/"
+    },
+    {
+      "detail": "read_messages",
+      "kind": "schema",
+      "server": "FlowCastle/telegram-bot-templates",
+      "url": "https://mcpbeat.com/mcp-servers/flowcastle/flowcastle/"
+    },
+    {
+      "detail": "create3DModel",
+      "kind": "schema",
+      "server": "Ludo-AI/ludo-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/ludo/game-assets/"
+    },
+    {
+      "detail": "get_dilution_coverage_list",
+      "kind": "schema",
+      "server": "signal8ai/signal8-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/signal8/mcp/"
+    },
+    {
+      "detail": "use",
+      "kind": "schema",
+      "server": "vaaya-ai/vaaya-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/vaaya/mcp/"
+    },
+    {
+      "detail": "get_roster",
+      "kind": "schema",
+      "server": "jdguggs10/flaim-fantasy",
+      "url": "https://mcpbeat.com/mcp-servers/flaim/mcp/"
+    },
+    {
+      "detail": "nfe_previsualizar",
+      "kind": "schema",
+      "server": "BrasilNFe/brasilnfe-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/com-brasilnfe/fiscal/"
+    },
+    {
+      "detail": "generate_site_analysis",
+      "kind": "schema",
+      "server": "azmartone67/dchub-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/dchub/mcp-server/"
+    },
+    {
+      "detail": "co_invent_begin_pass",
+      "kind": "schema",
+      "server": "Deadlypillow/a2a2p",
+      "url": "https://mcpbeat.com/mcp-servers/a2a2p/a2a2p/"
+    },
+    {
+      "detail": "get_data",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/county-map/"
+    },
+    {
+      "detail": "get_data",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/earthquakes/"
+    },
+    {
+      "detail": "get_data",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/floods/"
+    }
+  ],
+  "servers": {
+    "gone": 29,
+    "new": 1054
+  },
+  "source": "https://mcpbeat.com/data/2026-11-25/",
+  "tools": {
+    "added": 1900,
+    "removed": 1940,
+    "schema_changed": 4754
+  }
+}
