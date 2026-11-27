@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-26",
+  "findings": {
+    "fixed": 6656,
+    "high": 320,
+    "new": 7889
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "datanika-io/datanika-core",
+      "url": "https://mcpbeat.com/mcp-servers/datanika/datanika-mcp/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "paperclipai/paperclip",
+      "url": "https://mcpbeat.com/mcp-servers/incorporatedpartners/labelhead-artist-momentum/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "MaxFreedomPollard/Compartment",
+      "url": "https://mcpbeat.com/mcp-servers/maxfreedompollard/compartment/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "OpenAdaptAI/OpenAdapt",
+      "url": "https://mcpbeat.com/mcp-servers/openadaptai/openadapt-agent/"
+    },
+    {
+      "detail": "exec.pipe_to_shell",
+      "kind": "new_high",
+      "server": "anzy-renlab-ai/pronounce",
+      "url": "https://mcpbeat.com/mcp-servers/anzy-renlab-ai/pronounce/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "aovestdipaperino/tokensave",
+      "url": "https://mcpbeat.com/mcp-servers/aovestdipaperino/tokensave/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "asklokesh/loki-mode",
+      "url": "https://mcpbeat.com/mcp-servers/asklokesh/loki-mode/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "attenlabs/hotato",
+      "url": "https://mcpbeat.com/mcp-servers/attenlabs/hotato/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "coder/coder",
+      "url": "https://mcpbeat.com/mcp-servers/coder/coder/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "juyterman1000/entroly",
+      "url": "https://mcpbeat.com/mcp-servers/juyterman1000/entroly/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "keploy/keploy",
+      "url": "https://mcpbeat.com/mcp-servers/keploy/mcp/"
+    },
+    {
+      "detail": "list_org_events",
+      "kind": "schema",
+      "server": "Chronary/chronary-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/chronary/mcp/"
+    },
+    {
+      "detail": "publish_schema",
+      "kind": "schema",
+      "server": "TOT-Concept/mcp-server-entity-enricher",
+      "url": "https://mcpbeat.com/mcp-servers/entityenricher/enricher/"
+    },
+    {
+      "detail": "search_web_pages",
+      "kind": "schema",
+      "server": "keenableai/keenable-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/keenable/web-search/"
+    },
+    {
+      "detail": "get_transcripts",
+      "kind": "schema",
+      "server": "memoket/memoket-backend-go",
+      "url": "https://mcpbeat.com/mcp-servers/memoket/memoket/"
+    },
+    {
+      "detail": "get_top_pages",
+      "kind": "schema",
+      "server": "SEOcrawl/seocrawl-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/seocrawl/mcp/"
+    },
+    {
+      "detail": "create_test_outbound_mail",
+      "kind": "schema",
+      "server": "arbengine/mailbox-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/mailbox/mailbox/"
+    },
+    {
+      "detail": "nfe_previsualizar",
+      "kind": "schema",
+      "server": "BrasilNFe/brasilnfe-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/com-brasilnfe/fiscal/"
+    },
+    {
+      "detail": "hires_batch_publish_to_boards",
+      "kind": "schema",
+      "server": "100Hires/mcp",
+      "url": "https://mcpbeat.com/mcp-servers/100hires/100hires/"
+    },
+    {
+      "detail": "check_earnings",
+      "kind": "schema",
+      "server": "ee324/a2awire",
+      "url": "https://mcpbeat.com/mcp-servers/a2awire/a2awire/"
+    },
+    {
+      "detail": "export_agent_rules",
+      "kind": "schema",
+      "server": "api-evangelist/apievangelist-aws",
+      "url": "https://mcpbeat.com/mcp-servers/apievangelist/api-evangelist/"
+    },
+    {
+      "detail": "check_fast_flux",
+      "kind": "schema",
+      "server": "MadaBurns/bv-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/blackveilsecurity/dns/"
+    },
+    {
+      "detail": "get_tool_help",
+      "kind": "schema",
+      "server": "xyver/daedal-map",
+      "url": "https://mcpbeat.com/mcp-servers/daedalmap/county-map/"
+    }
+  ],
+  "servers": {
+    "gone": 25,
+    "new": 803
+  },
+  "source": "https://mcpbeat.com/data/2026-11-26/",
+  "tools": {
+    "added": 1354,
+    "removed": 323,
+    "schema_changed": 4295
+  }
+}
