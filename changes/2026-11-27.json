@@ -1,0 +1,165 @@
+{
+  "date": "2026-11-27",
+  "findings": {
+    "fixed": 6683,
+    "high": 143,
+    "new": 8527
+  },
+  "licence": "CC BY 4.0",
+  "notable": [
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "sunub/obsidian-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/smithery/sunub-obsidian-mcp-server/"
+    },
+    {
+      "detail": "obf.decode_exec",
+      "kind": "new_high",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "claim.local_only",
+      "kind": "new_high",
+      "server": "MaxFreedomPollard/Compartment",
+      "url": "https://mcpbeat.com/mcp-servers/maxfreedompollard/compartment/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "attenlabs/hotato",
+      "url": "https://mcpbeat.com/mcp-servers/attenlabs/hotato/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "keploy/keploy",
+      "url": "https://mcpbeat.com/mcp-servers/keploy/mcp/"
+    },
+    {
+      "detail": "priv.escalate",
+      "kind": "new_high",
+      "server": "mindstone/mcp-servers",
+      "url": "https://mcpbeat.com/mcp-servers/mindstone/mcp-server-microsoft-mail/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "raccioly/docguard",
+      "url": "https://mcpbeat.com/mcp-servers/raccioly/docguard/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "samvallad33/vestige",
+      "url": "https://mcpbeat.com/mcp-servers/samvallad33/vestige/"
+    },
+    {
+      "detail": "destroy.fs",
+      "kind": "new_high",
+      "server": "tenzro/tenzro-network",
+      "url": "https://mcpbeat.com/mcp-servers/tenzro/tenzro-solana/"
+    },
+    {
+      "detail": "exfil.cloud_meta",
+      "kind": "new_high",
+      "server": "daidaiJ/websearch-mcpserver",
+      "url": "https://mcpbeat.com/mcp-servers/daidaij/websearch-mcpserver/"
+    },
+    {
+      "detail": "claim.read_only",
+      "kind": "new_high",
+      "server": "ArtJack/verdict",
+      "url": "https://mcpbeat.com/mcp-servers/artjack/verdict/"
+    },
+    {
+      "detail": "supply.ci_secrets",
+      "kind": "new_high",
+      "server": "tourhabk-ui/pos",
+      "url": "https://mcpbeat.com/mcp-servers/vedarai/mcp/"
+    },
+    {
+      "detail": "create_calendar",
+      "kind": "schema",
+      "server": "Chronary/chronary-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/chronary/mcp/"
+    },
+    {
+      "detail": "create_website_project",
+      "kind": "schema",
+      "server": "SEOcrawl/seocrawl-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/seocrawl/mcp/"
+    },
+    {
+      "detail": "get_ssr_list",
+      "kind": "schema",
+      "server": "signal8ai/signal8-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/signal8/mcp/"
+    },
+    {
+      "detail": "realty_subscription_score",
+      "kind": "schema",
+      "server": "sallim-app/korea-realty",
+      "url": "https://mcpbeat.com/mcp-servers/sallim/korea-realty/"
+    },
+    {
+      "detail": "send_outbound_mail",
+      "kind": "schema",
+      "server": "arbengine/mailbox-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/mailbox/mailbox/"
+    },
+    {
+      "detail": "get_infra_projects",
+      "kind": "schema",
+      "server": "azmartone67/dchub-mcp-server",
+      "url": "https://mcpbeat.com/mcp-servers/dchub/mcp-server/"
+    },
+    {
+      "detail": "calculate_repo_haircut",
+      "kind": "schema",
+      "server": "PostOakLabs/ainumbers-mcp-apps",
+      "url": "https://mcpbeat.com/mcp-servers/ainumbers/tools/"
+    },
+    {
+      "detail": "benchmarks_search",
+      "kind": "schema",
+      "server": "ee324/a2awire",
+      "url": "https://mcpbeat.com/mcp-servers/a2awire/a2awire/"
+    },
+    {
+      "detail": "list_resources",
+      "kind": "schema",
+      "server": "bernardjhuang/agenttune",
+      "url": "https://mcpbeat.com/mcp-servers/agent-tune/agenttune/"
+    },
+    {
+      "detail": "check_rent_control",
+      "kind": "schema",
+      "server": "ykarmouta/faireplace-public-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/faireplace/public-tools/"
+    },
+    {
+      "detail": "frantic.post_bounty",
+      "kind": "schema",
+      "server": "gofrantic/frantic-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/gofrantic/frantic/"
+    },
+    {
+      "detail": "send_fax",
+      "kind": "schema",
+      "server": "vannet/gotfreefax-mcp",
+      "url": "https://mcpbeat.com/mcp-servers/gotfreefax/mcp/"
+    }
+  ],
+  "servers": {
+    "gone": 44,
+    "new": 1015
+  },
+  "source": "https://mcpbeat.com/data/2026-11-27/",
+  "tools": {
+    "added": 9286,
+    "removed": 1364,
+    "schema_changed": 4108
+  }
+}
